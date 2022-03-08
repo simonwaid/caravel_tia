@@ -1,0 +1,14 @@
+* SPICE3 file created from isource_cmirror.ext - technology: sky130A
+
+X0 m1_250_820# m1_n80_2060# m1_110_820# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u
+X1 m1_250_820# m1_n80_2060# m1_110_820# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u
+X2 li_0_30# m1_n80_2060# m1_250_820# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
+X3 li_0_30# m1_n80_2060# m1_250_820# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
+X4 m1_250_820# m1_n80_2060# li_0_30# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
+X5 li_0_30# m1_n80_2060# m1_250_820# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
+X6 li_0_30# m1_n80_2060# m1_250_820# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
+X7 m1_250_820# m1_n80_2060# li_0_30# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
+X8 li_0_30# m1_n80_2060# m1_250_820# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
+X9 li_0_30# m1_n80_2060# m1_250_820# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
+X10 m1_250_820# m1_n80_2060# li_0_30# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
+X11 m1_250_820# m1_n80_2060# li_0_30# li_0_30# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u

@@ -1,0 +1,68 @@
+magic
+tech sky130A
+timestamp 1646401284
+<< metal1 >>
+rect 70 1700 205 1735
+rect 70 1600 110 1700
+rect 165 1600 205 1700
+rect 265 1600 305 1735
+rect 95 1405 5760 1460
+<< metal2 >>
+rect 70 1590 140 1790
+rect 745 1590 815 1790
+rect 1420 1590 1490 1790
+rect 2095 1590 2165 1790
+rect 2770 1590 2840 1790
+rect 3445 1590 3515 1790
+rect 4120 1590 4190 1790
+rect 4795 1590 4865 1790
+rect 5470 1590 5540 1790
+<< metal3 >>
+rect 50 0 5675 170
+use mirror_p  mirror_p_0
+timestamp 1646401284
+transform 1 0 165 0 1 940
+box -160 -940 525 850
+use mirror_p  mirror_p_1
+timestamp 1646401284
+transform 1 0 840 0 1 940
+box -160 -940 525 850
+use mirror_p  mirror_p_2
+timestamp 1646401284
+transform 1 0 1515 0 1 940
+box -160 -940 525 850
+use mirror_p  mirror_p_3
+timestamp 1646401284
+transform 1 0 2190 0 1 940
+box -160 -940 525 850
+use mirror_p  mirror_p_4
+timestamp 1646401284
+transform 1 0 2865 0 1 940
+box -160 -940 525 850
+use mirror_p  mirror_p_6
+timestamp 1646401284
+transform 1 0 5565 0 1 940
+box -160 -940 525 850
+use mirror_p  mirror_p_7
+timestamp 1646401284
+transform 1 0 4890 0 1 940
+box -160 -940 525 850
+use mirror_p  mirror_p_8
+timestamp 1646401284
+transform 1 0 4215 0 1 940
+box -160 -940 525 850
+use mirror_p  mirror_p_9
+timestamp 1646401284
+transform 1 0 3540 0 1 940
+box -160 -940 525 850
+<< labels >>
+rlabel metal2 75 1720 135 1785 1 I_In
+rlabel metal2 750 1720 810 1785 1 I_out_0
+rlabel metal2 1425 1720 1485 1785 1 I_out_1
+rlabel metal2 2100 1720 2160 1785 1 I_out_2
+rlabel metal2 2775 1720 2835 1785 1 I_out_3
+rlabel metal2 3450 1720 3510 1785 1 I_out_4
+rlabel metal2 4125 1720 4185 1785 1 I_out_5
+rlabel metal2 4800 1720 4860 1785 1 I_out_6
+rlabel metal2 5475 1720 5535 1785 1 I_out_7
+<< end >>

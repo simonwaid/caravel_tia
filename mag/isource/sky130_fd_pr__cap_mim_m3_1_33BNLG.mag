@@ -1,0 +1,57 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1645531774
+<< metal3 >>
+rect -3150 6222 3149 6250
+rect -3150 78 3065 6222
+rect 3129 78 3149 6222
+rect -3150 50 3149 78
+rect -3150 -78 3149 -50
+rect -3150 -6222 3065 -78
+rect 3129 -6222 3149 -78
+rect -3150 -6250 3149 -6222
+<< via3 >>
+rect 3065 78 3129 6222
+rect 3065 -6222 3129 -78
+<< mimcap >>
+rect -3050 6110 2950 6150
+rect -3050 190 -3010 6110
+rect 2910 190 2950 6110
+rect -3050 150 2950 190
+rect -3050 -190 2950 -150
+rect -3050 -6110 -3010 -190
+rect 2910 -6110 2950 -190
+rect -3050 -6150 2950 -6110
+<< mimcapcontact >>
+rect -3010 190 2910 6110
+rect -3010 -6110 2910 -190
+<< metal4 >>
+rect -102 6111 2 6300
+rect 3018 6238 3122 6300
+rect 3018 6222 3145 6238
+rect -3011 6110 2911 6111
+rect -3011 190 -3010 6110
+rect 2910 190 2911 6110
+rect -3011 189 2911 190
+rect -102 -189 2 189
+rect 3018 78 3065 6222
+rect 3129 78 3145 6222
+rect 3018 62 3145 78
+rect 3018 -62 3122 62
+rect 3018 -78 3145 -62
+rect -3011 -190 2911 -189
+rect -3011 -6110 -3010 -190
+rect 2910 -6110 2911 -190
+rect -3011 -6111 2911 -6110
+rect -102 -6300 2 -6111
+rect 3018 -6222 3065 -78
+rect 3129 -6222 3145 -78
+rect 3018 -6238 3145 -6222
+rect 3018 -6300 3122 -6238
+<< properties >>
+string FIXED_BBOX -3150 50 3050 6250
+string gencell sky130_fd_pr__cap_mim_m3_1
+string library sky130
+string parameters w 30.0 l 30.0 val 1.822k carea 2.00 cperi 0.19 nx 1 ny 2 dummy 0 square 0 lmin 2.00 wmin 2.00 lmax 30.0 wmax 30.0 dc 0 bconnect 1 tconnect 1 ccov 100
+<< end >>

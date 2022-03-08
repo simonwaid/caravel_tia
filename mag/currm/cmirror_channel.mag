@@ -1,0 +1,276 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1646406885
+<< locali >>
+rect 2850 580 3170 3330
+<< metal1 >>
+rect 2160 410 19080 560
+rect 2270 -70 2340 130
+rect 2470 -70 2550 130
+rect 2660 -70 2740 130
+rect 2160 -140 2740 -70
+rect 4470 -400 4550 410
+rect 890 -610 960 -460
+rect 900 -990 950 -950
+rect -40 -1100 2840 -990
+rect -40 -1190 970 -1100
+rect 4090 -3150 16770 -3000
+rect 12900 -3900 13420 -3150
+rect 12890 -4310 12900 -3900
+rect 13420 -4310 13430 -3900
+<< via1 >>
+rect 12900 -4310 13420 -3900
+<< metal2 >>
+rect 1730 -40 2740 150
+rect 850 -720 990 -350
+rect 1730 -720 1830 -40
+rect 3930 -210 19240 150
+rect 2530 -720 2670 -350
+rect -130 -870 270 -860
+rect -130 -1280 270 -1270
+rect 4070 -3810 16950 -3410
+rect 12590 -3820 14200 -3810
+rect 12900 -3900 13420 -3890
+rect 12900 -4320 13420 -4310
+<< via2 >>
+rect -130 -1270 270 -870
+rect 12900 -4310 13420 -3900
+<< metal3 >>
+rect 1580 2990 19370 3330
+rect 3240 790 3490 1080
+rect 3240 -230 3480 790
+rect 4200 -230 4440 970
+rect 4590 -230 4830 970
+rect 5550 -230 5790 970
+rect 5940 -230 6180 970
+rect 6900 -230 7140 970
+rect 7290 -230 7530 970
+rect 8250 -230 8490 970
+rect 8640 -230 8880 970
+rect 9600 -230 9840 970
+rect 9990 -230 10230 970
+rect 10950 -230 11190 970
+rect 11340 -230 11580 970
+rect 12300 -230 12540 970
+rect 12690 -230 12930 970
+rect 13650 -230 13890 970
+rect 14040 -230 14280 970
+rect 15000 -230 15240 970
+rect 16350 -230 16590 970
+rect 16740 -230 16980 970
+rect 3240 -570 16980 -230
+rect -140 -870 280 -865
+rect -140 -1270 -130 -870
+rect 270 -1270 280 -870
+rect -140 -1275 280 -1270
+rect 700 -3650 3150 -3460
+rect 700 -3830 2440 -3650
+rect 2430 -4150 2440 -3830
+rect 3540 -4150 3550 -3650
+rect 7180 -3970 7420 -2580
+rect 7570 -3970 7810 -2580
+rect 8530 -3970 8770 -2580
+rect 8920 -3630 9160 -2580
+rect 8920 -3970 9140 -3630
+rect 7180 -4070 9140 -3970
+rect 9790 -3970 9800 -3630
+rect 10270 -3970 10510 -2580
+rect 11230 -3970 11470 -2580
+rect 9790 -4070 11470 -3970
+rect 7180 -4260 11470 -4070
+rect 12890 -3900 13430 -3895
+rect 12890 -4310 12900 -3900
+rect 13420 -4310 13430 -3900
+rect 14320 -3970 14560 -2580
+rect 15270 -2760 15510 -2580
+rect 15280 -3510 15510 -2760
+rect 15670 -3510 15910 -2580
+rect 15140 -3970 15150 -3510
+rect 14320 -4110 15150 -3970
+rect 16010 -3970 16020 -3510
+rect 16630 -3970 16870 -2580
+rect 16010 -4110 16870 -3970
+rect 14320 -4260 16870 -4110
+rect 12890 -4315 13430 -4310
+<< via3 >>
+rect -130 -1270 270 -870
+rect 2440 -4150 3540 -3650
+rect 9140 -4070 9790 -3630
+rect 12900 -4310 13420 -3900
+rect 15150 -4110 16010 -3510
+<< metal4 >>
+rect -140 -870 670 -860
+rect -140 -1270 -130 -870
+rect 270 -1270 670 -870
+rect -140 -1280 670 -1270
+rect 540 -4400 1290 -3070
+rect 15149 -3510 16011 -3509
+rect 9139 -3630 9791 -3629
+rect 2439 -3650 3541 -3649
+rect 2439 -4150 2440 -3650
+rect 3540 -4150 3541 -3650
+rect 9139 -4071 9140 -3630
+rect 2439 -4151 3541 -4150
+rect 9790 -4071 9791 -3630
+rect 12820 -3900 13920 -3890
+rect 12820 -4310 12900 -3900
+rect 13420 -4310 13920 -3900
+rect 15149 -4111 15150 -3510
+rect 16010 -4111 16011 -3510
+rect 12820 -4480 13920 -4310
+<< via4 >>
+rect 2440 -4150 3540 -3650
+rect 9140 -4070 9790 -3810
+rect 9140 -4250 9790 -4070
+rect 15150 -4110 16010 -3780
+rect 15150 -4220 16010 -4110
+<< metal5 >>
+rect 6540 -2750 7900 -1580
+rect 2310 -3650 3660 -3100
+rect 2310 -4150 2440 -3650
+rect 3540 -4150 3660 -3650
+rect 2310 -4710 3660 -4150
+rect 8800 -3810 10130 -3210
+rect 8800 -4250 9140 -3810
+rect 9790 -4250 10130 -3810
+rect 8800 -4520 10130 -4250
+rect 14790 -3740 16120 -3200
+rect 14790 -3780 16350 -3740
+rect 14790 -4220 15150 -3780
+rect 16010 -4220 16350 -3780
+rect 14790 -4570 16350 -4220
+use mirror_n  mirror_n_0
+timestamp 1646402185
+transform 1 0 1530 0 1 -3800
+box -30 -30 820 3450
+use mirror_n  mirror_n_1
+timestamp 1646402185
+transform 1 0 2370 0 1 -3800
+box -30 -30 820 3450
+use mirror_n  mirror_n_2
+timestamp 1646402185
+transform 1 0 690 0 1 -3800
+box -30 -30 820 3450
+use mirror_p  mirror_p_0
+timestamp 1646401284
+transform -1 0 2550 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_2
+timestamp 1646401284
+transform -1 0 4200 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_3
+timestamp 1646401284
+transform -1 0 8250 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_4
+timestamp 1646401284
+transform -1 0 6900 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_5
+timestamp 1646401284
+transform -1 0 5550 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_6
+timestamp 1646401284
+transform -1 0 15000 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_7
+timestamp 1646401284
+transform -1 0 13650 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_8
+timestamp 1646401284
+transform -1 0 12300 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_9
+timestamp 1646401284
+transform -1 0 10950 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_10
+timestamp 1646401284
+transform -1 0 4480 0 -1 -2110
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_11
+timestamp 1646401284
+transform -1 0 9600 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_12
+timestamp 1646401284
+transform -1 0 5830 0 -1 -2110
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_13
+timestamp 1646401284
+transform -1 0 7180 0 -1 -2110
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_14
+timestamp 1646401284
+transform -1 0 8530 0 -1 -2110
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_15
+timestamp 1646401284
+transform -1 0 9880 0 -1 -2110
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_16
+timestamp 1646401284
+transform -1 0 11230 0 -1 -2110
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_17
+timestamp 1646401284
+transform -1 0 12580 0 -1 -2110
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_18
+timestamp 1646401284
+transform -1 0 13930 0 -1 -2110
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_19
+timestamp 1646401284
+transform -1 0 15280 0 -1 -2110
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_20
+timestamp 1646401284
+transform -1 0 16630 0 -1 -2110
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_21
+timestamp 1646401284
+transform -1 0 19050 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_22
+timestamp 1646401284
+transform -1 0 16350 0 -1 1450
+box -320 -1880 1050 1700
+use mirror_p  mirror_p_23
+timestamp 1646401284
+transform -1 0 17700 0 -1 1450
+box -320 -1880 1050 1700
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_0
+timestamp 1646406276
+transform 0 1 10181 -1 0 -18
+box -3351 -3101 3373 3101
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_1
+timestamp 1646406276
+transform 0 1 16711 -1 0 -17
+box -3351 -3101 3373 3101
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_2
+timestamp 1646406276
+transform 0 -1 3651 1 0 -49
+box -3351 -3101 3373 3101
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_3
+timestamp 1646406276
+transform 0 1 3651 -1 0 -7727
+box -3351 -3101 3373 3101
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_4
+timestamp 1646406276
+transform 0 1 10181 -1 0 -7717
+box -3351 -3101 3373 3101
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_5
+timestamp 1646406276
+transform 0 1 16741 -1 0 -7697
+box -3351 -3101 3373 3101
+<< labels >>
+rlabel metal2 15800 -3790 15970 -3630 1 TIA_I_Bias1
+rlabel metal2 18160 -190 18330 -30 1 A_Out_I_Bias
+rlabel metal2 2540 -500 2660 -360 1 TIA_I_Bias2
+rlabel metal2 860 -470 980 -360 1 I_in_channel
+<< end >>

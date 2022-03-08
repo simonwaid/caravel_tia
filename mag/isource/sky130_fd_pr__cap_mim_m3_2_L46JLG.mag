@@ -1,0 +1,63 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1645531774
+<< error_p >>
+rect 2733 -6300 3029 6300
+rect 3053 271 3349 6251
+rect 3053 49 3373 271
+rect 3053 -271 3373 -49
+rect 3053 -6251 3349 -271
+<< metal4 >>
+rect -3351 6209 3351 6250
+rect -3351 91 3095 6209
+rect 3331 91 3351 6209
+rect -3351 50 3351 91
+rect -3351 -91 3351 -50
+rect -3351 -6209 3095 -91
+rect 3331 -6209 3351 -91
+rect -3351 -6250 3351 -6209
+<< via4 >>
+rect 3095 91 3331 6209
+rect 3095 -6209 3331 -91
+<< mimcap2 >>
+rect -3251 6110 2749 6150
+rect -3251 190 -3211 6110
+rect 2709 190 2749 6110
+rect -3251 150 2749 190
+rect -3251 -190 2749 -150
+rect -3251 -6110 -3211 -190
+rect 2709 -6110 2749 -190
+rect -3251 -6150 2749 -6110
+<< mimcap2contact >>
+rect -3211 190 2709 6110
+rect -3211 -6110 2709 -190
+<< metal5 >>
+rect -411 6134 -91 6300
+rect 2709 6134 3029 6300
+rect -3235 6110 3029 6134
+rect -3235 190 -3211 6110
+rect 2709 190 3029 6110
+rect -3235 166 3029 190
+rect -411 -166 -91 166
+rect 2709 -166 3029 166
+rect 3053 6209 3373 6251
+rect 3053 91 3095 6209
+rect 3331 91 3373 6209
+rect 3053 49 3373 91
+rect -3235 -190 3029 -166
+rect -3235 -6110 -3211 -190
+rect 2709 -6110 3029 -190
+rect -3235 -6134 3029 -6110
+rect -411 -6300 -91 -6134
+rect 2709 -6300 3029 -6134
+rect 3053 -91 3373 -49
+rect 3053 -6209 3095 -91
+rect 3331 -6209 3373 -91
+rect 3053 -6251 3373 -6209
+<< properties >>
+string FIXED_BBOX -3351 50 2849 6250
+string gencell sky130_fd_pr__cap_mim_m3_2
+string library sky130
+string parameters w 30 l 30 val 1.822k carea 2.00 cperi 0.19 nx 1 ny 2 dummy 0 square 0 lmin 2.00 wmin 2.00 lmax 30.0 wmax 30.0 dc 0 bconnect 1 tconnect 1 ccov 100
+<< end >>

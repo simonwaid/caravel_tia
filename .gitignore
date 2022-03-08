@@ -1,3 +1,7 @@
 precheck_results
 */tmp
 */*/tmp
+xschemrc
+*.ext
+comp.out
+

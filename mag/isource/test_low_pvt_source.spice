@@ -1,0 +1,99 @@
+** sch_path: /home/simon/code/asic/analog/test/test_low_pvt_source.sch
+**.subckt test_low_pvt_source
+V2 VDD GND 1.8
+V1 VDD V_iout 0
+xisource V_iout VDD GND isource_flat
+I0 V_iout V_iout 10u
+**** begin user architecture code
+
+
+*.options savecurrents
+.option warn=1
+.control
+set wr_vecnames
+set wr_singlescale
+set hcopydevtype=svg
+set ITL1=10000
+
+let min_temp=0
+let var_temp = min_temp
+let max_temp=100
+let temp_step=100
+
+option temp=20
+op
+write test_low_pvt_source.raw
+print var_temp i(v1)
+*  i(v.xisource.v1)
+run
+reset
+
+
+
+dowhile var_temp <= max_temp
+	option temp=$&var_temp
+	op
+	* wrdata 'result_{$&var_temp}deg.csv' v(V_vout)
+	let var_temp = var_temp + temp_step
+	run
+	echo 'Result will follow ...'
+	print var_temp  i(v1)
+	* i(v.xisource.v1)
+	if i(v.xisource.v1) > 1e-6
+		echo 'Large current'
+		write 'result_op_{$&var_temp}deg.raw'
+	end
+	*tran 100n 100u
+	*MEAS tran isource AVG i(v.xisource.v1) from=50u to=100u
+	reset
+end
+
+* reset
+* option temp=0
+* op
+* run
+* print v(v_vout) i(v1)
+* let var_vout_0deg=v(v_vout)
+* reset
+* option temp=100
+* op
+* run
+* print v(v_vout) i(v1)
+* let var_vout_100deg=v(v_vout)
+
+* print var_vout_100deg-var_vout_0deg
+
+* tran 100n 100u
+* plot i(v.xisource.v1)
+* MEAS tran isource AVG i(v.xisource.v1) from=50u to=100u
+* noise i(v1) I0 dec 1000 10 100G
+* print all
+* wrdata result_noise.csv inoise_total onoise_total
+* setplot noise1
+* plot onoise_spectrum
+* noise i(v1) I0 dec 1000 2MEG 2G
+* print all
+* wrdata result_noise.csv inoise_total onoise_total
+* setplot noise3
+* plot onoise_spectrum
+
+
+.endc
+
+
+
+
+* .include ../../tia.spice
+* .include ../../filter_diff.spice
+* .include ../../cmm_sense3.spice
+
+.include pex_isource.spice
+
+
+
+* .lib /usr/local/share/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice hl
+.lib /usr/local/share/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice.tt.red tt
+* .lib /home/simon/share/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice.tt.red tt
+
+**** end user architecture code
+**.ends

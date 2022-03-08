@@ -1,0 +1,24 @@
+magic
+tech sky130A
+timestamp 1646406885
+use cmirror_channel  cmirror_channel_0 ~/code/asic/layout/currm
+timestamp 1646406885
+transform 1 0 -230 0 1 5550
+box -70 -5550 9921 1667
+use eigth_mirror  eigth_mirror_0 ~/code/asic/layout/currm
+timestamp 1646401284
+transform -1 0 -310 0 -1 7190
+box 5 0 6090 1790
+use isource  isource_0 ~/code/asic/layout/isource
+timestamp 1646406885
+transform 1 0 -17960 0 1 -785
+box -140 -2415 11560 7960
+use outd  outd_0 ~/code/asic/layout/outd
+timestamp 1646406885
+transform 1 0 16580 0 1 -7970
+box -15080 -30 28520 7612
+use tia_core  tia_core_0 ~/code/asic/layout/tia
+timestamp 1646406885
+transform 1 0 -4570 0 1 -1560
+box -930 -5840 5865 1395
+<< end >>

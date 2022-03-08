@@ -1,0 +1,35 @@
+v {xschem version=3.0.0 file_version=1.2}
+K {type=subcircuit
+format="@name @pinlist @symname"
+template="name=x1"
+}
+T {@symname} -90 -6 0 0 0.3 0.3 {}
+T {@name} 135 -62 0 0 0.2 0.2 {}
+L 4 -130 -50 130 -50 {}
+L 4 -130 50 130 50 {}
+L 4 -130 -50 -130 50 {}
+L 4 130 -50 130 50 {}
+B 5 147.5 -42.5 152.5 -37.5 {name=VP dir=inout }
+L 7 130 -40 150 -40 {}
+T {VP} 125 -44 0 1 0.2 0.2 {}
+B 5 -152.5 -42.5 -147.5 -37.5 {name=I_Bias2 dir=in }
+L 4 -150 -40 -130 -40 {}
+T {I_Bias2} -125 -44 0 0 0.2 0.2 {}
+B 5 147.5 -22.5 152.5 -17.5 {name=FB_Out dir=out }
+L 4 130 -20 150 -20 {}
+T {FB_Out} 125 -24 0 1 0.2 0.2 {}
+B 5 -152.5 -22.5 -147.5 -17.5 {name=Disable_FB dir=in }
+L 4 -150 -20 -130 -20 {}
+T {Disable_FB} -125 -24 0 0 0.2 0.2 {}
+B 5 -152.5 -2.5 -147.5 2.5 {name=In_Ref dir=in }
+L 4 -150 0 -130 0 {}
+T {In_Ref} -125 -4 0 0 0.2 0.2 {}
+B 5 -152.5 17.5 -147.5 22.5 {name=In dir=in }
+L 4 -150 20 -130 20 {}
+T {In} -125 16 0 0 0.2 0.2 {}
+B 5 -152.5 37.5 -147.5 42.5 {name=Enable_Push_Pull_FB dir=in }
+L 4 -150 40 -130 40 {}
+T {Enable_Push_Pull_FB} -125 36 0 0 0.2 0.2 {}
+B 5 147.5 -2.5 152.5 2.5 {name=VN dir=inout }
+L 7 130 0 150 0 {}
+T {VN} 125 -4 0 1 0.2 0.2 {}

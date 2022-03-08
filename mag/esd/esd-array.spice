@@ -1,0 +1,22 @@
+* SPICE3 file created from esd-array.ext - technology: sky130A
+
+D0 a_n1904_676# w_n4702_538# sky130_fd_pr__diode_pd2nw_05v5 pj=4e+06u area=1e+12p
+D1 a_n1372_676# w_n4702_538# sky130_fd_pr__diode_pd2nw_05v5 pj=4e+06u area=1e+12p
+D2 a_n2436_676# w_n4702_538# sky130_fd_pr__diode_pd2nw_05v5 pj=4e+06u area=1e+12p
+D3 a_n2968_676# w_n4702_538# sky130_fd_pr__diode_pd2nw_05v5 pj=4e+06u area=1e+12p
+D4 a_224_676# w_n4702_538# sky130_fd_pr__diode_pd2nw_05v5 pj=4e+06u area=1e+12p
+D5 a_n840_676# w_n4702_538# sky130_fd_pr__diode_pd2nw_05v5 pj=4e+06u area=1e+12p
+D6 a_n4564_676# w_n4702_538# sky130_fd_pr__diode_pd2nw_05v5 pj=4e+06u area=1e+12p
+D7 a_n308_676# w_n4702_538# sky130_fd_pr__diode_pd2nw_05v5 pj=4e+06u area=1e+12p
+D8 a_n3500_676# w_n4702_538# sky130_fd_pr__diode_pd2nw_05v5 pj=4e+06u area=1e+12p
+D9 a_n4032_676# w_n4702_538# sky130_fd_pr__diode_pd2nw_05v5 pj=4e+06u area=1e+12p
+D10 w_n4840_400# a_n1902_58# sky130_fd_pr__diode_pw2nd_05v5 pj=4e+06u area=1e+12p
+D11 w_n4840_400# a_n1370_58# sky130_fd_pr__diode_pw2nd_05v5 pj=4e+06u area=1e+12p
+D12 w_n4840_400# a_n2434_58# sky130_fd_pr__diode_pw2nd_05v5 pj=4e+06u area=1e+12p
+D13 w_n4840_400# a_n2966_58# sky130_fd_pr__diode_pw2nd_05v5 pj=4e+06u area=1e+12p
+D14 w_n4840_400# a_226_58# sky130_fd_pr__diode_pw2nd_05v5 pj=4e+06u area=1e+12p
+D15 w_n4840_400# a_n838_58# sky130_fd_pr__diode_pw2nd_05v5 pj=4e+06u area=1e+12p
+D16 w_n4840_400# a_n4562_58# sky130_fd_pr__diode_pw2nd_05v5 pj=4e+06u area=1e+12p
+D17 w_n4840_400# a_n306_58# sky130_fd_pr__diode_pw2nd_05v5 pj=4e+06u area=1e+12p
+D18 w_n4840_400# a_n3498_58# sky130_fd_pr__diode_pw2nd_05v5 pj=4e+06u area=1e+12p
+D19 w_n4840_400# a_n4030_58# sky130_fd_pr__diode_pw2nd_05v5 pj=4e+06u area=1e+12p
