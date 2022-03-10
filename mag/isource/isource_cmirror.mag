@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1645630008
+timestamp 1646921651
 << locali >>
 rect 0 2200 2040 2280
 rect 0 60 60 2200
@@ -114,12 +114,12 @@ rect 1400 220 1840 420
 rect 820 210 880 220
 rect 1340 210 1400 220
 rect 1840 210 1920 220
-use sky130_fd_pr__pfet_01v8_ACY9XJ  sky130_fd_pr__pfet_01v8_ACY9XJ_0
-timestamp 1645630008
+use sky130_fd_pr__pfet_01v8_ACY9XJ#0  sky130_fd_pr__pfet_01v8_ACY9XJ_0
+timestamp 1646921651
 transform 1 0 216 0 1 1137
 box -216 -1137 216 1137
-use sky130_fd_pr__pfet_01v8_J24RLQ  sky130_fd_pr__pfet_01v8_J24RLQ_0
-timestamp 1645630008
+use sky130_fd_pr__pfet_01v8_J24RLQ#0  sky130_fd_pr__pfet_01v8_J24RLQ_0
+timestamp 1646921651
 transform 1 0 1232 0 1 1137
 box -812 -1137 812 1137
 << end >>

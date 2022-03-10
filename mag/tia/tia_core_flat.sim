@@ -1,0 +1,744 @@
+| units: 500000 tech: sky130A format: MIT
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=1222 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=438 y=678 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=830 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=144 y=60 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-933 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Input Out_2 Input l=40 w=400 x=3804 y=358 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=390 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=102 y=-9255 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=2726 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=2040 y=-4924 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=536 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-953 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-185 y=-9873 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=-639 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=1158 y=-11109 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=774 y=-9873 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=732 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-1031 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=2922 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=732 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=198 y=-9255 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=3020 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-835 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-281 y=-4039 sky130_fd_pr__nfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=1746 y=1509 sky130_fd_pr__pfet_01v8
+x I_Bias1 Out_1 VM5D VN l=30 w=400 x=2336 y=-1419 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=1124 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=870 y=-4039 sky130_fd_pr__nfet_01v8
+x VN Out_2 VPP VPP l=100 w=400 x=3102 y=1493 sky130_fd_pr__pfet_01v8
+x Out_1 Input Out_2 Input l=40 w=400 x=2628 y=358 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=1062 y=-10491 sky130_fd_pr__nfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=962 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-665 y=-9873 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=46 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=-737 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-1145 y=-9873 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=1158 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=678 y=-9255 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-345 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-149 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-761 y=-4039 sky130_fd_pr__nfet_01v8
+x I_Bias1 a_1602_n8490# a_n1188_n8454# VN l=30 w=400 x=2048 y=-8489 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=1026 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Input VPP Out_1 VPP l=40 w=400 x=144 y=2145 sky130_fd_pr__pfet_01v8
+x Out_1 Out_2 Input Input l=40 w=400 x=2922 y=358 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=242 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-345 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=3706 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=6 y=-10491 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-569 y=-9255 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=1222 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=-149 y=1509 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=6 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-1049 y=-9255 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=390 y=-9873 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-541 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=1648 y=-4924 sky130_fd_pr__pfet_01v8
+x VPP VN l=6000 w=6000 x=5624 y=-11408 sky130_fd_pr__cap_mim_m3_2
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=3902 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=144 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-247 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=1452 y=2145 sky130_fd_pr__pfet_01v8
+x I_Bias1 a_n1188_n8454# a_1602_n8490# VN l=30 w=400 x=2528 y=-8489 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-89 y=-4039 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=1844 y=-4924 sky130_fd_pr__pfet_01v8
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=2628 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=340 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-443 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VM6D VN VN l=200 w=400 x=4330 y=-9309 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-51 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VM5D Out_1 VN l=30 w=400 x=1856 y=-1419 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=1124 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-281 y=-9873 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=870 y=-9873 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=2824 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 a_1602_n8490# VN VN l=200 w=400 x=2950 y=-9309 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-639 y=-4924 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=928 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=294 y=-9255 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-1031 y=-4924 sky130_fd_pr__pfet_01v8
+x I_Bias1 VM5D Out_1 VN l=30 w=400 x=2432 y=-1419 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=582 y=-11109 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-835 y=-4924 sky130_fd_pr__pfet_01v8
+x Out_1 Input Out_2 Input l=40 w=400 x=3412 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-1129 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-835 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-761 y=-9873 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=1158 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA Disable_TIA_B VPP VPP l=200 w=100 x=6376 y=-10310 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-185 y=-9255 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=864 y=1509 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=1060 y=-5560 sky130_fd_pr__pfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=-541 y=1509 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=1026 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Input Out_2 Input l=40 w=400 x=3020 y=358 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=774 y=-9255 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=242 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-247 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=830 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=102 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-473 y=-11109 sky130_fd_pr__nfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=-639 y=1509 sky130_fd_pr__pfet_01v8
+x VN Out_2 VPP VPP l=100 w=400 x=3734 y=1493 sky130_fd_pr__pfet_01v8
+x I_Bias1 a_n1188_n8454# a_1602_n8490# VN l=30 w=400 x=2144 y=-8489 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=2040 y=1509 sky130_fd_pr__pfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=3118 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=1062 y=-2185 sky130_fd_pr__nfet_01v8
+x I_Bias1 VN a_1602_n8490# VN l=200 w=400 x=1660 y=-9309 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=1026 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input VPP Out_1 VPP l=40 w=400 x=1942 y=2145 sky130_fd_pr__pfet_01v8
+x Out_1 Out_2 Input Input l=40 w=400 x=2726 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=6 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=198 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-89 y=-9873 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-665 y=-9255 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=144 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=486 y=-11109 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=3314 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-247 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-1145 y=-9255 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=340 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 a_1602_n8490# a_n1188_n8454# VN l=30 w=400 x=2624 y=-8489 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=3510 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-51 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-443 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-1145 y=-11109 sky130_fd_pr__nfet_01v8
+x I_Bias1 VN VM5D VN l=200 w=400 x=2176 y=-2239 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=390 y=-10491 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=1746 y=-5560 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=766 y=-4924 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=1354 y=1509 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=678 y=-3421 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=536 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-639 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 Out_1 VM5D VN l=30 w=400 x=1952 y=-1419 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-377 y=-11109 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=-247 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=-149 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-1031 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=1942 y=-5560 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=962 y=-4924 sky130_fd_pr__pfet_01v8
+x Out_1 Out_2 Input Input l=40 w=400 x=3902 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=486 y=-2185 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=732 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-835 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=668 y=2145 sky130_fd_pr__pfet_01v8
+x Out_1 Out_2 Input Input l=40 w=400 x=3314 y=358 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VM6D I_Bias1 VN l=30 w=400 x=4328 y=-8489 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=-345 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=390 y=-9255 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-1129 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=242 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-953 y=-11109 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-345 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-569 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-281 y=-10491 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-737 y=-5560 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=732 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-1049 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-89 y=-10491 sky130_fd_pr__nfet_01v8
+x VN Out_2 VPP VPP l=100 w=400 x=2786 y=1493 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-541 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=-541 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 a_1602_n8490# a_n1188_n8454# VN l=30 w=400 x=1664 y=-8489 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-377 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-1049 y=-11109 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=102 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=966 y=-11109 sky130_fd_pr__nfet_01v8
+x VN a_2412_n5577# VPP VPP l=100 w=400 x=2470 y=-5576 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-933 y=-5560 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=242 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=966 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=294 y=-10491 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-281 y=-9255 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=870 y=-9255 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=198 y=-2803 sky130_fd_pr__nfet_01v8
+x I_Bias1 a_1602_n8490# a_n1188_n8454# VN l=30 w=400 x=2240 y=-8489 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=1060 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=870 y=-10491 sky130_fd_pr__nfet_01v8
+x VN I_Bias1 l=2400 w=3000 x=1730 y=-4489 sky130_fd_pr__cap_mim_m3_1
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-857 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-857 y=-11109 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=46 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=294 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-185 y=-10491 sky130_fd_pr__nfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=1158 y=2145 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=928 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=3216 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-761 y=-9255 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=1844 y=1509 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=-1031 y=1509 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=-51 y=60 sky130_fd_pr__nfet_01v8_lvt
+x VN a_2412_n5577# VPP VPP l=100 w=400 x=3418 y=-5576 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=1158 y=-4924 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=1222 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Input Out_2 Input l=40 w=400 x=3608 y=358 sky130_fd_pr__nfet_01v8_lvt
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=3412 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=678 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-761 y=-10491 sky130_fd_pr__nfet_01v8
+x I_Bias1 a_n1188_n8454# a_1602_n8490# VN l=30 w=400 x=2720 y=-8489 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=1062 y=-4039 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=-1129 y=1509 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=198 y=-10491 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=46 y=-5560 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-185 y=-3421 sky130_fd_pr__nfet_01v8
+x I_Bias1 I_Bias1 VM6D VN l=30 w=400 x=3848 y=-8489 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=668 y=-5560 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=1354 y=-4924 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=-835 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=774 y=-3421 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-1129 y=678 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VN VM6D VN l=200 w=400 x=4588 y=-9309 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=1124 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-835 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-51 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-443 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Input Out_2 Input l=40 w=400 x=3020 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA Disable_TIA_B VN VN l=200 w=100 x=6376 y=-10869 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=774 y=-10491 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-89 y=-9255 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=864 y=-5560 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=1550 y=-4924 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=536 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-51 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-569 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=582 y=-2185 sky130_fd_pr__nfet_01v8
+x VN VPP a_2412_n5577# VPP l=100 w=400 x=2944 y=-5576 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-149 y=-4924 sky130_fd_pr__pfet_01v8
+x Out_1 Out_2 Input Input l=40 w=400 x=3902 y=358 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Out_2 Input Input l=40 w=400 x=3118 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=242 y=2145 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-933 y=60 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 I_Bias1 VM6D VN l=30 w=400 x=4424 y=-8489 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=438 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-1049 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-665 y=-3421 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=2530 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x VN VPP a_2412_n5577# VPP l=100 w=400 x=3576 y=-5576 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=242 y=-4924 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-149 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=732 y=60 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-345 y=-4924 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=-247 y=1509 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=634 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-1145 y=-3421 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-737 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-665 y=-10491 sky130_fd_pr__nfet_01v8
+x I_Bias1 a_n1188_n8454# a_1602_n8490# VN l=30 w=400 x=1760 y=-8489 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=486 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-473 y=-2185 sky130_fd_pr__nfet_01v8
+x I_Bias1 VM5D VN VN l=200 w=400 x=1918 y=-2239 sky130_fd_pr__nfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=1550 y=2145 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=830 y=678 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-541 y=-4924 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=830 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-933 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=536 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=1648 y=2145 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-639 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Out_2 Input Input l=40 w=400 x=2726 y=358 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=294 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=678 y=-10491 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-1031 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-377 y=-4039 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=732 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-835 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=966 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-953 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=390 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA I_Bias1 VN VN l=30 w=400 x=5510 y=-9309 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=1062 y=-9873 sky130_fd_pr__nfet_01v8
+x VN I_Bias1 l=2400 w=3000 x=1740 y=-11579 sky130_fd_pr__cap_mim_m3_1
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=1062 y=-11109 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-185 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-569 y=-10491 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-933 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Out_2 Input Input l=40 w=400 x=3510 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=774 y=-2803 sky130_fd_pr__nfet_01v8
+x I_Bias1 I_Bias1 VM6D VN l=30 w=400 x=4040 y=-8489 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=3020 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-857 y=-4039 sky130_fd_pr__nfet_01v8
+x Out_1 Input Out_2 Input l=40 w=400 x=3608 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-281 y=-3421 sky130_fd_pr__nfet_01v8
+x I_Bias1 VM6D I_Bias1 VN l=30 w=400 x=3944 y=-8489 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=1256 y=-5560 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=870 y=-3421 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=46 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Input VPP Out_1 VPP l=40 w=400 x=962 y=1509 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-149 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=340 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=-737 y=1509 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=1452 y=-5560 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=438 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-665 y=-2803 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=242 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-345 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VM6D I_Bias1 VN l=30 w=400 x=4520 y=-8489 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=1026 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=928 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-1145 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=486 y=-9873 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=6 y=-11109 sky130_fd_pr__nfet_01v8
+x Out_1 Input Out_2 Input l=40 w=400 x=2824 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-761 y=-3421 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=144 y=-5560 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=144 y=1509 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-247 y=-5560 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=46 y=60 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-541 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=1222 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VM5D Out_1 VN l=30 w=400 x=2048 y=-1419 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=46 y=2145 sky130_fd_pr__pfet_01v8
+x I_Bias1 VN VM5D VN l=200 w=400 x=2692 y=-2239 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=536 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=582 y=-4039 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=3706 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-639 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x VN Out_2 VPP VPP l=100 w=400 x=3418 y=1493 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-51 y=-5560 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-443 y=-5560 sky130_fd_pr__pfet_01v8
+x VN VPP Out_2 VPP l=100 w=400 x=2944 y=1493 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-377 y=-9873 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-1031 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=966 y=-9873 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=1124 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=732 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=1452 y=1509 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-835 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=3902 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=390 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-89 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-473 y=-4039 sky130_fd_pr__nfet_01v8
+x I_Bias1 Out_1 VM5D VN l=30 w=400 x=2528 y=-1419 sky130_fd_pr__nfet_01v8
+x I_Bias1 VM6D I_Bias1 VN l=30 w=400 x=3560 y=-8489 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=928 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=2628 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x Input VPP Out_1 VPP l=40 w=400 x=766 y=2145 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=-443 y=2145 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=438 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-1129 y=-5560 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-857 y=-9873 sky130_fd_pr__nfet_01v8
+x I_Bias1 VM5D VN VN l=200 w=400 x=2434 y=-2239 sky130_fd_pr__nfet_01v8
+x VN VPP Out_2 VPP l=100 w=400 x=3260 y=1493 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=-51 y=2145 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=830 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-281 y=-2803 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=2824 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=634 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=-149 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=-737 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=870 y=-2803 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=1124 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-835 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-953 y=-4039 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=928 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=830 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=634 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=-933 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=1158 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=1062 y=-9255 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=1060 y=-4924 sky130_fd_pr__pfet_01v8
+x Out_1 Out_2 Input Input l=40 w=400 x=3118 y=358 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-761 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=582 y=-9873 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=1256 y=2145 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-345 y=678 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=144 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Input VPP Out_1 VPP l=40 w=400 x=1942 y=1509 sky130_fd_pr__pfet_01v8
+x I_Bias1 Out_1 VM5D VN l=30 w=400 x=2144 y=-1419 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=6 y=-2185 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-247 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VN a_1602_n8490# VN l=200 w=400 x=2176 y=-9309 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=3608 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x VPP VN l=6000 w=6000 x=5624 y=-4098 sky130_fd_pr__cap_mim_m3_2
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=1124 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Input Out_2 Input l=40 w=400 x=3412 y=358 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=390 y=-11109 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-473 y=-9873 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=340 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-1031 y=60 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-51 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-443 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-89 y=-2803 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=3804 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=-933 y=2145 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=46 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-149 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=102 y=-10491 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=486 y=-9255 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-541 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VM5D Out_1 VN l=30 w=400 x=2624 y=-1419 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=242 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=1746 y=-4924 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-345 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-639 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Input Out_2 Input l=40 w=400 x=3216 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=340 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-281 y=-11109 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=1026 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=-541 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-953 y=-9873 sky130_fd_pr__nfet_01v8
+x VN a_2412_n5577# VPP VPP l=100 w=400 x=3102 y=-5576 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=1942 y=-4924 sky130_fd_pr__pfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=2726 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-1129 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-89 y=-11109 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-541 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VM6D VN VN l=200 w=400 x=4846 y=-9309 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-377 y=-9255 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=668 y=1509 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=2040 y=-5560 sky130_fd_pr__pfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=-345 y=1509 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=340 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=1222 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=966 y=-9255 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=294 y=-11109 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=2922 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-737 y=-4924 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=-639 y=678 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 a_n1188_n8454# a_1602_n8490# VN l=30 w=400 x=2336 y=-8489 sky130_fd_pr__nfet_01v8
+x VN VPP Out_2 VPP l=100 w=400 x=3892 y=1493 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=1746 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=102 y=-2185 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-933 y=-4924 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=1158 y=-10491 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=870 y=-11109 sky130_fd_pr__nfet_01v8
+x Out_1 Out_2 Input Input l=40 w=400 x=3706 y=358 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VM5D Out_1 VN l=30 w=400 x=1664 y=-1419 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-857 y=-9255 sky130_fd_pr__nfet_01v8
+x Out_1 Out_2 Input Input l=40 w=400 x=2530 y=358 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=928 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-185 y=-11109 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=198 y=-2185 sky130_fd_pr__nfet_01v8
+x VN VPP a_2412_n5577# VPP l=100 w=400 x=3260 y=-5576 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=1158 y=-4039 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=1060 y=1509 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-933 y=678 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VN VM6D VN l=200 w=400 x=3556 y=-9309 sky130_fd_pr__nfet_01v8
+x I_Bias1 VM5D Out_1 VN l=30 w=400 x=2240 y=-1419 sky130_fd_pr__nfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=1158 y=1509 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=634 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-761 y=-11109 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=198 y=-11109 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-149 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=3216 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Out_2 Input Input l=40 w=400 x=3706 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=678 y=-2185 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=242 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=-149 y=2145 sky130_fd_pr__pfet_01v8
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=3412 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-345 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=6 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=1062 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=774 y=-11109 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=582 y=-9255 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VN l=400 w=1000 x=2613 y=-10921 sky130_fd_pr__cap_var_lvt
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=46 y=-4924 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=668 y=-4924 sky130_fd_pr__pfet_01v8
+x I_Bias1 Out_1 VM5D VN l=30 w=400 x=2720 y=-1419 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=1648 y=-5560 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=-835 y=1509 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=438 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=-737 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=536 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-541 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 a_1602_n8490# a_n1188_n8454# VN l=30 w=400 x=1856 y=-8489 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-569 y=-2185 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=1844 y=-5560 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=864 y=-4924 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=536 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Out_2 Input Input l=40 w=400 x=2922 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=634 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Input Out_2 Input l=40 w=400 x=2824 y=358 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-473 y=-9255 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-737 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=242 y=1509 sky130_fd_pr__pfet_01v8
+x I_Bias1 a_1602_n8490# VN VN l=200 w=400 x=1918 y=-9309 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-1049 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-665 y=-11109 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=144 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-247 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=830 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-1031 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x VN a_2412_n5577# VPP VPP l=100 w=400 x=3734 y=-5576 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-639 y=-5560 sky130_fd_pr__pfet_01v8
+x I_Bias1 a_1602_n8490# a_n1188_n8454# VN l=30 w=400 x=2432 y=-8489 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-933 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=2530 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=340 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VN l=400 w=1000 x=3533 y=-10921 sky130_fd_pr__cap_var_lvt
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-1031 y=-5560 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-1129 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-443 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-51 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=928 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=928 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=678 y=-11109 sky130_fd_pr__nfet_01v8
+x Disable_TIA VN I_Bias1 VN l=30 w=400 x=5606 y=-9309 sky130_fd_pr__nfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=1550 y=1509 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=486 y=-3421 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-835 y=-5560 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=1158 y=-9873 sky130_fd_pr__nfet_01v8
+x I_Bias1 Out_1 VM5D VN l=30 w=400 x=1760 y=-1419 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-953 y=-9255 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=1648 y=1509 sky130_fd_pr__pfet_01v8
+x I_Bias1 VM5D VN VN l=200 w=400 x=2950 y=-2239 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=1026 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=294 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VN l=400 w=1000 x=1693 y=-10921 sky130_fd_pr__cap_var_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=864 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=582 y=-10491 sky130_fd_pr__nfet_01v8
+x I_Bias1 VM6D I_Bias1 VN l=30 w=400 x=4136 y=-8489 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=-541 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=102 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-377 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-569 y=-11109 sky130_fd_pr__nfet_01v8
+x VN VPP Out_2 VPP l=100 w=400 x=2628 y=1493 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-1129 y=-1383 sky130_fd_pr__nfet_01v8_lvt
+x Input VPP Out_1 VPP l=40 w=400 x=-639 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=966 y=-3421 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=3118 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=6 y=-9873 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=2040 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VN l=400 w=1000 x=4453 y=-10921 sky130_fd_pr__cap_var_lvt
+x VN VPP a_2412_n5577# VPP l=100 w=400 x=3892 y=-5576 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=1222 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-247 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=198 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-185 y=-2185 sky130_fd_pr__nfet_01v8
+x VPP m4_n1346_n2030# l=3600 w=5000 x=-1245 y=-1929 sky130_fd_pr__cap_mim_m3_2
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=46 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=1062 y=-2803 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=-443 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=774 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-473 y=-10491 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=3314 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 I_Bias1 VM6D VN l=30 w=400 x=4616 y=-8489 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=242 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-857 y=-3421 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=1256 y=-4924 sky130_fd_pr__pfet_01v8
+x a_n1188_n8454# a_2412_n5577# w_2300_n7574# w_2300_n7574# l=40 w=400 x=3510 y=-7329 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VN VM6D VN l=200 w=400 x=4072 y=-9309 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=1026 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VN VM5D VN l=200 w=400 x=1660 y=-2239 sky130_fd_pr__nfet_01v8
+x VN Out_2 VPP VPP l=100 w=400 x=2470 y=1493 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=486 y=-10491 sky130_fd_pr__nfet_01v8
+x I_Bias1 a_n1188_n8454# a_1602_n8490# VN l=30 w=400 x=1952 y=-8489 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=678 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-665 y=-2185 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=766 y=-5560 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=1452 y=-4924 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=1354 y=2145 sky130_fd_pr__pfet_01v8
+x I_Bias1 VN a_1602_n8490# VN l=200 w=400 x=2692 y=-9309 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=1222 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-1145 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VN l=400 w=1000 x=5373 y=-10921 sky130_fd_pr__cap_var_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-1145 y=-10491 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=962 y=-5560 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=144 y=-4924 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-247 y=-4924 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=486 y=-2803 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=536 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-377 y=-10491 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-639 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-569 y=-4039 sky130_fd_pr__nfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=46 y=1509 sky130_fd_pr__pfet_01v8
+x I_Bias1 I_Bias1 VM6D VN l=30 w=400 x=3656 y=-8489 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=582 y=-3421 sky130_fd_pr__nfet_01v8
+x Disable_TIA I_Bias1 VN VN l=30 w=400 x=5702 y=-9309 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-1031 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-1049 y=-4039 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-51 y=-4924 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=-443 y=-4924 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=732 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=-1129 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=102 y=-9873 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-835 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=438 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=1222 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-953 y=-10491 sky130_fd_pr__nfet_01v8
+x I_Bias1 a_1602_n8490# VN VN l=200 w=400 x=2434 y=-9309 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-377 y=-2803 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=390 y=-2185 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-149 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=-737 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Out_2 Input Input l=40 w=400 x=3314 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA VN I_Bias1 VN l=30 w=400 x=5798 y=-9309 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=966 y=-2803 sky130_fd_pr__nfet_01v8
+x I_Bias1 I_Bias1 VM6D VN l=30 w=400 x=4232 y=-8489 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=198 y=-9873 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=634 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-473 y=-3421 sky130_fd_pr__nfet_01v8
+x VPP m4_n1346_n9100# l=3600 w=5000 x=-1245 y=-8999 sky130_fd_pr__cap_mim_m3_2
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-737 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Input VPP Out_1 VPP l=40 w=400 x=766 y=1509 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=-443 y=1509 sky130_fd_pr__pfet_01v8
+x Out_1 Input Out_2 Input l=40 w=400 x=3216 y=358 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-1049 y=-10491 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-1129 y=-4924 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=-639 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=966 y=-10491 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=144 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=830 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Input VPP Out_1 VPP l=40 w=400 x=-51 y=1509 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=1158 y=-9255 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-933 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x VN VPP a_2412_n5577# VPP l=100 w=400 x=2628 y=-5576 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=294 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-281 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-857 y=-2803 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=438 y=60 sky130_fd_pr__nfet_01v8_lvt
+x Out_1 Out_2 Input Input l=40 w=400 x=2530 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=870 y=-2185 sky130_fd_pr__nfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=-443 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=1844 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=678 y=-9873 sky130_fd_pr__nfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=-1031 y=2145 sky130_fd_pr__pfet_01v8
+x Out_1 Input Out_2 Input l=40 w=400 x=2628 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-953 y=-3421 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=1158 y=-5560 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=144 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-857 y=-10491 sky130_fd_pr__nfet_01v8
+x Out_1 Out_2 Input Input l=40 w=400 x=3510 y=358 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=-1129 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-185 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=774 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-761 y=-2185 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=6 y=-9255 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=1354 y=-5560 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=144 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=46 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Input VM28D Out_1 VN l=40 w=400 x=-1031 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM40D VN VN l=30 w=400 x=-569 y=-9873 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-247 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VPP a_n1188_n8454# VPP l=40 w=400 x=1550 y=-5560 sky130_fd_pr__pfet_01v8
+x Input Out_1 VPP VPP l=40 w=400 x=1256 y=1509 sky130_fd_pr__pfet_01v8
+x VN VPP Out_2 VPP l=100 w=400 x=3576 y=1493 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=-1049 y=-9873 sky130_fd_pr__nfet_01v8
+x VN a_2412_n5577# VPP VPP l=100 w=400 x=2786 y=-5576 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=340 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-149 y=-5560 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=582 y=-2803 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=46 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-443 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=-51 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# VM40D a_n1188_n8454# VN l=40 w=400 x=1124 y=-6391 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-665 y=-4039 sky130_fd_pr__nfet_01v8
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=102 y=-11109 sky130_fd_pr__nfet_01v8
+x Out_1 Input Out_2 Input l=40 w=400 x=3804 y=-259 sky130_fd_pr__nfet_01v8_lvt
+x I_Bias1 VM6D I_Bias1 VN l=30 w=400 x=3752 y=-8489 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=438 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VM28D VN VN l=30 w=400 x=-1145 y=-4039 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=3608 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=242 y=-5560 sky130_fd_pr__pfet_01v8
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-345 y=-5560 sky130_fd_pr__pfet_01v8
+x Input VPP Out_1 VPP l=40 w=400 x=-247 y=2145 sky130_fd_pr__pfet_01v8
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-89 y=-2185 sky130_fd_pr__nfet_01v8
+x I_Bias1 VM6D VN VN l=200 w=400 x=3814 y=-9309 sky130_fd_pr__nfet_01v8
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=1026 y=-8453 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VPP VPP l=40 w=400 x=-933 y=1509 sky130_fd_pr__pfet_01v8
+x Input VM28D Out_1 VN l=40 w=400 x=1124 y=60 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=634 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x Input Out_1 VM28D VN l=40 w=400 x=634 y=-765 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM28D VN l=30 w=400 x=-473 y=-2803 sky130_fd_pr__nfet_01v8
+x a_n1188_n8454# w_2300_n7574# a_2412_n5577# w_2300_n7574# l=40 w=400 x=3804 y=-6711 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-737 y=-7835 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VPP VPP l=40 w=400 x=-541 y=-5560 sky130_fd_pr__pfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-737 y=678 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA I_Bias1 VN VN l=30 w=400 x=5894 y=-9309 sky130_fd_pr__nfet_01v8
+x Input Out_1 VM28D VN l=40 w=400 x=-345 y=60 sky130_fd_pr__nfet_01v8_lvt
+x w_2300_n7574# a_n1188_n8454# VM40D VN l=40 w=400 x=-1129 y=-7009 sky130_fd_pr__nfet_01v8_lvt
+x Disable_TIA_B VN VM40D VN l=30 w=400 x=294 y=-9873 sky130_fd_pr__nfet_01v8
+C Out_1 VPP 65.08
+C Out_1 VM28D 102.12
+C I_Bias1 VM5D 6.44
+C VPP a_n1188_n8454# 65.08
+C m4_n1346_n9100# a_2412_n5577# 4.38
+C w_2300_n7574# VM40D 26.80
+C a_1602_n8490# a_n1188_n8454# 12.09
+C Out_1 Input 52.57
+C m4_n1346_n9100# I_Bias1 4.46
+C Out_1 Out_2 7.72
+C a_2412_n5577# a_n1188_n8454# 7.72
+C m4_n1346_n9100# VM40D 7.51
+C Out_1 m4_n1346_n2030# 10.33
+C Out_1 I_Bias1 2.55
+C m4_n1346_n9100# w_2300_n7574# 5.92
+C I_Bias1 a_n1188_n8454# 2.58
+C a_n1188_n8454# VM40D 102.12
+C Out_1 VM5D 12.09
+C w_2300_n7574# a_n1188_n8454# 52.57
+C VPP Input 40.89
+C VPP a_2412_n5577# 7.54
+C Disable_TIA_B VM28D 21.84
+C Input VM28D 26.80
+C VPP Out_2 7.30
+C VM6D I_Bias1 18.32
+C VPP m4_n1346_n2030# 43.78
+C m4_n1346_n9100# a_n1188_n8454# 10.33
+C m4_n1346_n2030# VM28D 7.51
+C VPP I_Bias1 4.08
+C Input Out_2 32.10
+C I_Bias1 a_1602_n8490# 7.01
+C VPP w_2300_n7574# 41.05
+C m4_n1346_n2030# Input 6.73
+C I_Bias1 Disable_TIA_B 2.99
+C VM40D Disable_TIA_B 22.44
+C m4_n1346_n2030# Out_2 4.40
+C w_2300_n7574# Disable_TIA_B 5.62
+C m4_n1346_n2030# I_Bias1 3.03
+C VPP m4_n1346_n9100# 44.43
+C a_2412_n5577# w_2300_n7574# 32.10
+R Disable_TIA 4128
+C I_Bias1 GND 108.00
+R I_Bias1 37451
+C Out_2 GND 2.25
+R Out_2 31379
+C Out_1 GND 7.31
+R Out_1 154501
+C Input GND 35.03
+R Input 163869
+C VPP GND 263.88
+R VPP 332908
+R VN 731215
+C m4_n1346_n9100# GND 5.79
+C m4_n1346_n2030# GND 6.27
+C VM6D GND 3.81
+R VM6D 11781
+C a_1602_n8490# GND 3.84
+R a_1602_n8490# 11781
+C VM40D GND 115.20
+R VM40D 126220
+C a_2412_n5577# GND 2.26
+R a_2412_n5577# 31379
+C a_n1188_n8454# GND 7.36
+R a_n1188_n8454# 154501
+R Disable_TIA_B 138732
+C VM5D GND 3.84
+R VM5D 11781
+C VM28D GND 115.20
+R VM28D 126220
+C w_2300_n7574# GND 35.22
+R w_2300_n7574# 163870

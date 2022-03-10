@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1645630008
+timestamp 1646921651
 << isosubstrate >>
 rect 12100 8800 12340 8900
 << pwell >>
@@ -290,23 +290,23 @@ rect 11350 260 11360 360
 rect 11640 260 11660 360
 rect 11350 255 11650 260
 use isource_ref_5transistors  isource_ref_5transistors_0
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 0 0 1 0
 box 0 0 12914 4940
 use isource_ref_5transistors  isource_ref_5transistors_1
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 0 0 -1 13400
 box 0 0 12914 4940
 use isource_ref_transistor  isource_ref_transistor_0
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 493 0 1 4997
 box -493 -117 12421 1103
 use sky130_fd_pr__nfet_01v8_TV3VM6  sky130_fd_pr__nfet_01v8_TV3VM6_0
-timestamp 1645614240
+timestamp 1646921651
 transform 1 0 3312 0 1 6700
 box -3312 -610 3312 610
 use sky130_fd_pr__nfet_01v8_WY4VMC  sky130_fd_pr__nfet_01v8_WY4VMC_0
-timestamp 1645614240
+timestamp 1646921651
 transform 1 0 11495 0 1 6700
 box -1425 -610 1425 610
 << end >>

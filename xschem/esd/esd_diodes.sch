@@ -51,219 +51,89 @@ N 1300 -170 1300 -140 { lab=VP}
 N 800 60 1300 60 { lab=VN}
 N 40 -170 1300 -170 { lab=VP}
 N 40 -50 1300 -50 { lab=io}
-N 40 180 40 210 { lab=io}
-N 40 210 40 240 { lab=io}
-N 40 300 40 320 { lab=VN}
-N 40 90 40 120 { lab=VP}
-N 180 180 180 210 { lab=io}
-N 180 210 180 240 { lab=io}
-N 180 300 180 320 { lab=VN}
-N 180 90 180 120 { lab=VP}
-N 40 320 800 320 { lab=VN}
-N 320 180 320 210 { lab=io}
-N 320 210 320 240 { lab=io}
-N 320 300 320 320 { lab=VN}
-N 320 90 320 120 { lab=VP}
-N 460 180 460 210 { lab=io}
-N 460 210 460 240 { lab=io}
-N 460 300 460 320 { lab=VN}
-N 460 90 460 120 { lab=VP}
-N 600 180 600 210 { lab=io}
-N 600 210 600 240 { lab=io}
-N 600 300 600 320 { lab=VN}
-N 600 90 600 120 { lab=VP}
-N 740 180 740 210 { lab=io}
-N 740 210 740 240 { lab=io}
-N 740 300 740 320 { lab=VN}
-N 740 90 740 120 { lab=VP}
-N 880 180 880 210 { lab=io}
-N 880 210 880 240 { lab=io}
-N 880 300 880 320 { lab=VN}
-N 880 90 880 120 { lab=VP}
-N 1020 180 1020 210 { lab=io}
-N 1020 210 1020 240 { lab=io}
-N 1020 300 1020 320 { lab=VN}
-N 1020 90 1020 120 { lab=VP}
-N 1160 180 1160 210 { lab=io}
-N 1160 210 1160 240 { lab=io}
-N 1160 300 1160 320 { lab=VN}
-N 1160 90 1160 120 { lab=VP}
-N 1300 180 1300 210 { lab=io}
-N 1300 210 1300 240 { lab=io}
-N 1300 300 1300 320 { lab=VN}
-N 1300 90 1300 120 { lab=VP}
-N 800 320 1300 320 { lab=VN}
-N 40 90 1300 90 { lab=VP}
-N 40 210 1300 210 { lab=io}
-N 1300 320 1460 320 {}
-N 1460 60 1460 320 {}
-N 1300 60 1460 60 {}
-N 1300 210 1500 210 {}
-N 1300 -50 1500 -50 {}
-N 1500 -50 1500 210 {}
-N 1300 90 1530 90 {}
-N 1530 -170 1530 90 {}
-N 1300 -170 1530 -170 {}
+N 1300 60 1460 60 { lab=VN}
+N 1300 -50 1500 -50 { lab=io}
+N 1300 -170 1530 -170 { lab=VP}
 C {sky130_fd_pr/diode.sym} 40 -110 0 0 {name=D1
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
 C {devices/iopin.sym} 10 -170 0 1 {name=p1 lab=VP}
 C {devices/iopin.sym} 10 -50 0 1 {name=p2 lab=io}
-C {sky130_fd_pr/diode.sym} 40 10 0 0 {name=D2
-model=diode_pw2nd_05v5
-area=1e12
-}
 C {devices/iopin.sym} 10 60 0 1 {name=p3 lab=VN}
-C {sky130_fd_pr/diode.sym} 180 -110 0 0 {name=D3
+C {sky130_fd_pr/diode.sym} 180 -110 0 0 {name=D2
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 180 10 0 0 {name=D4
+C {sky130_fd_pr/diode.sym} 320 -110 0 0 {name=D3
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 320 -110 0 0 {name=D5
+C {sky130_fd_pr/diode.sym} 460 -110 0 0 {name=D4
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 320 10 0 0 {name=D6
+C {sky130_fd_pr/diode.sym} 600 -110 0 0 {name=D5
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 460 -110 0 0 {name=D7
+C {sky130_fd_pr/diode.sym} 740 -110 0 0 {name=D6
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 460 10 0 0 {name=D8
+C {sky130_fd_pr/diode.sym} 880 -110 0 0 {name=D7
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 600 -110 0 0 {name=D9
+C {sky130_fd_pr/diode.sym} 1020 -110 0 0 {name=D8
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 600 10 0 0 {name=D10
+C {sky130_fd_pr/diode.sym} 1160 -110 0 0 {name=D9
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 740 -110 0 0 {name=D11
+C {sky130_fd_pr/diode.sym} 1300 -110 0 0 {name=D10
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 740 10 0 0 {name=D12
+C {sky130_fd_pr/diode.sym} 40 10 0 0 {name=D11
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 880 -110 0 0 {name=D13
+C {sky130_fd_pr/diode.sym} 180 10 0 0 {name=D12
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 880 10 0 0 {name=D14
+C {sky130_fd_pr/diode.sym} 320 10 0 0 {name=D13
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 1020 -110 0 0 {name=D15
+C {sky130_fd_pr/diode.sym} 460 10 0 0 {name=D14
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 1020 10 0 0 {name=D16
+C {sky130_fd_pr/diode.sym} 600 10 0 0 {name=D15
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 1160 -110 0 0 {name=D17
+C {sky130_fd_pr/diode.sym} 740 10 0 0 {name=D16
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 1160 10 0 0 {name=D18
+C {sky130_fd_pr/diode.sym} 880 10 0 0 {name=D17
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }
-C {sky130_fd_pr/diode.sym} 1300 -110 0 0 {name=D19
+C {sky130_fd_pr/diode.sym} 1020 10 0 0 {name=D18
 model=diode_pw2nd_05v5
-area=1e12
+area=4e12
+}
+C {sky130_fd_pr/diode.sym} 1160 10 0 0 {name=D19
+model=diode_pw2nd_05v5
+area=4e12
 }
 C {sky130_fd_pr/diode.sym} 1300 10 0 0 {name=D20
 model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 40 150 0 0 {name=D21
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 40 270 0 0 {name=D22
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 180 150 0 0 {name=D23
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 180 270 0 0 {name=D24
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 320 150 0 0 {name=D25
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 320 270 0 0 {name=D26
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 460 150 0 0 {name=D27
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 460 270 0 0 {name=D28
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 600 150 0 0 {name=D29
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 600 270 0 0 {name=D30
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 740 150 0 0 {name=D31
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 740 270 0 0 {name=D32
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 880 150 0 0 {name=D33
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 880 270 0 0 {name=D34
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 1020 150 0 0 {name=D35
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 1020 270 0 0 {name=D36
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 1160 150 0 0 {name=D37
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 1160 270 0 0 {name=D38
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 1300 150 0 0 {name=D39
-model=diode_pw2nd_05v5
-area=1e12
-}
-C {sky130_fd_pr/diode.sym} 1300 270 0 0 {name=D40
-model=diode_pw2nd_05v5
-area=1e12
+area=4e12
 }

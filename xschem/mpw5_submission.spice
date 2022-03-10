@@ -1,0 +1,19 @@
+
+* expanding   symbol:  mpw5_submission.sym # of pins=7
+** sym_path: /home/simon/code/caravel_tia/xschem/mpw5_submission.sym
+** sch_path: /home/simon/code/caravel_tia/xschem/mpw5_submission.sch
+.subckt mpw5_submission  VP I_out Dis_TIA In_TIA Out_N Out_P VN
+*.iopin VP
+*.ipin In_TIA
+*.opin Out_N
+*.iopin VN
+*.opin Out_P
+*.ipin Dis_TIA
+*.opin I_out
+x4 VP Out_N Out_P net2 net3 net4 VN outdriver
+x5 VP net9 I_out net8 net7 net10 net11 net12 net13 net14 VN current_mirrorx8
+x6 VP net8 VN low_pvt_source
+x7 VP net1 net2 net5 net7 VN current_mirror_channel
+x8 VP net6 net4 net3 Dis_TIA In_TIA net1 VN tia_rgc_core
+.ends
+

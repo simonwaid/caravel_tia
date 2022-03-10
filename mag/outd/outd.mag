@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1646406885
+timestamp 1646921651
 << pwell >>
 rect -19838 7542 -19676 7608
 rect -19838 7032 -19676 7098
@@ -165,12 +165,15 @@ rect -15450 11640 -15110 11645
 rect -15450 11280 -15440 11640
 rect -15120 11280 -15110 11640
 rect -15450 11275 -15110 11280
+rect -26280 10780 -25380 11120
 rect -21610 10780 -19680 10910
 rect -21160 10590 -20880 10595
 rect -21160 10300 -21150 10590
 rect -20890 10300 -20880 10590
 rect -21160 10295 -20880 10300
 rect -19840 7920 -19680 10780
+rect -12280 8500 -12000 8690
+rect 2030 8460 2280 8660
 rect -19840 7780 -19830 7920
 rect -19690 7780 -19680 7920
 rect -19840 7770 -19680 7780
@@ -304,75 +307,75 @@ rect -29980 20 -14300 440
 rect 56940 20 57040 960
 rect -29980 -60 57040 20
 use outd_stage1  outd_stage1_0
-timestamp 1646312566
+timestamp 1646921651
 transform 1 0 -19480 0 1 1680
 box -1660 -880 5040 12406
-use outd_stage2  outd_stage2_0
-timestamp 1646386630
+use outd_stage2#0  outd_stage2_0
+timestamp 1646921651
 transform 1 0 -14290 0 1 880
 box -30 -880 14232 14120
 use outd_stage3  outd_stage3_0
-timestamp 1646406885
+timestamp 1646921651
 transform 1 0 20 0 1 20
 box -20 -20 56992 14980
 use sky130_fd_pr__cap_mim_m3_1_WXTTNJ  sky130_fd_pr__cap_mim_m3_1_WXTTNJ_0
-timestamp 1646312566
-transform 0 1 -23680 -1 0 12809
+timestamp 1646921651
+transform 0 -1 -23680 1 0 12740
 box -2150 -2100 2149 2100
 use sky130_fd_pr__cap_mim_m3_1_WXTTNJ  sky130_fd_pr__cap_mim_m3_1_WXTTNJ_1
-timestamp 1646312566
-transform 0 1 -28060 -1 0 12829
+timestamp 1646921651
+transform 0 -1 -28120 1 0 12750
 box -2150 -2100 2149 2100
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_0
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_0
+timestamp 1646921651
 transform 0 -1 -11199 1 0 6791
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_1
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_1
+timestamp 1646921651
 transform 0 -1 -3999 1 0 6791
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_2
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_2
+timestamp 1646921651
 transform 0 -1 3421 1 0 6771
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_3
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_3
+timestamp 1646921651
 transform 0 -1 11001 1 0 6751
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_4
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_4
+timestamp 1646921651
 transform 0 -1 18501 1 0 6751
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_5
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_5
+timestamp 1646921651
 transform 0 -1 26261 1 0 6771
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_6
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_6
+timestamp 1646921651
 transform 0 -1 33781 1 0 6771
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_7
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_7
+timestamp 1646921651
 transform 0 -1 42561 1 0 6831
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_8
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_8
+timestamp 1646921651
 transform 0 -1 50901 1 0 6811
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_9
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_9
+timestamp 1646921651
 transform 0 1 -18659 -1 0 6793
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_10
-timestamp 1646311750
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_10
+timestamp 1646921651
 transform 0 1 -25439 -1 0 6813
 box -3351 -3101 3373 3101
 use sky130_fd_pr__nfet_01v8_DJG2KN  sky130_fd_pr__nfet_01v8_DJG2KN_0
-timestamp 1646319015
+timestamp 1646921651
 transform 1 0 -19815 0 1 6189
 box -325 -719 325 719
 use sky130_fd_pr__nfet_01v8_LH2JGW  sky130_fd_pr__nfet_01v8_LH2JGW_0
-timestamp 1646319015
+timestamp 1646921651
 transform 1 0 -19757 0 1 7320
 box -263 -410 263 410
 << labels >>
@@ -387,4 +390,6 @@ rlabel metal2 -1090 11190 -910 11400 1 V_da2_P
 rlabel metal2 -170 11220 10 11430 1 V_da2_N
 rlabel metal4 55470 12270 55650 12440 1 OutputP
 rlabel metal4 55470 12940 55650 13140 3 OutputN
+rlabel metal3 -12280 8500 -12000 8690 1 VM1_D
+rlabel metal3 2030 8460 2280 8660 1 VM14D
 << end >>

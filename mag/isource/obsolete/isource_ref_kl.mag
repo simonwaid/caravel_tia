@@ -1,0 +1,13 @@
+magic
+timestamp 1645191714
+<< checkpaint >>
+rect 0 0 8914 20270
+use isource_ref isource_ref_1
+timestamp 1645191714
+transform 1 0 0 0 1 18910
+box 0 -18910 8914 -260
+use sky130_fd_pr__nfet_01v8_HH9N49 sky130_fd_pr__nfet_01v8_HH9N49_1
+timestamp 1645191714
+transform 1 0 4457 0 1 19460
+box -4457 -810 4457 810
+<< end >>

@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1645630008
+timestamp 1646921651
 << locali >>
 rect 17180 12710 22720 13000
 rect 4360 12650 22720 12710
@@ -137,28 +137,28 @@ rect 16670 11820 17010 11825
 rect 16670 11680 16680 11820
 rect 17000 11680 17010 11820
 rect 16670 11675 17010 11680
-use isource_cmirror  isource_cmirror_0
-timestamp 1645630008
+use isource_cmirror#0  isource_cmirror_0
+timestamp 1646921651
 transform 1 0 23200 0 1 12240
 box 0 0 2044 2280
 use isource_conv_tsmal  isource_conv_tsmal_0
-timestamp 1645614240
+timestamp 1646921651
 transform 1 0 16700 0 1 6440
 box 4250 6510 5820 8748
 use isource_ref_transistor  isource_ref_transistor_0
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 4813 0 1 12757
 box -493 -117 12421 1103
 use isource_ref_transistor  isource_ref_transistor_1
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 4813 0 1 11547
 box -493 -117 12421 1103
 use sky130_fd_pr__nfet_01v8_834VMG  sky130_fd_pr__nfet_01v8_834VMG_0
-timestamp 1645614240
+timestamp 1646921651
 transform 1 0 20043 0 1 12050
 box -2683 -610 2683 610
 use sky130_fd_pr__res_xhigh_po_1p41_JAGHGM  sky130_fd_pr__res_xhigh_po_1p41_JAGHGM_0
-timestamp 1645614240
+timestamp 1646921651
 transform 1 0 24147 0 1 10578
 box -1367 -1598 1367 1598
 << end >>

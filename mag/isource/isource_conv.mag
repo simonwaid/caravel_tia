@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1645701277
+timestamp 1646921651
 << locali >>
 rect 9700 11420 13840 11480
 rect 11360 11400 13840 11420
@@ -183,39 +183,39 @@ rect 11920 7960 11930 8120
 rect 9590 7955 9810 7960
 rect 11790 7955 11930 7960
 use isource_cmirror  isource_cmirror_0 ~/code/asic/layout/isource
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 9700 0 1 11420
 box 0 0 2044 2280
 use isource_cmirror  isource_cmirror_1
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 9700 0 1 9160
 box 0 0 2044 2280
 use isource_cmirror  isource_cmirror_2
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 9700 0 1 6900
 box 0 0 2044 2280
 use isource_cmirror  isource_cmirror_3
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 11740 0 1 11420
 box 0 0 2044 2280
 use isource_cmirror  isource_cmirror_4
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 11740 0 1 9160
 box 0 0 2044 2280
 use isource_cmirror  isource_cmirror_5
-timestamp 1645630008
+timestamp 1646921651
 transform 1 0 11740 0 1 6900
 box 0 0 2044 2280
 use sky130_fd_pr__nfet_01v8_WY4VMC  sky130_fd_pr__nfet_01v8_WY4VMC_2
-timestamp 1645614240
+timestamp 1646921651
 transform 1 0 5405 0 1 12950
 box -1425 -610 1425 610
 use sky130_fd_pr__res_xhigh_po_1p41_BQY2W7  sky130_fd_pr__res_xhigh_po_1p41_BQY2W7_0
-timestamp 1645462850
+timestamp 1646921651
 transform 1 0 7322 0 1 9278
 box -2162 -1598 2162 1598
 use sky130_fd_pr__res_xhigh_po_1p41_J2NVFM  sky130_fd_pr__res_xhigh_po_1p41_J2NVFM_0
-timestamp 1645628777
+timestamp 1646921651
 transform 1 0 4592 0 1 9278
 box -572 -1598 572 1598
 << end >>

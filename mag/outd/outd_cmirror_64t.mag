@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1646312566
+timestamp 1646921651
 << pwell >>
 rect 10 5090 1860 5220
 << locali >>
@@ -1294,10 +1294,10 @@ rect 1780 210 1900 370
 << metal3 >>
 rect 990 7625 1730 7840
 rect 980 7620 1740 7625
-rect 140 7385 870 7620
 rect 980 7460 990 7620
 rect 1730 7460 1740 7620
 rect 980 7455 1740 7460
+rect 140 7385 870 7390
 rect 130 7380 880 7385
 rect 130 7220 140 7380
 rect 870 7220 880 7380
@@ -1411,8 +1411,8 @@ rect 1000 370 1910 375
 rect 1000 210 1010 370
 rect 1900 210 1910 370
 rect 1000 205 1910 210
-use outd_cmirror_transistors  outd_cmirror_transistors_0
-timestamp 1646312566
+use outd_cmirror_transistors#1  outd_cmirror_transistors_0
+timestamp 1646921651
 transform 1 0 180 0 1 5340
 box -180 -5340 2682 2494
 << end >>
