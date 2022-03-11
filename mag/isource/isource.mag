@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1646921651
+timestamp 1646993950
 << psubdiff >>
 rect 8476 13900 8500 15280
 rect 10040 13900 10064 15280
@@ -450,11 +450,11 @@ rect 21060 -4660 21084 -4240
 rect 20680 -4680 21084 -4660
 rect 20736 -4684 21084 -4680
 use isource_cmirror#0  isource_cmirror_2
-timestamp 1646921651
+timestamp 1646743514
 transform 1 0 18900 0 1 9740
 box 0 0 2044 2280
 use isource_cmirror#0  isource_cmirror_3
-timestamp 1646921651
+timestamp 1646743514
 transform 1 0 18900 0 1 7480
 box 0 0 2044 2280
 use isource_conv  isource_conv_0
@@ -474,7 +474,7 @@ timestamp 1646921651
 transform 1 0 -280 0 1 21120
 box 14560 -8200 18240 -5200
 use isource_out  isource_out_0
-timestamp 1646921651
+timestamp 1646993950
 transform 1 0 -4300 0 1 -13810
 box 4320 8980 25514 15188
 use isource_ref  isource_ref_0

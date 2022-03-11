@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1646921651
+timestamp 1646993950
 << locali >>
 rect 17180 12710 22720 13000
 rect 4360 12650 22720 12710
@@ -138,7 +138,7 @@ rect 16670 11680 16680 11820
 rect 17000 11680 17010 11820
 rect 16670 11675 17010 11680
 use isource_cmirror#0  isource_cmirror_0
-timestamp 1646921651
+timestamp 1646743514
 transform 1 0 23200 0 1 12240
 box 0 0 2044 2280
 use isource_conv_tsmal  isource_conv_tsmal_0

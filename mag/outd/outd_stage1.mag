@@ -229,11 +229,11 @@ rect 440 9980 5040 9990
 rect 440 9600 450 9980
 rect 980 9600 5040 9980
 rect 440 9590 5040 9600
-use outd_cmirror_64t  outd_cmirror_64t_0 ~/code/asic/layout/outd
+use outd_cmirror_64t  outd_cmirror_64t_0 
 timestamp 1646921651
 transform 1 0 -10 0 1 76
 box 0 -76 2862 7840
-use outd_diffamp  outd_diffamp_0 ~/code/asic/layout/outd
+use outd_diffamp  outd_diffamp_0
 timestamp 1646921651
 transform 1 0 300 0 1 320
 box 0 7930 2768 9368

@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1646921651
+timestamp 1646993950
 << locali >>
 rect 3230 -2570 5340 -2130
 rect 4108 -7934 4420 -7920
@@ -287,12 +287,12 @@ use sky130_fd_pr__cap_mim_m3_1_J5CT7Z  sky130_fd_pr__cap_mim_m3_1_J5CT7Z_1
 timestamp 1646921651
 transform 1 0 3280 0 1 -3290
 box -1650 -1300 1649 1300
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_0
-timestamp 1646921651
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_0
+timestamp 1646042961
 transform -1 0 8373 0 -1 -8409
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_1
-timestamp 1646921651
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_1
+timestamp 1646042961
 transform -1 0 8373 0 -1 -1099
 box -3351 -3101 3373 3101
 use sky130_fd_pr__cap_var_lvt_MZUN4J  sky130_fd_pr__cap_var_lvt_MZUN4J_0

@@ -714,39 +714,39 @@ rect 5920 11360 8220 11880
 rect 8840 11360 11160 11880
 rect 11780 11360 11960 11880
 rect 360 11340 11960 11360
-use outd_cmirror_64t#1  outd_cmirror_64t_0
+use outd_cmirror_64t  outd_cmirror_64t_0
 timestamp 1646921651
 transform 1 0 -30 0 1 76
 box 0 -76 2862 7840
-use outd_cmirror_64t#1  outd_cmirror_64t_1
+use outd_cmirror_64t  outd_cmirror_64t_1
 timestamp 1646921651
 transform 1 0 2820 0 1 76
 box 0 -76 2862 7840
-use outd_cmirror_64t#1  outd_cmirror_64t_2
+use outd_cmirror_64t  outd_cmirror_64t_2
 timestamp 1646921651
 transform 1 0 5670 0 1 76
 box 0 -76 2862 7840
-use outd_cmirror_64t#1  outd_cmirror_64t_3
+use outd_cmirror_64t  outd_cmirror_64t_3
 timestamp 1646921651
 transform 1 0 8520 0 1 76
 box 0 -76 2862 7840
-use outd_cmirror_64t#1  outd_cmirror_64t_4
+use outd_cmirror_64t  outd_cmirror_64t_4
 timestamp 1646921651
 transform 1 0 11370 0 1 76
 box 0 -76 2862 7840
-use outd_diffamp#1  outd_diffamp_0
+use outd_diffamp  outd_diffamp_0
 timestamp 1646921651
 transform 1 0 300 0 1 320
 box 0 7930 2768 9368
-use outd_diffamp#1  outd_diffamp_1
+use outd_diffamp  outd_diffamp_1
 timestamp 1646921651
 transform 1 0 3230 0 1 320
 box 0 7930 2768 9368
-use outd_diffamp#1  outd_diffamp_2
+use outd_diffamp  outd_diffamp_2
 timestamp 1646921651
 transform 1 0 6160 0 1 320
 box 0 7930 2768 9368
-use outd_diffamp#1  outd_diffamp_3
+use outd_diffamp  outd_diffamp_3
 timestamp 1646921651
 transform 1 0 9090 0 1 320
 box 0 7930 2768 9368

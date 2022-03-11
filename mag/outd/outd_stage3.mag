@@ -33,7 +33,7 @@ rect 20235 6440 22010 6720
 rect 5985 6100 7840 6380
 rect 13110 6100 14885 6380
 rect 20235 6100 22010 6380
-use outd_stage2  outd_stage2_0 ~/code/asic/layout/outd
+use outd_stage2  outd_stage2_0
 timestamp 1646921651
 transform 1 0 5 0 1 430
 box -15 -440 7116 7060

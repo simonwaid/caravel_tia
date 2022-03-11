@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1646921651
+timestamp 1646993950
 << pwell >>
 rect -19838 7542 -19676 7608
 rect -19838 7032 -19676 7098
@@ -310,7 +310,7 @@ use outd_stage1  outd_stage1_0
 timestamp 1646921651
 transform 1 0 -19480 0 1 1680
 box -1660 -880 5040 12406
-use outd_stage2#0  outd_stage2_0
+use outd_stage2  outd_stage2_0
 timestamp 1646921651
 transform 1 0 -14290 0 1 880
 box -30 -880 14232 14120
@@ -326,47 +326,47 @@ use sky130_fd_pr__cap_mim_m3_1_WXTTNJ  sky130_fd_pr__cap_mim_m3_1_WXTTNJ_1
 timestamp 1646921651
 transform 0 -1 -28120 1 0 12750
 box -2150 -2100 2149 2100
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_0
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_0
 timestamp 1646921651
 transform 0 -1 -11199 1 0 6791
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_1
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_1
 timestamp 1646921651
 transform 0 -1 -3999 1 0 6791
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_2
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_2
 timestamp 1646921651
 transform 0 -1 3421 1 0 6771
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_3
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_3
 timestamp 1646921651
 transform 0 -1 11001 1 0 6751
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_4
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_4
 timestamp 1646921651
 transform 0 -1 18501 1 0 6751
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_5
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_5
 timestamp 1646921651
 transform 0 -1 26261 1 0 6771
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_6
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_6
 timestamp 1646921651
 transform 0 -1 33781 1 0 6771
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_7
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_7
 timestamp 1646921651
 transform 0 -1 42561 1 0 6831
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_8
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_8
 timestamp 1646921651
 transform 0 -1 50901 1 0 6811
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_9
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_9
 timestamp 1646921651
 transform 0 1 -18659 -1 0 6793
 box -3351 -3101 3373 3101
-use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_10
+use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#2  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_10
 timestamp 1646921651
 transform 0 1 -25439 -1 0 6813
 box -3351 -3101 3373 3101

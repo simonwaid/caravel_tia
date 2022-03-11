@@ -1411,7 +1411,7 @@ rect 1000 370 1910 375
 rect 1000 210 1010 370
 rect 1900 210 1910 370
 rect 1000 205 1910 210
-use outd_cmirror_transistors#1  outd_cmirror_transistors_0
+use outd_cmirror_transistors  outd_cmirror_transistors_0
 timestamp 1646921651
 transform 1 0 180 0 1 5340
 box -180 -5340 2682 2494

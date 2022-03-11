@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1646925174
+timestamp 1646993950
 << metal1 >>
 rect -7840 11160 -7830 11400
 rect -7550 11160 -7140 11400
@@ -219,15 +219,15 @@ timestamp 1646921651
 transform -1 0 -10420 0 -1 -9430
 box 10 0 12180 3580
 use isource  isource_0 ~/code/caravel_tia/mag/isource
-timestamp 1646921651
+timestamp 1646993950
 transform 1 0 -36170 0 1 -1620
 box -280 -4830 23120 15920
 use outd  outd_0 ~/code/caravel_tia/mag/outd
-timestamp 1646921651
+timestamp 1646993950
 transform 1 0 37150 0 1 700
 box -30220 -60 57040 15224
 use tia_core  tia_core_0 ~/code/caravel_tia/mag/tia
-timestamp 1646921651
+timestamp 1646993950
 transform 1 0 -5400 0 1 12420
 box -1860 -11680 11730 2790
 << labels >>
