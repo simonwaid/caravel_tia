@@ -1,7 +1,7 @@
 # High bandwidth TIA
-In this project a transimpedance amplifier TIA with a nominal bandwidth of 1 GHz, a nominal gain of 70 dBOhm and an input impedance of < 30 Ohm is implemented. The nominal operating voltage is 1.8 V. The output has a nomincal impedance of 50 Ohm and is differential driver intended to drive a load with a capacitance of up to 10 pF.
+In this project a transimpedance amplifier TIA with a nominal bandwidth of 1 GHz, a nominal gain of 70 dBOhm and an input impedance of < 30 Ohm is implemented. The nominal operating voltage is 1.8 V. The output has a nomincal impedance of 50 Ohm and is differential intended to drive a load with a capacitance of up to 10 pF.
 
-The TIA design is based on [1]. It is augmented by a on-chip refference current source for biasing based on [2]. Finally a 50 Ohm differential output driver is implemented. For electrostatic discharge (ESD) protection clamping diodes are used.
+The TIA design is based on [1]. It is augmented by a on-chip refference current source for biasing based on [2]. Finally, a 50 Ohm differential output driver is implemented. For electrostatic discharge (ESD) protection clamping diodes are used.
 
 The circuit is intedended for use as a preamplifier for charaterizing SiC PIN diodes. However, it can find wider use, e.g. in optical communication and in physics experiments. The differential output is intended to be attached to an external high speed ADC or oscilloscope. 
 
@@ -9,12 +9,12 @@ The circuit is intedended for use as a preamplifier for charaterizing SiC PIN di
 Post-layout simulations reveal a precision of the current source of +/-10% as shown below. The output of the current source is provided on an analog output via a current mirror for characterization.
 ![Current Reference Post Layout Simulations](docs/source/op_iref.png)
 # TIA
-Simulations show that the the bandwidth of the TIA is between 0.9 and 1.8 GHz depending on the temperature and process variations. However, this bandwidth is not available at the output. It is merely relevant if the TIA is reused in a design where the output is directly processed within the chip. The Gain is between 54 and 60 dBOhm, again this signal is not available at the output of the chip. Please refer to the section Output for detalils on the output characteristics.
+Simulations show that the bandwidth of the TIA is between 0.9 and 1.8 GHz depending on the temperature and process variations. However, this bandwidth is not available at the output. It is merely relevant if the TIA is reused in a design where the output is directly processed within the chip. The Gain is between 54 and 60 dBOhm, again this signal is not available at the output of the chip. Please refer to the section Output for detalils on the output characteristics.
 ![TIA gain](docs/source/tia_gain.png)
 ![TIA gain](docs/source/input_impedance.png)
 
 # Output driver
-The output driver is intended to complement the TIA. Into a 10pF load capacitor it delivers a bandwidth of 0.8GHz or more depending on the temperature and process variations.
+The output driver is intended to complement the TIA. Into a 10pF load capacitor it delivers a bandwidth of 0.8GHz or more, depending on the temperature and process variations.
 ![TIA gain](docs/source/output_gain.png)
 # Organization of files
 - TIA: 
