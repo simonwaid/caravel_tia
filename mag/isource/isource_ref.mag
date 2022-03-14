@@ -1,9 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1646921651
-<< isosubstrate >>
-rect 12100 8800 12340 8900
+timestamp 1647007514
 << pwell >>
 rect 1340 7260 1840 7380
 rect 1300 6040 1800 6140

@@ -142,11 +142,7 @@ C {devices/opin.sym} 980 -110 0 0 {name=p7 lab=I_out_4}
 C {devices/opin.sym} 1130 -110 0 0 {name=p8 lab=I_out_5}
 C {devices/opin.sym} 1280 -110 0 0 {name=p9 lab=I_out_6}
 C {devices/opin.sym} 1430 -110 0 0 {name=p10 lab=I_out_7}
-C {sky130_fd_pr/cap_mim_m3_1.sym} 90 -300 0 0 {name=C1 model=cap_mim_m3_1 W=20 L=20 MF=1 spiceprefix=X}
-C {sky130_fd_pr/cap_mim_m3_2.sym} 90 -230 0 0 {name=C2 model=cap_mim_m3_2 W=20 L=20 MF=1 spiceprefix=X}
 C {devices/iopin.sym} -140 -40 2 0 {name=p11 lab=VN}
-C {sky130_fd_pr/cap_var_lvt.sym} 60 -90 0 0 {name=C4 model=cap_var_lvt W=2 L=5 VM=5 spiceprefix=X}
-C {sky130_fd_pr/cap_var_lvt.sym} 200 -90 0 0 {name=C3 model=cap_var_lvt W=2 L=5 VM=5 spiceprefix=X}
 C {sky130_fd_pr/pfet_01v8.sym} 390 -290 0 1 {name=M3
 L=1
 W=2

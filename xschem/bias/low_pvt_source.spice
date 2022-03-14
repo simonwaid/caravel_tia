@@ -1,8 +1,5 @@
-
-* expanding   symbol:  bias/low_pvt_source.sym # of pins=3
-** sym_path: /home/simon/code/caravel_tia/xschem/bias/low_pvt_source.sym
 ** sch_path: /home/simon/code/caravel_tia/xschem/bias/low_pvt_source.sch
-.subckt low_pvt_source  VP I_ref VN
+**.subckt low_pvt_source VP I_ref VN
 *.iopin VP
 *.opin I_ref
 *.iopin VN
@@ -87,5 +84,5 @@ XR13 net10 VM3G VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
 XR14 net9 net10 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
 XR15 net8 net9 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
 XC1 VN VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
-.ends
-
+**.ends
+.end

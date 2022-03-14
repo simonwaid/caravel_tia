@@ -1,8 +1,5 @@
-
-* expanding   symbol:  outdriver/outdriver.sym # of pins=7
-** sym_path: /home/simon/code/caravel_tia/xschem/outdriver/outdriver.sym
 ** sch_path: /home/simon/code/caravel_tia/xschem/outdriver/outdriver.sch
-.subckt outdriver  VP OutputN OutputP I_Bias InputSignal InputRef VN
+**.subckt outdriver VN InputRef VP I_Bias InputSignal OutputN OutputP
 *.iopin VN
 *.ipin InputRef
 *.iopin VP
@@ -74,5 +71,5 @@ XC13 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
 XC14 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
 XC5 I_Bias VN sky130_fd_pr__cap_mim_m3_1 W=20 L=20 MF=1 m=1
 XC3 I_Bias VN sky130_fd_pr__cap_mim_m3_1 W=20 L=20 MF=1 m=1
-.ends
-
+**.ends
+.end

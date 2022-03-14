@@ -1,16 +1,6 @@
-
-* expanding   symbol:  tia/tia_rgc_core.sym # of pins=8
-** sym_path: /home/simon/code/caravel_tia/xschem/tia/tia_rgc_core.sym
 ** sch_path: /home/simon/code/caravel_tia/xschem/tia/tia_rgc_core.sch
-.subckt tia_rgc_core  VP Out_2 Out_ref Out_1 Disable_TIA Input I_Bias1 VN
-*.iopin VN
-*.iopin VP
-*.opin Out_2
-*.ipin I_Bias1
-*.ipin Input
-*.ipin Disable_TIA
-*.opin Out_1
-*.opin Out_ref
+
+*.PININFO VN:B VP:B Out_2:O I_Bias1:I Input:I Disable_TIA:I Out_1:O Out_ref:O
 XM5 VM5D I_Bias1 VN VN sky130_fd_pr__nfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
 + pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
 + sa=0 sb=0 sd=0 mult=6 m=6
@@ -75,5 +65,4 @@ XC5 VN I_Bias1 sky130_fd_pr__cap_mim_m3_1 W=15 L=12 MF=1 m=1
 XC4 VN I_Bias1 sky130_fd_pr__cap_mim_m3_1 W=15 L=12 MF=1 m=1
 XC1 VP VM40D sky130_fd_pr__cap_mim_m3_2 W=20 L=30 MF=1 m=1
 XC3 Disable_TIA_B VN VN sky130_fd_pr__cap_var_lvt W=2 L=5 VM=5
-.ends
 

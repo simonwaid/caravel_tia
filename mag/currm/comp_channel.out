@@ -1,0 +1,22 @@
+Equate elements:  no current cell.
+Equate elements:  no current cell.
+Equate elements:  no current cell.
+
+Class ../../xschem/bias/current_mirror_channel.spice (0):  Merged 3 parallel devices.
+Class cmirror_channel.spice (1):  Merged 481 parallel devices.
+Subcircuit summary:
+Circuit 1: ../../xschem/bias/current_mirro |Circuit 2: cmirror_channel.spice           
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__nfet_01v8 (30->6)            |sky130_fd_pr__nfet_01v8 (30->6)            
+sky130_fd_pr__pfet_01v8 (460->6)           |sky130_fd_pr__pfet_01v8 (460->6)           
+sky130_fd_pr__cap_mim_m3_2 (6->3)          |sky130_fd_pr__cap_mim_m3_2 (6->3)          
+Number of devices: 15                      |Number of devices: 15                      
+Number of nets: 13                         |Number of nets: 13                         
+---------------------------------------------------------------------------------------
+Resolving automorphisms by property value.
+Netlists match uniquely.
+Netlists match uniquely.
+Circuits match correctly.
+Cells have no pins;  pin matching not needed.
+Device classes ../../xschem/bias/current_mirror_channel.spice and cmirror_channel.spice are equivalent.
+Circuits match uniquely.

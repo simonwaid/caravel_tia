@@ -418,7 +418,7 @@ XM10 A_Out_I_Bias net4 net7 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((n
 XC4 net4 VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
 XC3 VN I_in_channel sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
 XC6 VN I_in_channel sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
-XC1 VN net4 sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC1 VN VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
 XC2 VN VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
 .ends
 

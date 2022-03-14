@@ -1,0 +1,17 @@
+Equate elements:  no current cell.
+
+Class eigth_mirror.spice (1):  Merged 162 parallel devices.
+Subcircuit summary:
+Circuit 1: ../../xschem/bias/current_mirro |Circuit 2: eigth_mirror.spice              
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__pfet_01v8 (180->18)          |sky130_fd_pr__pfet_01v8 (180->18)          
+Number of devices: 18                      |Number of devices: 18                      
+Number of nets: 19                         |Number of nets: 19                         
+---------------------------------------------------------------------------------------
+Resolving automorphisms by property value.
+Resolving automorphisms by pin name.
+Netlists match uniquely.
+Circuits match correctly.
+Cells have no pins;  pin matching not needed.
+Device classes ../../xschem/bias/current_mirrorx8.spice and eigth_mirror.spice are equivalent.
+Circuits match uniquely.

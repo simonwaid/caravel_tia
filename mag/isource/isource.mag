@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1646993950
+timestamp 1647007514
 << psubdiff >>
 rect 8476 13900 8500 15280
 rect 10040 13900 10064 15280
@@ -478,7 +478,7 @@ timestamp 1646993950
 transform 1 0 -4300 0 1 -13810
 box 4320 8980 25514 15188
 use isource_ref  isource_ref_0
-timestamp 1646921651
+timestamp 1647007514
 transform 1 0 20 0 1 40
 box -30 -40 13220 13420
 use isource_startup  isource_startup_0

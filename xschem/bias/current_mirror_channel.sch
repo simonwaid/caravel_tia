@@ -67,8 +67,7 @@ N 430 -80 430 0 { lab=VN}
 N 470 -70 470 0 { lab=VN}
 N 560 -80 560 0 { lab=VN}
 N 600 -70 600 0 { lab=VN}
-N 600 -550 600 -130 { lab=#net4}
-N 300 -430 300 -410 { lab=#net4}
+N 370 -430 370 -410 { lab=#net4}
 N 270 -420 300 -420 { lab=#net4}
 N 270 -550 270 -420 { lab=#net4}
 N 240 -240 240 -80 { lab=VN}
@@ -81,9 +80,7 @@ N 390 -130 390 20 { lab=I_in_channel}
 N 280 -170 280 -130 { lab=I_in_channel}
 N 280 -240 280 -230 { lab=VN}
 N 470 -530 470 -130 { lab=VP}
-N 300 -350 420 -350 { lab=VP}
-N 420 -530 420 -350 { lab=VP}
-N 300 -530 300 -490 { lab=VP}
+N 370 -530 370 -490 { lab=VP}
 N 970 -490 970 -460 { lab=VP}
 N 970 -530 970 -490 { lab=VP}
 N 930 -460 930 -370 { lab=#net4}
@@ -95,6 +92,10 @@ N 930 -470 930 -460 { lab=#net4}
 N 970 -300 990 -300 { lab=A_Out_I_Bias}
 N 970 -340 970 -300 { lab=A_Out_I_Bias}
 N 720 -550 930 -550 { lab=#net4}
+N 600 -530 600 -130 { lab=VP}
+N 420 -530 420 -350 { lab=VP}
+N 370 -350 420 -350 { lab=VP}
+N 300 -420 370 -420 { lab=#net4}
 C {devices/ipin.sym} -60 -200 0 0 {name=p1 lab=I_in_channel}
 C {devices/iopin.sym} -100 -530 0 1 {name=p2 lab=VP}
 C {devices/opin.sym} 780 -230 0 0 {name=p3 lab=TIA_I_Bias2}
@@ -156,7 +157,7 @@ model=pfet_01v8
 spiceprefix=X
 }
 C {devices/opin.sym} 780 -300 0 0 {name=p5 lab=TIA_I_Bias1}
-C {sky130_fd_pr/cap_mim_m3_2.sym} 300 -380 0 0 {name=C8 model=cap_mim_m3_2 W=30 L=30 MF=1 spiceprefix=X}
+C {sky130_fd_pr/cap_mim_m3_2.sym} 370 -380 2 0 {name=C8 model=cap_mim_m3_2 W=30 L=30 MF=1 spiceprefix=X}
 C {devices/opin.sym} 990 -300 0 0 {name=p6 lab=A_Out_I_Bias}
 C {sky130_fd_pr/nfet_01v8.sym} 130 -140 0 0 {name=M5
 L=0.2
@@ -270,7 +271,7 @@ sa=0 sb=0 sd=0
 model=pfet_01v8
 spiceprefix=X
 }
-C {sky130_fd_pr/cap_mim_m3_2.sym} 300 -460 2 1 {name=C4 model=cap_mim_m3_2 W=30 L=30 MF=1 spiceprefix=X}
+C {sky130_fd_pr/cap_mim_m3_2.sym} 370 -460 0 1 {name=C4 model=cap_mim_m3_2 W=30 L=30 MF=1 spiceprefix=X}
 C {sky130_fd_pr/cap_mim_m3_2.sym} 280 -200 0 0 {name=C3 model=cap_mim_m3_2 W=30 L=30 MF=1 spiceprefix=X}
 C {sky130_fd_pr/cap_mim_m3_2.sym} 280 -280 2 1 {name=C6 model=cap_mim_m3_2 W=30 L=30 MF=1 spiceprefix=X}
 C {sky130_fd_pr/cap_mim_m3_2.sym} 600 -100 2 1 {name=C1 model=cap_mim_m3_2 W=30 L=30 MF=1 spiceprefix=X}

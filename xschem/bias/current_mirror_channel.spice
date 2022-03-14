@@ -1,8 +1,5 @@
-
-* expanding   symbol:  bias/current_mirror_channel.sym # of pins=6
-** sym_path: /home/simon/code/caravel_tia/xschem/bias/current_mirror_channel.sym
 ** sch_path: /home/simon/code/caravel_tia/xschem/bias/current_mirror_channel.sch
-.subckt current_mirror_channel  VP TIA_I_Bias1 A_Out_I_Bias TIA_I_Bias2 I_in_channel VN
+**.subckt current_mirror_channel I_in_channel VP TIA_I_Bias2 VN TIA_I_Bias1 A_Out_I_Bias
 *.ipin I_in_channel
 *.iopin VP
 *.opin TIA_I_Bias2
@@ -21,7 +18,7 @@ XM3 net1 I_in_channel VN VN sky130_fd_pr__nfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/
 XM4 net4 net4 net5 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
 + pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
 + sa=0 sb=0 sd=0 mult=4 m=4
-XC8 net4 VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC8 VP net4 sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
 XM5 net4 I_in_channel net2 VN sky130_fd_pr__nfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
 + as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
 + nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=2 m=2
@@ -46,10 +43,10 @@ XM9 net7 net4 VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/n
 XM10 A_Out_I_Bias net4 net7 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
 + as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
 + nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=4*12 m=4*12
-XC4 net4 VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC4 VP net4 sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
 XC3 VN I_in_channel sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
 XC6 VN I_in_channel sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
-XC1 VN net4 sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC1 VN VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
 XC2 VN VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
-.ends
-
+**.ends
+.end

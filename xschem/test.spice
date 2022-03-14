@@ -1,163 +1,662 @@
 ** sch_path: /home/simon/code/caravel_tia/xschem/test.sch
 **.subckt test
-x1 __UNCONNECTED_PIN__0 __UNCONNECTED_PIN__1 __UNCONNECTED_PIN__2 __UNCONNECTED_PIN__3
-+ __UNCONNECTED_PIN__4 __UNCONNECTED_PIN__5 __UNCONNECTED_PIN__6 __UNCONNECTED_PIN__7 __UNCONNECTED_PIN__8
-+ __UNCONNECTED_PIN__9 __UNCONNECTED_PIN__10 __UNCONNECTED_PIN__11 __UNCONNECTED_PIN__12 __UNCONNECTED_PIN__13[3]
-+ __UNCONNECTED_PIN__13[2] __UNCONNECTED_PIN__13[1] __UNCONNECTED_PIN__13[0] __UNCONNECTED_PIN__14[31]
-+ __UNCONNECTED_PIN__14[30] __UNCONNECTED_PIN__14[29] __UNCONNECTED_PIN__14[28] __UNCONNECTED_PIN__14[27]
-+ __UNCONNECTED_PIN__14[26] __UNCONNECTED_PIN__14[25] __UNCONNECTED_PIN__14[24] __UNCONNECTED_PIN__14[23]
-+ __UNCONNECTED_PIN__14[22] __UNCONNECTED_PIN__14[21] __UNCONNECTED_PIN__14[20] __UNCONNECTED_PIN__14[19]
-+ __UNCONNECTED_PIN__14[18] __UNCONNECTED_PIN__14[17] __UNCONNECTED_PIN__14[16] __UNCONNECTED_PIN__14[15]
-+ __UNCONNECTED_PIN__14[14] __UNCONNECTED_PIN__14[13] __UNCONNECTED_PIN__14[12] __UNCONNECTED_PIN__14[11]
-+ __UNCONNECTED_PIN__14[10] __UNCONNECTED_PIN__14[9] __UNCONNECTED_PIN__14[8] __UNCONNECTED_PIN__14[7] __UNCONNECTED_PIN__14[6]
-+ __UNCONNECTED_PIN__14[5] __UNCONNECTED_PIN__14[4] __UNCONNECTED_PIN__14[3] __UNCONNECTED_PIN__14[2] __UNCONNECTED_PIN__14[1]
-+ __UNCONNECTED_PIN__14[0] __UNCONNECTED_PIN__15[31] __UNCONNECTED_PIN__15[30] __UNCONNECTED_PIN__15[29]
-+ __UNCONNECTED_PIN__15[28] __UNCONNECTED_PIN__15[27] __UNCONNECTED_PIN__15[26] __UNCONNECTED_PIN__15[25]
-+ __UNCONNECTED_PIN__15[24] __UNCONNECTED_PIN__15[23] __UNCONNECTED_PIN__15[22] __UNCONNECTED_PIN__15[21]
-+ __UNCONNECTED_PIN__15[20] __UNCONNECTED_PIN__15[19] __UNCONNECTED_PIN__15[18] __UNCONNECTED_PIN__15[17]
-+ __UNCONNECTED_PIN__15[16] __UNCONNECTED_PIN__15[15] __UNCONNECTED_PIN__15[14] __UNCONNECTED_PIN__15[13]
-+ __UNCONNECTED_PIN__15[12] __UNCONNECTED_PIN__15[11] __UNCONNECTED_PIN__15[10] __UNCONNECTED_PIN__15[9]
-+ __UNCONNECTED_PIN__15[8] __UNCONNECTED_PIN__15[7] __UNCONNECTED_PIN__15[6] __UNCONNECTED_PIN__15[5] __UNCONNECTED_PIN__15[4]
-+ __UNCONNECTED_PIN__15[3] __UNCONNECTED_PIN__15[2] __UNCONNECTED_PIN__15[1] __UNCONNECTED_PIN__15[0] __UNCONNECTED_PIN__16
-+ __UNCONNECTED_PIN__17[31] __UNCONNECTED_PIN__17[30] __UNCONNECTED_PIN__17[29] __UNCONNECTED_PIN__17[28]
-+ __UNCONNECTED_PIN__17[27] __UNCONNECTED_PIN__17[26] __UNCONNECTED_PIN__17[25] __UNCONNECTED_PIN__17[24]
-+ __UNCONNECTED_PIN__17[23] __UNCONNECTED_PIN__17[22] __UNCONNECTED_PIN__17[21] __UNCONNECTED_PIN__17[20]
-+ __UNCONNECTED_PIN__17[19] __UNCONNECTED_PIN__17[18] __UNCONNECTED_PIN__17[17] __UNCONNECTED_PIN__17[16]
-+ __UNCONNECTED_PIN__17[15] __UNCONNECTED_PIN__17[14] __UNCONNECTED_PIN__17[13] __UNCONNECTED_PIN__17[12]
-+ __UNCONNECTED_PIN__17[11] __UNCONNECTED_PIN__17[10] __UNCONNECTED_PIN__17[9] __UNCONNECTED_PIN__17[8]
-+ __UNCONNECTED_PIN__17[7] __UNCONNECTED_PIN__17[6] __UNCONNECTED_PIN__17[5] __UNCONNECTED_PIN__17[4] __UNCONNECTED_PIN__17[3]
-+ __UNCONNECTED_PIN__17[2] __UNCONNECTED_PIN__17[1] __UNCONNECTED_PIN__17[0] __UNCONNECTED_PIN__18[127]
-+ __UNCONNECTED_PIN__18[126] __UNCONNECTED_PIN__18[125] __UNCONNECTED_PIN__18[124] __UNCONNECTED_PIN__18[123]
-+ __UNCONNECTED_PIN__18[122] __UNCONNECTED_PIN__18[121] __UNCONNECTED_PIN__18[120] __UNCONNECTED_PIN__18[119]
-+ __UNCONNECTED_PIN__18[118] __UNCONNECTED_PIN__18[117] __UNCONNECTED_PIN__18[116] __UNCONNECTED_PIN__18[115]
-+ __UNCONNECTED_PIN__18[114] __UNCONNECTED_PIN__18[113] __UNCONNECTED_PIN__18[112] __UNCONNECTED_PIN__18[111]
-+ __UNCONNECTED_PIN__18[110] __UNCONNECTED_PIN__18[109] __UNCONNECTED_PIN__18[108] __UNCONNECTED_PIN__18[107]
-+ __UNCONNECTED_PIN__18[106] __UNCONNECTED_PIN__18[105] __UNCONNECTED_PIN__18[104] __UNCONNECTED_PIN__18[103]
-+ __UNCONNECTED_PIN__18[102] __UNCONNECTED_PIN__18[101] __UNCONNECTED_PIN__18[100] __UNCONNECTED_PIN__18[99]
-+ __UNCONNECTED_PIN__18[98] __UNCONNECTED_PIN__18[97] __UNCONNECTED_PIN__18[96] __UNCONNECTED_PIN__18[95]
-+ __UNCONNECTED_PIN__18[94] __UNCONNECTED_PIN__18[93] __UNCONNECTED_PIN__18[92] __UNCONNECTED_PIN__18[91]
-+ __UNCONNECTED_PIN__18[90] __UNCONNECTED_PIN__18[89] __UNCONNECTED_PIN__18[88] __UNCONNECTED_PIN__18[87]
-+ __UNCONNECTED_PIN__18[86] __UNCONNECTED_PIN__18[85] __UNCONNECTED_PIN__18[84] __UNCONNECTED_PIN__18[83]
-+ __UNCONNECTED_PIN__18[82] __UNCONNECTED_PIN__18[81] __UNCONNECTED_PIN__18[80] __UNCONNECTED_PIN__18[79]
-+ __UNCONNECTED_PIN__18[78] __UNCONNECTED_PIN__18[77] __UNCONNECTED_PIN__18[76] __UNCONNECTED_PIN__18[75]
-+ __UNCONNECTED_PIN__18[74] __UNCONNECTED_PIN__18[73] __UNCONNECTED_PIN__18[72] __UNCONNECTED_PIN__18[71]
-+ __UNCONNECTED_PIN__18[70] __UNCONNECTED_PIN__18[69] __UNCONNECTED_PIN__18[68] __UNCONNECTED_PIN__18[67]
-+ __UNCONNECTED_PIN__18[66] __UNCONNECTED_PIN__18[65] __UNCONNECTED_PIN__18[64] __UNCONNECTED_PIN__18[63]
-+ __UNCONNECTED_PIN__18[62] __UNCONNECTED_PIN__18[61] __UNCONNECTED_PIN__18[60] __UNCONNECTED_PIN__18[59]
-+ __UNCONNECTED_PIN__18[58] __UNCONNECTED_PIN__18[57] __UNCONNECTED_PIN__18[56] __UNCONNECTED_PIN__18[55]
-+ __UNCONNECTED_PIN__18[54] __UNCONNECTED_PIN__18[53] __UNCONNECTED_PIN__18[52] __UNCONNECTED_PIN__18[51]
-+ __UNCONNECTED_PIN__18[50] __UNCONNECTED_PIN__18[49] __UNCONNECTED_PIN__18[48] __UNCONNECTED_PIN__18[47]
-+ __UNCONNECTED_PIN__18[46] __UNCONNECTED_PIN__18[45] __UNCONNECTED_PIN__18[44] __UNCONNECTED_PIN__18[43]
-+ __UNCONNECTED_PIN__18[42] __UNCONNECTED_PIN__18[41] __UNCONNECTED_PIN__18[40] __UNCONNECTED_PIN__18[39]
-+ __UNCONNECTED_PIN__18[38] __UNCONNECTED_PIN__18[37] __UNCONNECTED_PIN__18[36] __UNCONNECTED_PIN__18[35]
-+ __UNCONNECTED_PIN__18[34] __UNCONNECTED_PIN__18[33] __UNCONNECTED_PIN__18[32] __UNCONNECTED_PIN__18[31]
-+ __UNCONNECTED_PIN__18[30] __UNCONNECTED_PIN__18[29] __UNCONNECTED_PIN__18[28] __UNCONNECTED_PIN__18[27]
-+ __UNCONNECTED_PIN__18[26] __UNCONNECTED_PIN__18[25] __UNCONNECTED_PIN__18[24] __UNCONNECTED_PIN__18[23]
-+ __UNCONNECTED_PIN__18[22] __UNCONNECTED_PIN__18[21] __UNCONNECTED_PIN__18[20] __UNCONNECTED_PIN__18[19]
-+ __UNCONNECTED_PIN__18[18] __UNCONNECTED_PIN__18[17] __UNCONNECTED_PIN__18[16] __UNCONNECTED_PIN__18[15]
-+ __UNCONNECTED_PIN__18[14] __UNCONNECTED_PIN__18[13] __UNCONNECTED_PIN__18[12] __UNCONNECTED_PIN__18[11]
-+ __UNCONNECTED_PIN__18[10] __UNCONNECTED_PIN__18[9] __UNCONNECTED_PIN__18[8] __UNCONNECTED_PIN__18[7] __UNCONNECTED_PIN__18[6]
-+ __UNCONNECTED_PIN__18[5] __UNCONNECTED_PIN__18[4] __UNCONNECTED_PIN__18[3] __UNCONNECTED_PIN__18[2] __UNCONNECTED_PIN__18[1]
-+ __UNCONNECTED_PIN__18[0] __UNCONNECTED_PIN__19[127] __UNCONNECTED_PIN__19[126] __UNCONNECTED_PIN__19[125]
-+ __UNCONNECTED_PIN__19[124] __UNCONNECTED_PIN__19[123] __UNCONNECTED_PIN__19[122] __UNCONNECTED_PIN__19[121]
-+ __UNCONNECTED_PIN__19[120] __UNCONNECTED_PIN__19[119] __UNCONNECTED_PIN__19[118] __UNCONNECTED_PIN__19[117]
-+ __UNCONNECTED_PIN__19[116] __UNCONNECTED_PIN__19[115] __UNCONNECTED_PIN__19[114] __UNCONNECTED_PIN__19[113]
-+ __UNCONNECTED_PIN__19[112] __UNCONNECTED_PIN__19[111] __UNCONNECTED_PIN__19[110] __UNCONNECTED_PIN__19[109]
-+ __UNCONNECTED_PIN__19[108] __UNCONNECTED_PIN__19[107] __UNCONNECTED_PIN__19[106] __UNCONNECTED_PIN__19[105]
-+ __UNCONNECTED_PIN__19[104] __UNCONNECTED_PIN__19[103] __UNCONNECTED_PIN__19[102] __UNCONNECTED_PIN__19[101]
-+ __UNCONNECTED_PIN__19[100] __UNCONNECTED_PIN__19[99] __UNCONNECTED_PIN__19[98] __UNCONNECTED_PIN__19[97]
-+ __UNCONNECTED_PIN__19[96] __UNCONNECTED_PIN__19[95] __UNCONNECTED_PIN__19[94] __UNCONNECTED_PIN__19[93]
-+ __UNCONNECTED_PIN__19[92] __UNCONNECTED_PIN__19[91] __UNCONNECTED_PIN__19[90] __UNCONNECTED_PIN__19[89]
-+ __UNCONNECTED_PIN__19[88] __UNCONNECTED_PIN__19[87] __UNCONNECTED_PIN__19[86] __UNCONNECTED_PIN__19[85]
-+ __UNCONNECTED_PIN__19[84] __UNCONNECTED_PIN__19[83] __UNCONNECTED_PIN__19[82] __UNCONNECTED_PIN__19[81]
-+ __UNCONNECTED_PIN__19[80] __UNCONNECTED_PIN__19[79] __UNCONNECTED_PIN__19[78] __UNCONNECTED_PIN__19[77]
-+ __UNCONNECTED_PIN__19[76] __UNCONNECTED_PIN__19[75] __UNCONNECTED_PIN__19[74] __UNCONNECTED_PIN__19[73]
-+ __UNCONNECTED_PIN__19[72] __UNCONNECTED_PIN__19[71] __UNCONNECTED_PIN__19[70] __UNCONNECTED_PIN__19[69]
-+ __UNCONNECTED_PIN__19[68] __UNCONNECTED_PIN__19[67] __UNCONNECTED_PIN__19[66] __UNCONNECTED_PIN__19[65]
-+ __UNCONNECTED_PIN__19[64] __UNCONNECTED_PIN__19[63] __UNCONNECTED_PIN__19[62] __UNCONNECTED_PIN__19[61]
-+ __UNCONNECTED_PIN__19[60] __UNCONNECTED_PIN__19[59] __UNCONNECTED_PIN__19[58] __UNCONNECTED_PIN__19[57]
-+ __UNCONNECTED_PIN__19[56] __UNCONNECTED_PIN__19[55] __UNCONNECTED_PIN__19[54] __UNCONNECTED_PIN__19[53]
-+ __UNCONNECTED_PIN__19[52] __UNCONNECTED_PIN__19[51] __UNCONNECTED_PIN__19[50] __UNCONNECTED_PIN__19[49]
-+ __UNCONNECTED_PIN__19[48] __UNCONNECTED_PIN__19[47] __UNCONNECTED_PIN__19[46] __UNCONNECTED_PIN__19[45]
-+ __UNCONNECTED_PIN__19[44] __UNCONNECTED_PIN__19[43] __UNCONNECTED_PIN__19[42] __UNCONNECTED_PIN__19[41]
-+ __UNCONNECTED_PIN__19[40] __UNCONNECTED_PIN__19[39] __UNCONNECTED_PIN__19[38] __UNCONNECTED_PIN__19[37]
-+ __UNCONNECTED_PIN__19[36] __UNCONNECTED_PIN__19[35] __UNCONNECTED_PIN__19[34] __UNCONNECTED_PIN__19[33]
-+ __UNCONNECTED_PIN__19[32] __UNCONNECTED_PIN__19[31] __UNCONNECTED_PIN__19[30] __UNCONNECTED_PIN__19[29]
-+ __UNCONNECTED_PIN__19[28] __UNCONNECTED_PIN__19[27] __UNCONNECTED_PIN__19[26] __UNCONNECTED_PIN__19[25]
-+ __UNCONNECTED_PIN__19[24] __UNCONNECTED_PIN__19[23] __UNCONNECTED_PIN__19[22] __UNCONNECTED_PIN__19[21]
-+ __UNCONNECTED_PIN__19[20] __UNCONNECTED_PIN__19[19] __UNCONNECTED_PIN__19[18] __UNCONNECTED_PIN__19[17]
-+ __UNCONNECTED_PIN__19[16] __UNCONNECTED_PIN__19[15] __UNCONNECTED_PIN__19[14] __UNCONNECTED_PIN__19[13]
-+ __UNCONNECTED_PIN__19[12] __UNCONNECTED_PIN__19[11] __UNCONNECTED_PIN__19[10] __UNCONNECTED_PIN__19[9]
-+ __UNCONNECTED_PIN__19[8] __UNCONNECTED_PIN__19[7] __UNCONNECTED_PIN__19[6] __UNCONNECTED_PIN__19[5] __UNCONNECTED_PIN__19[4]
-+ __UNCONNECTED_PIN__19[3] __UNCONNECTED_PIN__19[2] __UNCONNECTED_PIN__19[1] __UNCONNECTED_PIN__19[0]
-+ __UNCONNECTED_PIN__20[127] __UNCONNECTED_PIN__20[126] __UNCONNECTED_PIN__20[125] __UNCONNECTED_PIN__20[124]
-+ __UNCONNECTED_PIN__20[123] __UNCONNECTED_PIN__20[122] __UNCONNECTED_PIN__20[121] __UNCONNECTED_PIN__20[120]
-+ __UNCONNECTED_PIN__20[119] __UNCONNECTED_PIN__20[118] __UNCONNECTED_PIN__20[117] __UNCONNECTED_PIN__20[116]
-+ __UNCONNECTED_PIN__20[115] __UNCONNECTED_PIN__20[114] __UNCONNECTED_PIN__20[113] __UNCONNECTED_PIN__20[112]
-+ __UNCONNECTED_PIN__20[111] __UNCONNECTED_PIN__20[110] __UNCONNECTED_PIN__20[109] __UNCONNECTED_PIN__20[108]
-+ __UNCONNECTED_PIN__20[107] __UNCONNECTED_PIN__20[106] __UNCONNECTED_PIN__20[105] __UNCONNECTED_PIN__20[104]
-+ __UNCONNECTED_PIN__20[103] __UNCONNECTED_PIN__20[102] __UNCONNECTED_PIN__20[101] __UNCONNECTED_PIN__20[100]
-+ __UNCONNECTED_PIN__20[99] __UNCONNECTED_PIN__20[98] __UNCONNECTED_PIN__20[97] __UNCONNECTED_PIN__20[96]
-+ __UNCONNECTED_PIN__20[95] __UNCONNECTED_PIN__20[94] __UNCONNECTED_PIN__20[93] __UNCONNECTED_PIN__20[92]
-+ __UNCONNECTED_PIN__20[91] __UNCONNECTED_PIN__20[90] __UNCONNECTED_PIN__20[89] __UNCONNECTED_PIN__20[88]
-+ __UNCONNECTED_PIN__20[87] __UNCONNECTED_PIN__20[86] __UNCONNECTED_PIN__20[85] __UNCONNECTED_PIN__20[84]
-+ __UNCONNECTED_PIN__20[83] __UNCONNECTED_PIN__20[82] __UNCONNECTED_PIN__20[81] __UNCONNECTED_PIN__20[80]
-+ __UNCONNECTED_PIN__20[79] __UNCONNECTED_PIN__20[78] __UNCONNECTED_PIN__20[77] __UNCONNECTED_PIN__20[76]
-+ __UNCONNECTED_PIN__20[75] __UNCONNECTED_PIN__20[74] __UNCONNECTED_PIN__20[73] __UNCONNECTED_PIN__20[72]
-+ __UNCONNECTED_PIN__20[71] __UNCONNECTED_PIN__20[70] __UNCONNECTED_PIN__20[69] __UNCONNECTED_PIN__20[68]
-+ __UNCONNECTED_PIN__20[67] __UNCONNECTED_PIN__20[66] __UNCONNECTED_PIN__20[65] __UNCONNECTED_PIN__20[64]
-+ __UNCONNECTED_PIN__20[63] __UNCONNECTED_PIN__20[62] __UNCONNECTED_PIN__20[61] __UNCONNECTED_PIN__20[60]
-+ __UNCONNECTED_PIN__20[59] __UNCONNECTED_PIN__20[58] __UNCONNECTED_PIN__20[57] __UNCONNECTED_PIN__20[56]
-+ __UNCONNECTED_PIN__20[55] __UNCONNECTED_PIN__20[54] __UNCONNECTED_PIN__20[53] __UNCONNECTED_PIN__20[52]
-+ __UNCONNECTED_PIN__20[51] __UNCONNECTED_PIN__20[50] __UNCONNECTED_PIN__20[49] __UNCONNECTED_PIN__20[48]
-+ __UNCONNECTED_PIN__20[47] __UNCONNECTED_PIN__20[46] __UNCONNECTED_PIN__20[45] __UNCONNECTED_PIN__20[44]
-+ __UNCONNECTED_PIN__20[43] __UNCONNECTED_PIN__20[42] __UNCONNECTED_PIN__20[41] __UNCONNECTED_PIN__20[40]
-+ __UNCONNECTED_PIN__20[39] __UNCONNECTED_PIN__20[38] __UNCONNECTED_PIN__20[37] __UNCONNECTED_PIN__20[36]
-+ __UNCONNECTED_PIN__20[35] __UNCONNECTED_PIN__20[34] __UNCONNECTED_PIN__20[33] __UNCONNECTED_PIN__20[32]
-+ __UNCONNECTED_PIN__20[31] __UNCONNECTED_PIN__20[30] __UNCONNECTED_PIN__20[29] __UNCONNECTED_PIN__20[28]
-+ __UNCONNECTED_PIN__20[27] __UNCONNECTED_PIN__20[26] __UNCONNECTED_PIN__20[25] __UNCONNECTED_PIN__20[24]
-+ __UNCONNECTED_PIN__20[23] __UNCONNECTED_PIN__20[22] __UNCONNECTED_PIN__20[21] __UNCONNECTED_PIN__20[20]
-+ __UNCONNECTED_PIN__20[19] __UNCONNECTED_PIN__20[18] __UNCONNECTED_PIN__20[17] __UNCONNECTED_PIN__20[16]
-+ __UNCONNECTED_PIN__20[15] __UNCONNECTED_PIN__20[14] __UNCONNECTED_PIN__20[13] __UNCONNECTED_PIN__20[12]
-+ __UNCONNECTED_PIN__20[11] __UNCONNECTED_PIN__20[10] __UNCONNECTED_PIN__20[9] __UNCONNECTED_PIN__20[8]
-+ __UNCONNECTED_PIN__20[7] __UNCONNECTED_PIN__20[6] __UNCONNECTED_PIN__20[5] __UNCONNECTED_PIN__20[4] __UNCONNECTED_PIN__20[3]
-+ __UNCONNECTED_PIN__20[2] __UNCONNECTED_PIN__20[1] __UNCONNECTED_PIN__20[0] __UNCONNECTED_PIN__21[26]
-+ __UNCONNECTED_PIN__21[25] __UNCONNECTED_PIN__21[24] __UNCONNECTED_PIN__21[23] __UNCONNECTED_PIN__21[22]
-+ __UNCONNECTED_PIN__21[21] __UNCONNECTED_PIN__21[20] __UNCONNECTED_PIN__21[19] __UNCONNECTED_PIN__21[18]
-+ __UNCONNECTED_PIN__21[17] __UNCONNECTED_PIN__21[16] __UNCONNECTED_PIN__21[15] __UNCONNECTED_PIN__21[14]
-+ __UNCONNECTED_PIN__21[13] __UNCONNECTED_PIN__21[12] __UNCONNECTED_PIN__21[11] __UNCONNECTED_PIN__21[10]
-+ __UNCONNECTED_PIN__21[9] __UNCONNECTED_PIN__21[8] __UNCONNECTED_PIN__21[7] __UNCONNECTED_PIN__21[6] __UNCONNECTED_PIN__21[5]
-+ __UNCONNECTED_PIN__21[4] __UNCONNECTED_PIN__21[3] __UNCONNECTED_PIN__21[2] __UNCONNECTED_PIN__21[1] __UNCONNECTED_PIN__21[0]
-+ __UNCONNECTED_PIN__22[26] __UNCONNECTED_PIN__22[25] __UNCONNECTED_PIN__22[24] __UNCONNECTED_PIN__22[23]
-+ __UNCONNECTED_PIN__22[22] __UNCONNECTED_PIN__22[21] __UNCONNECTED_PIN__22[20] __UNCONNECTED_PIN__22[19]
-+ __UNCONNECTED_PIN__22[18] __UNCONNECTED_PIN__22[17] __UNCONNECTED_PIN__22[16] __UNCONNECTED_PIN__22[15]
-+ __UNCONNECTED_PIN__22[14] __UNCONNECTED_PIN__22[13] __UNCONNECTED_PIN__22[12] __UNCONNECTED_PIN__22[11]
-+ __UNCONNECTED_PIN__22[10] __UNCONNECTED_PIN__22[9] __UNCONNECTED_PIN__22[8] __UNCONNECTED_PIN__22[7] __UNCONNECTED_PIN__22[6]
-+ __UNCONNECTED_PIN__22[5] __UNCONNECTED_PIN__22[4] __UNCONNECTED_PIN__22[3] __UNCONNECTED_PIN__22[2] __UNCONNECTED_PIN__22[1]
-+ __UNCONNECTED_PIN__22[0] __UNCONNECTED_PIN__23[26] __UNCONNECTED_PIN__23[25] __UNCONNECTED_PIN__23[24]
-+ __UNCONNECTED_PIN__23[23] __UNCONNECTED_PIN__23[22] __UNCONNECTED_PIN__23[21] __UNCONNECTED_PIN__23[20]
-+ __UNCONNECTED_PIN__23[19] __UNCONNECTED_PIN__23[18] __UNCONNECTED_PIN__23[17] __UNCONNECTED_PIN__23[16]
-+ __UNCONNECTED_PIN__23[15] __UNCONNECTED_PIN__23[14] __UNCONNECTED_PIN__23[13] __UNCONNECTED_PIN__23[12]
-+ __UNCONNECTED_PIN__23[11] __UNCONNECTED_PIN__23[10] __UNCONNECTED_PIN__23[9] __UNCONNECTED_PIN__23[8]
-+ __UNCONNECTED_PIN__23[7] __UNCONNECTED_PIN__23[6] __UNCONNECTED_PIN__23[5] __UNCONNECTED_PIN__23[4] __UNCONNECTED_PIN__23[3]
-+ __UNCONNECTED_PIN__23[2] __UNCONNECTED_PIN__23[1] __UNCONNECTED_PIN__23[0] __UNCONNECTED_PIN__24[26]
-+ __UNCONNECTED_PIN__24[25] __UNCONNECTED_PIN__24[24] __UNCONNECTED_PIN__24[23] __UNCONNECTED_PIN__24[22]
-+ __UNCONNECTED_PIN__24[21] __UNCONNECTED_PIN__24[20] __UNCONNECTED_PIN__24[19] __UNCONNECTED_PIN__24[18]
-+ __UNCONNECTED_PIN__24[17] __UNCONNECTED_PIN__24[16] __UNCONNECTED_PIN__24[15] __UNCONNECTED_PIN__24[14]
-+ __UNCONNECTED_PIN__24[13] __UNCONNECTED_PIN__24[12] __UNCONNECTED_PIN__24[11] __UNCONNECTED_PIN__24[10]
-+ __UNCONNECTED_PIN__24[9] __UNCONNECTED_PIN__24[8] __UNCONNECTED_PIN__24[7] __UNCONNECTED_PIN__24[6] __UNCONNECTED_PIN__24[5]
-+ __UNCONNECTED_PIN__24[4] __UNCONNECTED_PIN__24[3] __UNCONNECTED_PIN__24[2] __UNCONNECTED_PIN__24[1] __UNCONNECTED_PIN__24[0]
-+ __UNCONNECTED_PIN__25[17] __UNCONNECTED_PIN__25[16] __UNCONNECTED_PIN__25[15] __UNCONNECTED_PIN__25[14]
-+ __UNCONNECTED_PIN__25[13] __UNCONNECTED_PIN__25[12] __UNCONNECTED_PIN__25[11] __UNCONNECTED_PIN__25[10]
-+ __UNCONNECTED_PIN__25[9] __UNCONNECTED_PIN__25[8] __UNCONNECTED_PIN__25[7] __UNCONNECTED_PIN__25[6] __UNCONNECTED_PIN__25[5]
-+ __UNCONNECTED_PIN__25[4] __UNCONNECTED_PIN__25[3] __UNCONNECTED_PIN__25[2] __UNCONNECTED_PIN__25[1] __UNCONNECTED_PIN__25[0]
-+ __UNCONNECTED_PIN__26[17] __UNCONNECTED_PIN__26[16] __UNCONNECTED_PIN__26[15] __UNCONNECTED_PIN__26[14]
-+ __UNCONNECTED_PIN__26[13] __UNCONNECTED_PIN__26[12] __UNCONNECTED_PIN__26[11] __UNCONNECTED_PIN__26[10]
-+ __UNCONNECTED_PIN__26[9] __UNCONNECTED_PIN__26[8] __UNCONNECTED_PIN__26[7] __UNCONNECTED_PIN__26[6] __UNCONNECTED_PIN__26[5]
-+ __UNCONNECTED_PIN__26[4] __UNCONNECTED_PIN__26[3] __UNCONNECTED_PIN__26[2] __UNCONNECTED_PIN__26[1] __UNCONNECTED_PIN__26[0]
-+ __UNCONNECTED_PIN__27[10] __UNCONNECTED_PIN__27[9] __UNCONNECTED_PIN__27[8] __UNCONNECTED_PIN__27[7] __UNCONNECTED_PIN__27[6]
-+ __UNCONNECTED_PIN__27[5] __UNCONNECTED_PIN__27[4] __UNCONNECTED_PIN__27[3] __UNCONNECTED_PIN__27[2] __UNCONNECTED_PIN__27[1]
-+ __UNCONNECTED_PIN__27[0] __UNCONNECTED_PIN__28[2] __UNCONNECTED_PIN__28[1] __UNCONNECTED_PIN__28[0] __UNCONNECTED_PIN__29[2]
-+ __UNCONNECTED_PIN__29[1] __UNCONNECTED_PIN__29[0] __UNCONNECTED_PIN__30 __UNCONNECTED_PIN__31[2] __UNCONNECTED_PIN__31[1]
-+ __UNCONNECTED_PIN__31[0] user_analog_project_wrapper
+x1 GND GND GND GND net1 GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND
++ GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND GND io_analog[10]
++ io_analog[9] io_analog[8] io_analog[7] io_analog[6] io_analog[5] io_analog[4] io_analog[3] io_analog[2]
++ io_analog[1] io_analog[0] GND GND GND GND GND GND GND GND GND GND user_analog_project_wrapper
+V1 net1 GND 1.8
+I0 io_analog[6] GND pulse 0 1e-6 5n 1n 1n 5n 20n
+I1 io_analog[7] GND pulse 0 1e-6 2n 1n 1n 5n 20n
+R1 io_analog[3] GND 1k m=1
+R3 io_analog[4] tia1_outp 1 m=1
+R2 io_analog[5] tia1_outn 1 m=1
+R4 io_analog[0] tia2_outp 1 m=1
+R5 io_analog[1] tia2_outn 1 m=1
+C1 tia2_outn GND 10p m=1
+C2 tia2_outp GND 10p m=1
+C3 tia1_outn GND 10p m=1
+C4 tia1_outp GND 10p m=1
+**** begin user architecture code
+
+
+*.options savecurrents
+.option warn=1
+.control
+set wr_vecnames
+set wr_singlescale
+set hcopydevtype=svg
+
+tran 10p 10n
+plot tia1_outp tia1_outn
+plot tia2_outp tia2_outn
+
+
+
+
+
+.endc
+
+
+
+
+* .include ../../tia.spice
+* .include ../../filter_diff.spice
+* .include ../../cmm_sense3.spice
+
+* .include tia.spice
+* .include filter_diff.spice
+* .include diffamp.spice
+* .include cmm_sense3.spice
+* .include comp.spice
+.include outdriver.spice
+
+
+
+* .lib /usr/local/share/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice #model#
+.lib /usr/local/share/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice.tt.red tt
+* .lib /home/simon/share/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice.tt.red tt
+
+**** end user architecture code
 **.ends
+
+* expanding   symbol:  user_analog_project_wrapper.sym # of pins=32
+** sym_path: /home/simon/code/caravel_tia/xschem/user_analog_project_wrapper.sym
+** sch_path: /home/simon/code/caravel_tia/xschem/user_analog_project_wrapper.sch
+.subckt user_analog_project_wrapper  vdda1 vdda2 vssa1 vssa2 vccd1 vccd2 vssd1 vssd2 wb_clk_i
++ wb_rst_i wbs_stb_i wbs_cyc_i wbs_we_i wbs_sel_i[3] wbs_sel_i[2] wbs_sel_i[1] wbs_sel_i[0] wbs_dat_i[31]
++ wbs_dat_i[30] wbs_dat_i[29] wbs_dat_i[28] wbs_dat_i[27] wbs_dat_i[26] wbs_dat_i[25] wbs_dat_i[24] wbs_dat_i[23]
++ wbs_dat_i[22] wbs_dat_i[21] wbs_dat_i[20] wbs_dat_i[19] wbs_dat_i[18] wbs_dat_i[17] wbs_dat_i[16] wbs_dat_i[15]
++ wbs_dat_i[14] wbs_dat_i[13] wbs_dat_i[12] wbs_dat_i[11] wbs_dat_i[10] wbs_dat_i[9] wbs_dat_i[8] wbs_dat_i[7]
++ wbs_dat_i[6] wbs_dat_i[5] wbs_dat_i[4] wbs_dat_i[3] wbs_dat_i[2] wbs_dat_i[1] wbs_dat_i[0] wbs_adr_i[31]
++ wbs_adr_i[30] wbs_adr_i[29] wbs_adr_i[28] wbs_adr_i[27] wbs_adr_i[26] wbs_adr_i[25] wbs_adr_i[24] wbs_adr_i[23]
++ wbs_adr_i[22] wbs_adr_i[21] wbs_adr_i[20] wbs_adr_i[19] wbs_adr_i[18] wbs_adr_i[17] wbs_adr_i[16] wbs_adr_i[15]
++ wbs_adr_i[14] wbs_adr_i[13] wbs_adr_i[12] wbs_adr_i[11] wbs_adr_i[10] wbs_adr_i[9] wbs_adr_i[8] wbs_adr_i[7]
++ wbs_adr_i[6] wbs_adr_i[5] wbs_adr_i[4] wbs_adr_i[3] wbs_adr_i[2] wbs_adr_i[1] wbs_adr_i[0] wbs_ack_o
++ wbs_dat_o[31] wbs_dat_o[30] wbs_dat_o[29] wbs_dat_o[28] wbs_dat_o[27] wbs_dat_o[26] wbs_dat_o[25] wbs_dat_o[24]
++ wbs_dat_o[23] wbs_dat_o[22] wbs_dat_o[21] wbs_dat_o[20] wbs_dat_o[19] wbs_dat_o[18] wbs_dat_o[17] wbs_dat_o[16]
++ wbs_dat_o[15] wbs_dat_o[14] wbs_dat_o[13] wbs_dat_o[12] wbs_dat_o[11] wbs_dat_o[10] wbs_dat_o[9] wbs_dat_o[8]
++ wbs_dat_o[7] wbs_dat_o[6] wbs_dat_o[5] wbs_dat_o[4] wbs_dat_o[3] wbs_dat_o[2] wbs_dat_o[1] wbs_dat_o[0]
++ la_data_in[127] la_data_in[126] la_data_in[125] la_data_in[124] la_data_in[123] la_data_in[122] la_data_in[121]
++ la_data_in[120] la_data_in[119] la_data_in[118] la_data_in[117] la_data_in[116] la_data_in[115] la_data_in[114]
++ la_data_in[113] la_data_in[112] la_data_in[111] la_data_in[110] la_data_in[109] la_data_in[108] la_data_in[107]
++ la_data_in[106] la_data_in[105] la_data_in[104] la_data_in[103] la_data_in[102] la_data_in[101] la_data_in[100]
++ la_data_in[99] la_data_in[98] la_data_in[97] la_data_in[96] la_data_in[95] la_data_in[94] la_data_in[93]
++ la_data_in[92] la_data_in[91] la_data_in[90] la_data_in[89] la_data_in[88] la_data_in[87] la_data_in[86]
++ la_data_in[85] la_data_in[84] la_data_in[83] la_data_in[82] la_data_in[81] la_data_in[80] la_data_in[79]
++ la_data_in[78] la_data_in[77] la_data_in[76] la_data_in[75] la_data_in[74] la_data_in[73] la_data_in[72]
++ la_data_in[71] la_data_in[70] la_data_in[69] la_data_in[68] la_data_in[67] la_data_in[66] la_data_in[65]
++ la_data_in[64] la_data_in[63] la_data_in[62] la_data_in[61] la_data_in[60] la_data_in[59] la_data_in[58]
++ la_data_in[57] la_data_in[56] la_data_in[55] la_data_in[54] la_data_in[53] la_data_in[52] la_data_in[51]
++ la_data_in[50] la_data_in[49] la_data_in[48] la_data_in[47] la_data_in[46] la_data_in[45] la_data_in[44]
++ la_data_in[43] la_data_in[42] la_data_in[41] la_data_in[40] la_data_in[39] la_data_in[38] la_data_in[37]
++ la_data_in[36] la_data_in[35] la_data_in[34] la_data_in[33] la_data_in[32] la_data_in[31] la_data_in[30]
++ la_data_in[29] la_data_in[28] la_data_in[27] la_data_in[26] la_data_in[25] la_data_in[24] la_data_in[23]
++ la_data_in[22] la_data_in[21] la_data_in[20] la_data_in[19] la_data_in[18] la_data_in[17] la_data_in[16]
++ la_data_in[15] la_data_in[14] la_data_in[13] la_data_in[12] la_data_in[11] la_data_in[10] la_data_in[9]
++ la_data_in[8] la_data_in[7] la_data_in[6] la_data_in[5] la_data_in[4] la_data_in[3] la_data_in[2] la_data_in[1]
++ la_data_in[0] la_data_out[127] la_data_out[126] la_data_out[125] la_data_out[124] la_data_out[123]
++ la_data_out[122] la_data_out[121] la_data_out[120] la_data_out[119] la_data_out[118] la_data_out[117]
++ la_data_out[116] la_data_out[115] la_data_out[114] la_data_out[113] la_data_out[112] la_data_out[111]
++ la_data_out[110] la_data_out[109] la_data_out[108] la_data_out[107] la_data_out[106] la_data_out[105]
++ la_data_out[104] la_data_out[103] la_data_out[102] la_data_out[101] la_data_out[100] la_data_out[99] la_data_out[98]
++ la_data_out[97] la_data_out[96] la_data_out[95] la_data_out[94] la_data_out[93] la_data_out[92] la_data_out[91]
++ la_data_out[90] la_data_out[89] la_data_out[88] la_data_out[87] la_data_out[86] la_data_out[85] la_data_out[84]
++ la_data_out[83] la_data_out[82] la_data_out[81] la_data_out[80] la_data_out[79] la_data_out[78] la_data_out[77]
++ la_data_out[76] la_data_out[75] la_data_out[74] la_data_out[73] la_data_out[72] la_data_out[71] la_data_out[70]
++ la_data_out[69] la_data_out[68] la_data_out[67] la_data_out[66] la_data_out[65] la_data_out[64] la_data_out[63]
++ la_data_out[62] la_data_out[61] la_data_out[60] la_data_out[59] la_data_out[58] la_data_out[57] la_data_out[56]
++ la_data_out[55] la_data_out[54] la_data_out[53] la_data_out[52] la_data_out[51] la_data_out[50] la_data_out[49]
++ la_data_out[48] la_data_out[47] la_data_out[46] la_data_out[45] la_data_out[44] la_data_out[43] la_data_out[42]
++ la_data_out[41] la_data_out[40] la_data_out[39] la_data_out[38] la_data_out[37] la_data_out[36] la_data_out[35]
++ la_data_out[34] la_data_out[33] la_data_out[32] la_data_out[31] la_data_out[30] la_data_out[29] la_data_out[28]
++ la_data_out[27] la_data_out[26] la_data_out[25] la_data_out[24] la_data_out[23] la_data_out[22] la_data_out[21]
++ la_data_out[20] la_data_out[19] la_data_out[18] la_data_out[17] la_data_out[16] la_data_out[15] la_data_out[14]
++ la_data_out[13] la_data_out[12] la_data_out[11] la_data_out[10] la_data_out[9] la_data_out[8] la_data_out[7]
++ la_data_out[6] la_data_out[5] la_data_out[4] la_data_out[3] la_data_out[2] la_data_out[1] la_data_out[0]
++ la_oenb[127] la_oenb[126] la_oenb[125] la_oenb[124] la_oenb[123] la_oenb[122] la_oenb[121] la_oenb[120]
++ la_oenb[119] la_oenb[118] la_oenb[117] la_oenb[116] la_oenb[115] la_oenb[114] la_oenb[113] la_oenb[112]
++ la_oenb[111] la_oenb[110] la_oenb[109] la_oenb[108] la_oenb[107] la_oenb[106] la_oenb[105] la_oenb[104]
++ la_oenb[103] la_oenb[102] la_oenb[101] la_oenb[100] la_oenb[99] la_oenb[98] la_oenb[97] la_oenb[96] la_oenb[95]
++ la_oenb[94] la_oenb[93] la_oenb[92] la_oenb[91] la_oenb[90] la_oenb[89] la_oenb[88] la_oenb[87] la_oenb[86]
++ la_oenb[85] la_oenb[84] la_oenb[83] la_oenb[82] la_oenb[81] la_oenb[80] la_oenb[79] la_oenb[78] la_oenb[77]
++ la_oenb[76] la_oenb[75] la_oenb[74] la_oenb[73] la_oenb[72] la_oenb[71] la_oenb[70] la_oenb[69] la_oenb[68]
++ la_oenb[67] la_oenb[66] la_oenb[65] la_oenb[64] la_oenb[63] la_oenb[62] la_oenb[61] la_oenb[60] la_oenb[59]
++ la_oenb[58] la_oenb[57] la_oenb[56] la_oenb[55] la_oenb[54] la_oenb[53] la_oenb[52] la_oenb[51] la_oenb[50]
++ la_oenb[49] la_oenb[48] la_oenb[47] la_oenb[46] la_oenb[45] la_oenb[44] la_oenb[43] la_oenb[42] la_oenb[41]
++ la_oenb[40] la_oenb[39] la_oenb[38] la_oenb[37] la_oenb[36] la_oenb[35] la_oenb[34] la_oenb[33] la_oenb[32]
++ la_oenb[31] la_oenb[30] la_oenb[29] la_oenb[28] la_oenb[27] la_oenb[26] la_oenb[25] la_oenb[24] la_oenb[23]
++ la_oenb[22] la_oenb[21] la_oenb[20] la_oenb[19] la_oenb[18] la_oenb[17] la_oenb[16] la_oenb[15] la_oenb[14]
++ la_oenb[13] la_oenb[12] la_oenb[11] la_oenb[10] la_oenb[9] la_oenb[8] la_oenb[7] la_oenb[6] la_oenb[5]
++ la_oenb[4] la_oenb[3] la_oenb[2] la_oenb[1] la_oenb[0] io_in[26] io_in[25] io_in[24] io_in[23] io_in[22]
++ io_in[21] io_in[20] io_in[19] io_in[18] io_in[17] io_in[16] io_in[15] io_in[14] io_in[13] io_in[12] io_in[11]
++ io_in[10] io_in[9] io_in[8] io_in[7] io_in[6] io_in[5] io_in[4] io_in[3] io_in[2] io_in[1] io_in[0]
++ io_in_3v3[26] io_in_3v3[25] io_in_3v3[24] io_in_3v3[23] io_in_3v3[22] io_in_3v3[21] io_in_3v3[20] io_in_3v3[19]
++ io_in_3v3[18] io_in_3v3[17] io_in_3v3[16] io_in_3v3[15] io_in_3v3[14] io_in_3v3[13] io_in_3v3[12] io_in_3v3[11]
++ io_in_3v3[10] io_in_3v3[9] io_in_3v3[8] io_in_3v3[7] io_in_3v3[6] io_in_3v3[5] io_in_3v3[4] io_in_3v3[3]
++ io_in_3v3[2] io_in_3v3[1] io_in_3v3[0] io_out[26] io_out[25] io_out[24] io_out[23] io_out[22] io_out[21]
++ io_out[20] io_out[19] io_out[18] io_out[17] io_out[16] io_out[15] io_out[14] io_out[13] io_out[12] io_out[11]
++ io_out[10] io_out[9] io_out[8] io_out[7] io_out[6] io_out[5] io_out[4] io_out[3] io_out[2] io_out[1] io_out[0]
++ io_oeb[26] io_oeb[25] io_oeb[24] io_oeb[23] io_oeb[22] io_oeb[21] io_oeb[20] io_oeb[19] io_oeb[18] io_oeb[17]
++ io_oeb[16] io_oeb[15] io_oeb[14] io_oeb[13] io_oeb[12] io_oeb[11] io_oeb[10] io_oeb[9] io_oeb[8] io_oeb[7]
++ io_oeb[6] io_oeb[5] io_oeb[4] io_oeb[3] io_oeb[2] io_oeb[1] io_oeb[0] gpio_analog[17] gpio_analog[16]
++ gpio_analog[15] gpio_analog[14] gpio_analog[13] gpio_analog[12] gpio_analog[11] gpio_analog[10] gpio_analog[9]
++ gpio_analog[8] gpio_analog[7] gpio_analog[6] gpio_analog[5] gpio_analog[4] gpio_analog[3] gpio_analog[2]
++ gpio_analog[1] gpio_analog[0] gpio_noesd[17] gpio_noesd[16] gpio_noesd[15] gpio_noesd[14] gpio_noesd[13]
++ gpio_noesd[12] gpio_noesd[11] gpio_noesd[10] gpio_noesd[9] gpio_noesd[8] gpio_noesd[7] gpio_noesd[6] gpio_noesd[5]
++ gpio_noesd[4] gpio_noesd[3] gpio_noesd[2] gpio_noesd[1] gpio_noesd[0] io_analog[10] io_analog[9] io_analog[8]
++ io_analog[7] io_analog[6] io_analog[5] io_analog[4] io_analog[3] io_analog[2] io_analog[1] io_analog[0]
++ io_clamp_high[2] io_clamp_high[1] io_clamp_high[0] io_clamp_low[2] io_clamp_low[1] io_clamp_low[0] user_clock2
++ user_irq[2] user_irq[1] user_irq[0]
+*.iopin vdda1
+*.iopin vdda2
+*.iopin vssa1
+*.iopin vssa2
+*.iopin vccd1
+*.iopin vccd2
+*.iopin vssd1
+*.iopin vssd2
+*.ipin wb_clk_i
+*.ipin wb_rst_i
+*.ipin wbs_stb_i
+*.ipin wbs_cyc_i
+*.ipin wbs_we_i
+*.ipin wbs_sel_i[3],wbs_sel_i[2],wbs_sel_i[1],wbs_sel_i[0]
+*.ipin
+*+ wbs_dat_i[31],wbs_dat_i[30],wbs_dat_i[29],wbs_dat_i[28],wbs_dat_i[27],wbs_dat_i[26],wbs_dat_i[25],wbs_dat_i[24],wbs_dat_i[23],wbs_dat_i[22],wbs_dat_i[21],wbs_dat_i[20],wbs_dat_i[19],wbs_dat_i[18],wbs_dat_i[17],wbs_dat_i[16],wbs_dat_i[15],wbs_dat_i[14],wbs_dat_i[13],wbs_dat_i[12],wbs_dat_i[11],wbs_dat_i[10],wbs_dat_i[9],wbs_dat_i[8],wbs_dat_i[7],wbs_dat_i[6],wbs_dat_i[5],wbs_dat_i[4],wbs_dat_i[3],wbs_dat_i[2],wbs_dat_i[1],wbs_dat_i[0]
+*.ipin
+*+ wbs_adr_i[31],wbs_adr_i[30],wbs_adr_i[29],wbs_adr_i[28],wbs_adr_i[27],wbs_adr_i[26],wbs_adr_i[25],wbs_adr_i[24],wbs_adr_i[23],wbs_adr_i[22],wbs_adr_i[21],wbs_adr_i[20],wbs_adr_i[19],wbs_adr_i[18],wbs_adr_i[17],wbs_adr_i[16],wbs_adr_i[15],wbs_adr_i[14],wbs_adr_i[13],wbs_adr_i[12],wbs_adr_i[11],wbs_adr_i[10],wbs_adr_i[9],wbs_adr_i[8],wbs_adr_i[7],wbs_adr_i[6],wbs_adr_i[5],wbs_adr_i[4],wbs_adr_i[3],wbs_adr_i[2],wbs_adr_i[1],wbs_adr_i[0]
+*.opin wbs_ack_o
+*.opin
+*+ wbs_dat_o[31],wbs_dat_o[30],wbs_dat_o[29],wbs_dat_o[28],wbs_dat_o[27],wbs_dat_o[26],wbs_dat_o[25],wbs_dat_o[24],wbs_dat_o[23],wbs_dat_o[22],wbs_dat_o[21],wbs_dat_o[20],wbs_dat_o[19],wbs_dat_o[18],wbs_dat_o[17],wbs_dat_o[16],wbs_dat_o[15],wbs_dat_o[14],wbs_dat_o[13],wbs_dat_o[12],wbs_dat_o[11],wbs_dat_o[10],wbs_dat_o[9],wbs_dat_o[8],wbs_dat_o[7],wbs_dat_o[6],wbs_dat_o[5],wbs_dat_o[4],wbs_dat_o[3],wbs_dat_o[2],wbs_dat_o[1],wbs_dat_o[0]
+*.ipin
+*+ la_data_in[127],la_data_in[126],la_data_in[125],la_data_in[124],la_data_in[123],la_data_in[122],la_data_in[121],la_data_in[120],la_data_in[119],la_data_in[118],la_data_in[117],la_data_in[116],la_data_in[115],la_data_in[114],la_data_in[113],la_data_in[112],la_data_in[111],la_data_in[110],la_data_in[109],la_data_in[108],la_data_in[107],la_data_in[106],la_data_in[105],la_data_in[104],la_data_in[103],la_data_in[102],la_data_in[101],la_data_in[100],la_data_in[99],la_data_in[98],la_data_in[97],la_data_in[96],la_data_in[95],la_data_in[94],la_data_in[93],la_data_in[92],la_data_in[91],la_data_in[90],la_data_in[89],la_data_in[88],la_data_in[87],la_data_in[86],la_data_in[85],la_data_in[84],la_data_in[83],la_data_in[82],la_data_in[81],la_data_in[80],la_data_in[79],la_data_in[78],la_data_in[77],la_data_in[76],la_data_in[75],la_data_in[74],la_data_in[73],la_data_in[72],la_data_in[71],la_data_in[70],la_data_in[69],la_data_in[68],la_data_in[67],la_data_in[66],la_data_in[65],la_data_in[64],la_data_in[63],la_data_in[62],la_data_in[61],la_data_in[60],la_data_in[59],la_data_in[58],la_data_in[57],la_data_in[56],la_data_in[55],la_data_in[54],la_data_in[53],la_data_in[52],la_data_in[51],la_data_in[50],la_data_in[49],la_data_in[48],la_data_in[47],la_data_in[46],la_data_in[45],la_data_in[44],la_data_in[43],la_data_in[42],la_data_in[41],la_data_in[40],la_data_in[39],la_data_in[38],la_data_in[37],la_data_in[36],la_data_in[35],la_data_in[34],la_data_in[33],la_data_in[32],la_data_in[31],la_data_in[30],la_data_in[29],la_data_in[28],la_data_in[27],la_data_in[26],la_data_in[25],la_data_in[24],la_data_in[23],la_data_in[22],la_data_in[21],la_data_in[20],la_data_in[19],la_data_in[18],la_data_in[17],la_data_in[16],la_data_in[15],la_data_in[14],la_data_in[13],la_data_in[12],la_data_in[11],la_data_in[10],la_data_in[9],la_data_in[8],la_data_in[7],la_data_in[6],la_data_in[5],la_data_in[4],la_data_in[3],la_data_in[2],la_data_in[1],la_data_in[0]
+*.opin
+*+ la_data_out[127],la_data_out[126],la_data_out[125],la_data_out[124],la_data_out[123],la_data_out[122],la_data_out[121],la_data_out[120],la_data_out[119],la_data_out[118],la_data_out[117],la_data_out[116],la_data_out[115],la_data_out[114],la_data_out[113],la_data_out[112],la_data_out[111],la_data_out[110],la_data_out[109],la_data_out[108],la_data_out[107],la_data_out[106],la_data_out[105],la_data_out[104],la_data_out[103],la_data_out[102],la_data_out[101],la_data_out[100],la_data_out[99],la_data_out[98],la_data_out[97],la_data_out[96],la_data_out[95],la_data_out[94],la_data_out[93],la_data_out[92],la_data_out[91],la_data_out[90],la_data_out[89],la_data_out[88],la_data_out[87],la_data_out[86],la_data_out[85],la_data_out[84],la_data_out[83],la_data_out[82],la_data_out[81],la_data_out[80],la_data_out[79],la_data_out[78],la_data_out[77],la_data_out[76],la_data_out[75],la_data_out[74],la_data_out[73],la_data_out[72],la_data_out[71],la_data_out[70],la_data_out[69],la_data_out[68],la_data_out[67],la_data_out[66],la_data_out[65],la_data_out[64],la_data_out[63],la_data_out[62],la_data_out[61],la_data_out[60],la_data_out[59],la_data_out[58],la_data_out[57],la_data_out[56],la_data_out[55],la_data_out[54],la_data_out[53],la_data_out[52],la_data_out[51],la_data_out[50],la_data_out[49],la_data_out[48],la_data_out[47],la_data_out[46],la_data_out[45],la_data_out[44],la_data_out[43],la_data_out[42],la_data_out[41],la_data_out[40],la_data_out[39],la_data_out[38],la_data_out[37],la_data_out[36],la_data_out[35],la_data_out[34],la_data_out[33],la_data_out[32],la_data_out[31],la_data_out[30],la_data_out[29],la_data_out[28],la_data_out[27],la_data_out[26],la_data_out[25],la_data_out[24],la_data_out[23],la_data_out[22],la_data_out[21],la_data_out[20],la_data_out[19],la_data_out[18],la_data_out[17],la_data_out[16],la_data_out[15],la_data_out[14],la_data_out[13],la_data_out[12],la_data_out[11],la_data_out[10],la_data_out[9],la_data_out[8],la_data_out[7],la_data_out[6],la_data_out[5],la_data_out[4],la_data_out[3],la_data_out[2],la_data_out[1],la_data_out[0]
+*.ipin
+*+ io_in[26],io_in[25],io_in[24],io_in[23],io_in[22],io_in[21],io_in[20],io_in[19],io_in[18],io_in[17],io_in[16],io_in[15],io_in[14],io_in[13],io_in[12],io_in[11],io_in[10],io_in[9],io_in[8],io_in[7],io_in[6],io_in[5],io_in[4],io_in[3],io_in[2],io_in[1],io_in[0]
+*.ipin
+*+ io_in_3v3[26],io_in_3v3[25],io_in_3v3[24],io_in_3v3[23],io_in_3v3[22],io_in_3v3[21],io_in_3v3[20],io_in_3v3[19],io_in_3v3[18],io_in_3v3[17],io_in_3v3[16],io_in_3v3[15],io_in_3v3[14],io_in_3v3[13],io_in_3v3[12],io_in_3v3[11],io_in_3v3[10],io_in_3v3[9],io_in_3v3[8],io_in_3v3[7],io_in_3v3[6],io_in_3v3[5],io_in_3v3[4],io_in_3v3[3],io_in_3v3[2],io_in_3v3[1],io_in_3v3[0]
+*.ipin user_clock2
+*.opin
+*+ io_out[26],io_out[25],io_out[24],io_out[23],io_out[22],io_out[21],io_out[20],io_out[19],io_out[18],io_out[17],io_out[16],io_out[15],io_out[14],io_out[13],io_out[12],io_out[11],io_out[10],io_out[9],io_out[8],io_out[7],io_out[6],io_out[5],io_out[4],io_out[3],io_out[2],io_out[1],io_out[0]
+*.opin
+*+ io_oeb[26],io_oeb[25],io_oeb[24],io_oeb[23],io_oeb[22],io_oeb[21],io_oeb[20],io_oeb[19],io_oeb[18],io_oeb[17],io_oeb[16],io_oeb[15],io_oeb[14],io_oeb[13],io_oeb[12],io_oeb[11],io_oeb[10],io_oeb[9],io_oeb[8],io_oeb[7],io_oeb[6],io_oeb[5],io_oeb[4],io_oeb[3],io_oeb[2],io_oeb[1],io_oeb[0]
+*.iopin
+*+ gpio_analog[17],gpio_analog[16],gpio_analog[15],gpio_analog[14],gpio_analog[13],gpio_analog[12],gpio_analog[11],gpio_analog[10],gpio_analog[9],gpio_analog[8],gpio_analog[7],gpio_analog[6],gpio_analog[5],gpio_analog[4],gpio_analog[3],gpio_analog[2],gpio_analog[1],gpio_analog[0]
+*.iopin
+*+ gpio_noesd[17],gpio_noesd[16],gpio_noesd[15],gpio_noesd[14],gpio_noesd[13],gpio_noesd[12],gpio_noesd[11],gpio_noesd[10],gpio_noesd[9],gpio_noesd[8],gpio_noesd[7],gpio_noesd[6],gpio_noesd[5],gpio_noesd[4],gpio_noesd[3],gpio_noesd[2],gpio_noesd[1],gpio_noesd[0]
+*.iopin
+*+ io_analog[10],io_analog[9],io_analog[8],io_analog[7],io_analog[6],io_analog[5],io_analog[4],io_analog[3],io_analog[2],io_analog[1],io_analog[0]
+*.iopin io_clamp_high[2],io_clamp_high[1],io_clamp_high[0]
+*.iopin io_clamp_low[2],io_clamp_low[1],io_clamp_low[0]
+*.opin user_irq[2],user_irq[1],user_irq[0]
+*.ipin
+*+ la_oenb[127],la_oenb[126],la_oenb[125],la_oenb[124],la_oenb[123],la_oenb[122],la_oenb[121],la_oenb[120],la_oenb[119],la_oenb[118],la_oenb[117],la_oenb[116],la_oenb[115],la_oenb[114],la_oenb[113],la_oenb[112],la_oenb[111],la_oenb[110],la_oenb[109],la_oenb[108],la_oenb[107],la_oenb[106],la_oenb[105],la_oenb[104],la_oenb[103],la_oenb[102],la_oenb[101],la_oenb[100],la_oenb[99],la_oenb[98],la_oenb[97],la_oenb[96],la_oenb[95],la_oenb[94],la_oenb[93],la_oenb[92],la_oenb[91],la_oenb[90],la_oenb[89],la_oenb[88],la_oenb[87],la_oenb[86],la_oenb[85],la_oenb[84],la_oenb[83],la_oenb[82],la_oenb[81],la_oenb[80],la_oenb[79],la_oenb[78],la_oenb[77],la_oenb[76],la_oenb[75],la_oenb[74],la_oenb[73],la_oenb[72],la_oenb[71],la_oenb[70],la_oenb[69],la_oenb[68],la_oenb[67],la_oenb[66],la_oenb[65],la_oenb[64],la_oenb[63],la_oenb[62],la_oenb[61],la_oenb[60],la_oenb[59],la_oenb[58],la_oenb[57],la_oenb[56],la_oenb[55],la_oenb[54],la_oenb[53],la_oenb[52],la_oenb[51],la_oenb[50],la_oenb[49],la_oenb[48],la_oenb[47],la_oenb[46],la_oenb[45],la_oenb[44],la_oenb[43],la_oenb[42],la_oenb[41],la_oenb[40],la_oenb[39],la_oenb[38],la_oenb[37],la_oenb[36],la_oenb[35],la_oenb[34],la_oenb[33],la_oenb[32],la_oenb[31],la_oenb[30],la_oenb[29],la_oenb[28],la_oenb[27],la_oenb[26],la_oenb[25],la_oenb[24],la_oenb[23],la_oenb[22],la_oenb[21],la_oenb[20],la_oenb[19],la_oenb[18],la_oenb[17],la_oenb[16],la_oenb[15],la_oenb[14],la_oenb[13],la_oenb[12],la_oenb[11],la_oenb[10],la_oenb[9],la_oenb[8],la_oenb[7],la_oenb[6],la_oenb[5],la_oenb[4],la_oenb[3],la_oenb[2],la_oenb[1],la_oenb[0]
+R1 vssd1 io_clamp_low[0] sky130_fd_pr__res_generic_m3 W=11 L=0.25 m=1
+R5 vccd1 io_clamp_high[0] sky130_fd_pr__res_generic_m3 W=11 L=0.25 m=1
+x3 vccd1 io_analog[0] vssd1 esd_diodes
+x4 vccd1 io_analog[2] io_analog[3] io_analog[7] io_analog[1] io_analog[0] vssd1 mpw5_submission
+x1 vccd1 vssd1 vssd1 io_analog[6] io_analog[5] io_analog[4] vssd1 mpw5_submission
+x2 vccd1 io_analog[1] vssd1 esd_diodes
+x5 vccd1 io_analog[2] vssd1 esd_diodes
+x6 vccd1 io_analog[7] vssd1 esd_diodes
+x7 vccd1 io_analog[3] vssd1 esd_diodes
+R2 vssd1 io_clamp_low[1] sky130_fd_pr__res_generic_m3 W=11 L=0.25 m=1
+R3 vccd1 io_clamp_high[1] sky130_fd_pr__res_generic_m3 W=11 L=0.25 m=1
+R4 vssd1 io_clamp_low[2] sky130_fd_pr__res_generic_m3 W=11 L=0.25 m=1
+R6 vccd1 io_clamp_high[2] sky130_fd_pr__res_generic_m3 W=11 L=0.25 m=1
+.ends
+
+
+* expanding   symbol:  esd/esd_diodes.sym # of pins=3
+** sym_path: /home/simon/code/caravel_tia/xschem/esd/esd_diodes.sym
+** sch_path: /home/simon/code/caravel_tia/xschem/esd/esd_diodes.sch
+.subckt esd_diodes  VP io VN
+*.iopin VP
+*.iopin io
+*.iopin VN
+D1 io VP sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D2 io VP sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D3 io VP sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D4 io VP sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D5 io VP sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D6 io VP sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D7 io VP sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D8 io VP sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D9 io VP sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D10 io VP sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D11 VN io sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D12 VN io sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D13 VN io sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D14 VN io sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D15 VN io sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D16 VN io sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D17 VN io sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D18 VN io sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D19 VN io sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+D20 VN io sky130_fd_pr__diode_pw2nd_05v5 area=4e12
+.ends
+
+
+* expanding   symbol:  mpw5_submission.sym # of pins=7
+** sym_path: /home/simon/code/caravel_tia/xschem/mpw5_submission.sym
+** sch_path: /home/simon/code/caravel_tia/xschem/mpw5_submission.sch
+.subckt mpw5_submission  VP I_out Dis_TIA In_TIA Out_N Out_P VN
+*.iopin VP
+*.ipin In_TIA
+*.opin Out_N
+*.iopin VN
+*.opin Out_P
+*.ipin Dis_TIA
+*.opin I_out
+x4 VP Out_N Out_P net2 net3 net4 VN outdriver
+x5 VP net9 I_out net8 net7 net10 net11 net12 net13 net14 VN current_mirrorx8
+x6 VP net8 VN low_pvt_source
+x7 VP net1 net2 net5 net7 VN current_mirror_channel
+x8 VP net6 net4 net3 Dis_TIA In_TIA net1 VN tia_rgc_core
+.ends
+
+
+* expanding   symbol:  outdriver/outdriver.sym # of pins=7
+** sym_path: /home/simon/code/caravel_tia/xschem/outdriver/outdriver.sym
+** sch_path: /home/simon/code/caravel_tia/xschem/outdriver/outdriver.sch
+.subckt outdriver  VP OutputN OutputP I_Bias InputSignal InputRef VN
+*.iopin VN
+*.ipin InputRef
+*.iopin VP
+*.ipin I_Bias
+*.ipin InputSignal
+*.opin OutputN
+*.opin OutputP
+XM1 V_da1_P InputSignal VM6D VM6D sky130_fd_pr__nfet_01v8_lvt L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=11*2 m=11*2
+XM3 VM3D I_Bias net4 VN sky130_fd_pr__nfet_01v8 L=0.5 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2*(64) m=2*(64)
+XM6 VM6D I_Bias VM3D VN sky130_fd_pr__nfet_01v8 L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=64 m=64
+XM7 I_Bias I_Bias net1 VN sky130_fd_pr__nfet_01v8 L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2 m=2
+XM8 net1 I_Bias VN VN sky130_fd_pr__nfet_01v8 L=0.5 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2*2 m=2*2
+XM2 V_da2_P V_da1_P VM1_D VM1_D sky130_fd_pr__nfet_01v8_lvt L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=44*2 m=44*2
+XM4 V_da2_N V_da1_N VM1_D VM1_D sky130_fd_pr__nfet_01v8_lvt L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=44*2 m=44*2
+XM9 net2 I_Bias net5 VN sky130_fd_pr__nfet_01v8 L=0.5 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2*(256+64) m=2*(256+64)
+XM10 VM1_D I_Bias net2 VN sky130_fd_pr__nfet_01v8 L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=256+64 m=256+64
+XM11 OutputP V_da2_P VM14D VM14D sky130_fd_pr__nfet_01v8_lvt L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=44*4*2 m=44*4*2
+XM12 OutputN V_da2_N VM14D VM14D sky130_fd_pr__nfet_01v8_lvt L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=44*4*2 m=44*4*2
+XM13 net3 I_Bias net6 VN sky130_fd_pr__nfet_01v8 L=0.5 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2*(1024+256) m=2*(1024+256)
+XM14 VM14D I_Bias net3 VN sky130_fd_pr__nfet_01v8 L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=1024+256 m=1024+256
+XR7 V_da2_N VP VP sky130_fd_pr__res_high_po_5p73 L=4 mult=4*2 m=4*2
+XR5 V_da2_P VP VP sky130_fd_pr__res_high_po_5p73 L=4 mult=4*2 m=4*2
+XR3 V_da1_N VP VP sky130_fd_pr__res_high_po_2p85 L=6 mult=4 m=4
+XR4 V_da1_P VP VP sky130_fd_pr__res_high_po_2p85 L=6 mult=4 m=4
+XC2 InputRef VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XM5 V_da1_N InputRef VM6D VM6D sky130_fd_pr__nfet_01v8_lvt L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=11*2 m=11*2
+XR8 OutputP VP VP sky130_fd_pr__res_high_po_5p73 L=4 mult=16*2 m=16*2
+XC1 InputRef VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC6 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC8 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+V1 net4 VN 0
+V2 net5 VN 0
+V3 net6 VN 0
+XR1 OutputN VP VP sky130_fd_pr__res_high_po_5p73 L=4 mult=16*2 m=16*2
+XC7 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC9 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC10 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC11 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC12 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC13 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC14 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC5 I_Bias VN sky130_fd_pr__cap_mim_m3_1 W=20 L=20 MF=1 m=1
+XC3 I_Bias VN sky130_fd_pr__cap_mim_m3_1 W=20 L=20 MF=1 m=1
+.ends
+
+
+* expanding   symbol:  bias/current_mirrorx8.sym # of pins=11
+** sym_path: /home/simon/code/caravel_tia/xschem/bias/current_mirrorx8.sym
+** sch_path: /home/simon/code/caravel_tia/xschem/bias/current_mirrorx8.sch
+.subckt current_mirrorx8  VP I_out_3 I_out_1 I_In I_out_0 I_out_4 I_out_5 I_out_6 I_out_7 I_out_2 VN
+*.opin I_out_0
+*.ipin I_In
+*.iopin VP
+*.opin I_out_1
+*.opin I_out_2
+*.opin I_out_3
+*.opin I_out_4
+*.opin I_out_5
+*.opin I_out_6
+*.opin I_out_7
+*.iopin VN
+XM1 net1 I_In VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4 m=4*4
+XM2 I_In I_In net1 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XC1 I_In VP sky130_fd_pr__cap_mim_m3_1 W=20 L=20 MF=1 m=1
+XC2 VP I_In sky130_fd_pr__cap_mim_m3_2 W=20 L=20 MF=1 m=1
+XC4 VP VN VN sky130_fd_pr__cap_var_lvt W=2 L=5 VM=5
+XC3 I_In VN VN sky130_fd_pr__cap_var_lvt W=2 L=5 VM=5
+XM3 net2 I_In VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4 m=4*4
+XM4 I_out_0 I_In net2 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XM5 net3 I_In VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4 m=4*4
+XM6 I_out_1 I_In net3 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XM7 net4 I_In VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4 m=4*4
+XM8 I_out_2 I_In net4 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XM9 net5 I_In VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4 m=4*4
+XM10 I_out_3 I_In net5 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XM11 net6 I_In VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4 m=4*4
+XM12 I_out_4 I_In net6 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XM13 net7 I_In VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4 m=4*4
+XM14 I_out_5 I_In net7 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XM15 net8 I_In VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4 m=4*4
+XM16 I_out_6 I_In net8 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XM17 net9 I_In VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4 m=4*4
+XM18 I_out_7 I_In net9 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+.ends
+
+
+* expanding   symbol:  bias/low_pvt_source.sym # of pins=3
+** sym_path: /home/simon/code/caravel_tia/xschem/bias/low_pvt_source.sym
+** sch_path: /home/simon/code/caravel_tia/xschem/bias/low_pvt_source.sch
+.subckt low_pvt_source  VP I_ref VN
+*.iopin VP
+*.opin I_ref
+*.iopin VN
+XM1 VM1D VM8D VP VP sky130_fd_pr__pfet_01v8 L=1 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=10 m=10
+XM2 VM2D VM2D VN VN sky130_fd_pr__nfet_01v8 L=6 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=30 m=30
+XM5 VM9D VM8D VM1D VP sky130_fd_pr__pfet_01v8 L=0.2 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2 m=2
+XM11 VM11D VM2D VM12D VN sky130_fd_pr__nfet_01v8 L=6 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=65 m=65
+XM12 VM12D VM12G VN VN sky130_fd_pr__nfet_01v8 L=6 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2 m=2
+XM14 VM14D VM12G VN VN sky130_fd_pr__nfet_01v8 L=6 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2 m=2
+XM16 VM16D VM8D VP VP sky130_fd_pr__pfet_01v8 L=1 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=10 m=10
+XM17 VM8D VM8D VM16D VP sky130_fd_pr__pfet_01v8 L=0.2 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2 m=2
+XM18 VM18D VM8D VP VP sky130_fd_pr__pfet_01v8 L=1 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=10*3*2 m=10*3*2
+XM19 VM14D VM8D VM18D VP sky130_fd_pr__pfet_01v8 L=0.2 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2*3*2 m=2*3*2
+XM20 VM20D VM8D VP VP sky130_fd_pr__pfet_01v8 L=1 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=10*1*1 m=10*1*1
+XM21 VM22D VM8D VM20D VP sky130_fd_pr__pfet_01v8 L=0.2 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2*1*1 m=2*1*1
+XM22 VM22D VM4S VM3D VN sky130_fd_pr__nfet_01v8 L=6 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=20 m=20
+XM3 VM3D VM3G VN VN sky130_fd_pr__nfet_01v8 L=6 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XM13 VP VM14D VM12G VM12G sky130_fd_pr__nfet_01v8_lvt L=0.15 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=20 m=20
+XM4 I_ref VM22D VM4S VN sky130_fd_pr__nfet_01v8_lvt L=0.15 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=20 m=20
+XM48 VM50D VM11D VP VP sky130_fd_pr__pfet_01v8 L=2 W=0.5 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=1 m=1
+XM50 VM50D VM11D VN VN sky130_fd_pr__nfet_01v8_lvt L=0.2 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=10 m=10
+XC3 VP VM8D sky130_fd_pr__cap_mim_m3_1 W=20 L=20 MF=1 m=1
+XM8 VM8D VM9D VM11D VM11D sky130_fd_pr__nfet_01v8_lvt L=1 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=20 m=20
+XM9 VM9D VM9D VM2D VM2D sky130_fd_pr__nfet_01v8_lvt L=1 W=4 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=20 m=20
+XM10 VM8D VM50D VN VN sky130_fd_pr__nfet_01v8 L=2 W=0.5 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=1 m=1
+XC4 VN VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XR7 net3 VM4S VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR3 net4 net3 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR4 net2 net4 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR5 net1 net2 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR6 VN net1 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR8 net5 VM12G VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR1 net5 VM3G VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR2 net7 net6 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR9 VN net6 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR10 net11 net7 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR11 net12 net11 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR12 net8 net12 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR13 net10 VM3G VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR14 net9 net10 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XR15 net8 net9 VN sky130_fd_pr__res_xhigh_po_1p41 L=10 mult=1 m=1
+XC1 VN VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+.ends
+
+
+* expanding   symbol:  bias/current_mirror_channel.sym # of pins=6
+** sym_path: /home/simon/code/caravel_tia/xschem/bias/current_mirror_channel.sym
+** sch_path: /home/simon/code/caravel_tia/xschem/bias/current_mirror_channel.sch
+.subckt current_mirror_channel  VP TIA_I_Bias1 A_Out_I_Bias TIA_I_Bias2 I_in_channel VN
+*.ipin I_in_channel
+*.iopin VP
+*.opin TIA_I_Bias2
+*.iopin VN
+*.opin TIA_I_Bias1
+*.opin A_Out_I_Bias
+XM1 I_in_channel I_in_channel net1 VN sky130_fd_pr__nfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=2 m=2
+XM2 net5 net4 VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4 m=4*4
+XM3 net1 I_in_channel VN VN sky130_fd_pr__nfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2*4 m=2*4
+XM4 net4 net4 net5 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XC8 net4 VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XM5 net4 I_in_channel net2 VN sky130_fd_pr__nfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=2 m=2
+XM6 TIA_I_Bias2 I_in_channel net3 VN sky130_fd_pr__nfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=2 m=2
+XM7 net2 I_in_channel VN VN sky130_fd_pr__nfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2*4 m=2*4
+XM8 net3 I_in_channel VN VN sky130_fd_pr__nfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=2*4 m=2*4
+XM13 net6 net4 VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4*10 m=4*4*10
+XM14 TIA_I_Bias1 net4 net6 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=4*10 m=4*10
+XM9 net7 net4 VP VP sky130_fd_pr__pfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4*4*12 m=4*4*12
+XM10 A_Out_I_Bias net4 net7 VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=4*12 m=4*12
+XC4 net4 VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC3 VN I_in_channel sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC6 VN I_in_channel sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC1 VN VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC2 VN VP sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+.ends
+
+
+* expanding   symbol:  tia/tia_rgc_core.sym # of pins=8
+** sym_path: /home/simon/code/caravel_tia/xschem/tia/tia_rgc_core.sym
+** sch_path: /home/simon/code/caravel_tia/xschem/tia/tia_rgc_core.sch
+.subckt tia_rgc_core  VP Out_2 Out_ref Out_1 Disable_TIA Input I_Bias1 VN
+*.iopin VN
+*.iopin VP
+*.opin Out_2
+*.ipin I_Bias1
+*.ipin Input
+*.ipin Disable_TIA
+*.opin Out_1
+*.opin Out_ref
+XM5 VM5D I_Bias1 VN VN sky130_fd_pr__nfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=6 m=6
+XM6 VM6D I_Bias1 VN VN sky130_fd_pr__nfet_01v8 L=1.0 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=6 m=6
+XM7 Out_1 Input VM28D VN sky130_fd_pr__nfet_01v8_lvt L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=100 m=100
+XM8 Out_1 Input VP VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=60 m=60
+XM9 Input I_Bias1 VM5D VN sky130_fd_pr__nfet_01v8 L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=12 m=12
+XM10 I_Bias1 I_Bias1 VM6D VN sky130_fd_pr__nfet_01v8 L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=12 m=12
+XM23 I_Bias1 Disable_TIA VN VN sky130_fd_pr__nfet_01v8 L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=5 m=5
+XM26 Disable_TIA_B Disable_TIA VN VN sky130_fd_pr__nfet_01v8 L=1 W=0.5 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=1 m=1
+XM27 Disable_TIA_B Disable_TIA VP VP sky130_fd_pr__pfet_01v8 L=1 W=0.5 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=1 m=1
+XM28 VM28D Disable_TIA_B VN VN sky130_fd_pr__nfet_01v8 L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=100 m=100
+XM36 VM36D I_Bias1 VN VN sky130_fd_pr__nfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=6 m=6
+XM37 Out_ref VM39D VM40D VN sky130_fd_pr__nfet_01v8_lvt L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=100 m=100
+XM38 Out_ref VM39D VP VP sky130_fd_pr__pfet_01v8 L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=60 m=60
+XM39 VM39D I_Bias1 VM36D VN sky130_fd_pr__nfet_01v8 L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=12 m=12
+XM40 VM40D Disable_TIA_B VN VN sky130_fd_pr__nfet_01v8 L=0.15 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=100 m=100
+XC20 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XM16 Out_2 VN VP VP sky130_fd_pr__pfet_01v8 L=0.5 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=10 m=10
+XM15 Out_2 Out_1 Input Input sky130_fd_pr__nfet_01v8_lvt L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=30 m=30
+XM31 VM31D Out_ref VM39D VM39D sky130_fd_pr__nfet_01v8_lvt L=0.2 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29'
++ as='int((nf+2)/2) * W/nf * 0.29' pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)'
++ nrd='0.29 / W' nrs='0.29 / W' sa=0 sb=0 sd=0 mult=30 m=30
+XM35 VM31D VN VP VP sky130_fd_pr__pfet_01v8 L=0.5 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=10 m=10
+XC7 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
+XC2 VP VM28D sky130_fd_pr__cap_mim_m3_2 W=20 L=30 MF=1 m=1
+XC5 VN I_Bias1 sky130_fd_pr__cap_mim_m3_1 W=15 L=12 MF=1 m=1
+XC4 VN I_Bias1 sky130_fd_pr__cap_mim_m3_1 W=15 L=12 MF=1 m=1
+XC1 VP VM40D sky130_fd_pr__cap_mim_m3_2 W=20 L=30 MF=1 m=1
+XC3 Disable_TIA_B VN VN sky130_fd_pr__cap_var_lvt W=2 L=5 VM=5
+.ends
+
+.GLOBAL GND
+.end
