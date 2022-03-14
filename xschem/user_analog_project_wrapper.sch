@@ -54,11 +54,7 @@ N 5310 -20 5320 -20 { lab=io_analog[1]}
 N 5190 -280 5340 -280 { lab=io_analog[2]}
 N 5340 -280 5340 70 { lab=io_analog[2]}
 N 5320 70 5340 70 { lab=io_analog[2]}
-N 5440 -300 5470 -300 { lab=vssd1}
-N 5440 -300 5440 -170 { lab=vssd1}
-N 5770 -280 5820 -280 { lab=vssd1}
-N 5820 -280 5820 -170 { lab=vssd1}
-N 5770 -170 5820 -170 { lab=vssd1}
+N 5440 -300 5470 -300 { lab=#net1}
 N 5300 -100 5380 -100 { lab=io_analog[0]}
 N 5320 -20 5380 -20 { lab=io_analog[1]}
 N 5340 70 5380 70 { lab=io_analog[2]}
@@ -71,11 +67,11 @@ N 5770 -260 5970 -260 { lab=io_analog[5]}
 N 5420 -280 5470 -280 { lab=io_analog[6]}
 N 5420 -360 5420 -280 { lab=io_analog[6]}
 N 4720 -200 4720 -170 { lab=vssd1}
-N 3670 460 3670 500 { lab=io_clamp_low[2]}
+N 3670 460 3670 500 { lab=io_clamp_low[1]}
 N 3670 560 3670 580 { lab=vssd1}
 N 4160 460 4160 490 { lab=io_clamp_high[1]}
 N 4160 550 4160 570 { lab=vccd1}
-N 3630 460 3670 460 { lab=io_clamp_low[2]}
+N 3630 460 3670 460 { lab=io_clamp_low[1]}
 N 3630 580 3670 580 { lab=vssd1}
 N 4130 460 4160 460 { lab=io_clamp_high[1]}
 N 4130 570 4160 570 { lab=vccd1}
@@ -87,6 +83,14 @@ N 3630 620 3670 620 { lab=io_clamp_low[2]}
 N 3630 740 3670 740 { lab=vssd1}
 N 4130 620 4160 620 { lab=io_clamp_high[2]}
 N 4130 730 4160 730 { lab=vccd1}
+N 4580 50 4630 50 { lab=vccd1}
+N 4580 -40 4580 50 { lab=vccd1}
+N 4600 90 4630 90 { lab=vssd1}
+N 4600 -0 4600 90 { lab=vssd1}
+N 4460 70 4630 70 { lab=io_analog[8]}
+N 5440 -190 5440 -170 { lab=vssd1}
+N 5440 -300 5440 -250 { lab=#net1}
+N 5770 -280 5840 -280 { lab=#net2}
 C {devices/iopin.sym} 3240 -470 0 0 {name=p1 lab=vdda1}
 C {devices/iopin.sym} 3240 -440 0 0 {name=p2 lab=vdda2}
 C {devices/iopin.sym} 3240 -410 0 0 {name=p3 lab=vssa1}
@@ -178,3 +182,11 @@ C {devices/lab_pin.sym} 3630 620 0 0 {name=l19 sig_type=std_logic lab=io_clamp_l
 C {devices/lab_pin.sym} 4130 620 0 0 {name=l21 sig_type=std_logic lab=io_clamp_high[2]}
 C {devices/lab_pin.sym} 3630 740 0 0 {name=l22 sig_type=std_logic lab=vssd1}
 C {devices/lab_pin.sym} 4130 730 0 0 {name=l23 sig_type=std_logic lab=vccd1}
+C {esd/esd_diodes.sym} 4780 70 0 1 {name=x8}
+C {devices/lab_pin.sym} 4460 70 0 0 {name=l1 sig_type=std_logic lab=io_analog[8]}
+C {sky130_fd_pr/res_generic_m1.sym} 5440 -220 0 1 {name=R7
+W=1.5
+L=0.5
+model=res_generic_m3
+mult=1}
+C {devices/noconn.sym} 5840 -280 2 0 {name=l2}

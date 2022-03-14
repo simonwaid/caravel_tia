@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1646993950
+timestamp 1647269090
 << locali >>
 rect 3230 -2570 5340 -2130
 rect 4108 -7934 4420 -7920
@@ -130,6 +130,8 @@ rect 4290 -5200 5080 -5080
 rect 4190 -5210 4290 -5200
 rect 5080 -5210 5170 -5200
 rect 3880 -5340 4500 -5260
+rect 1700 -6390 1900 -6240
+rect 1740 -6900 1920 -6760
 rect 4320 -7540 4500 -5340
 rect 4320 -7710 5050 -7540
 rect 2850 -7990 3020 -7980
@@ -137,6 +139,7 @@ rect 2850 -8150 3020 -8140
 rect 4550 -8090 4620 -8080
 rect 4550 -8260 4620 -8250
 rect 4930 -8540 5050 -7710
+rect 2670 -8790 2920 -8600
 rect 4930 -8650 6350 -8540
 rect 4600 -8760 4720 -8660
 rect -1380 -8860 -1270 -8850
@@ -280,47 +283,47 @@ rect 1360 -9800 1384 -9380
 rect 4300 -9750 5060 -9430
 rect 1036 -9824 1384 -9800
 use sky130_fd_pr__cap_mim_m3_1_J5CT7Z  sky130_fd_pr__cap_mim_m3_1_J5CT7Z_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 3290 0 1 -10380
 box -1650 -1300 1649 1300
 use sky130_fd_pr__cap_mim_m3_1_J5CT7Z  sky130_fd_pr__cap_mim_m3_1_J5CT7Z_1
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 3280 0 1 -3290
 box -1650 -1300 1649 1300
 use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_0
-timestamp 1646042961
+timestamp 1647254192
 transform -1 0 8373 0 -1 -8409
 box -3351 -3101 3373 3101
 use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#0  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_1
-timestamp 1646042961
+timestamp 1647254192
 transform -1 0 8373 0 -1 -1099
 box -3351 -3101 3373 3101
 use sky130_fd_pr__cap_var_lvt_MZUN4J  sky130_fd_pr__cap_var_lvt_MZUN4J_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 3733 0 1 -10422
 box -2283 -728 2283 728
 use sky130_fd_pr__nfet_01v8_CDW43Z  sky130_fd_pr__nfet_01v8_CDW43Z_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 6476 0 1 -10820
 box -296 -260 296 260
 use sky130_fd_pr__nfet_01v8_SC2JGL  sky130_fd_pr__nfet_01v8_SC2JGL_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 5717 0 1 -9110
 box -407 -410 407 410
 use sky130_fd_pr__pfet_01v8_GCYTE7  sky130_fd_pr__pfet_01v8_GCYTE7_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 6476 0 1 -10261
 box -296 -269 296 269
 use tia_cur_mirror  tia_cur_mirror_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 3420 0 1 -8620
 box -60 -900 1822 740
 use tia_one_tia  tia_one_tia_0
-timestamp 1646921651
+timestamp 1647269090
 transform 1 0 614 0 1 -890
 box -2010 -3360 3840 3680
 use tia_one_tia  tia_one_tia_1
-timestamp 1646921651
+timestamp 1647269090
 transform 1 0 614 0 1 -7960
 box -2010 -3360 3840 3680
 << labels >>
@@ -344,4 +347,8 @@ rlabel metal3 2900 1040 3170 1170 1 Out_2
 port 2 n
 rlabel metal5 11130 -5060 11230 -4890 1 VPP
 port 1 n
+rlabel metal3 2920 -6050 3180 -5930 1 VM31D
+rlabel metal2 1700 -6390 1900 -6240 1 Out_ref
+rlabel metal2 1740 -6900 1920 -6760 1 VM39D
+rlabel metal2 2670 -8790 2920 -8600 1 VM36D
 << end >>

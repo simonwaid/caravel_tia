@@ -1,5 +1,6 @@
 * SPICE3 file created from isource.ext - technology: sky130A
 
+
 X0 VP VM8D sky130_fd_pr__cap_mim_m3_1 l=2e+07u w=2e+07u
 X1 VN VM3G VM3D VN sky130_fd_pr__nfet_01v8 ad=2.5665e+13p pd=1.9034e+08u as=0p ps=0u w=4e+06u l=6e+06u
 X2 VM3D VM3G VN VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u

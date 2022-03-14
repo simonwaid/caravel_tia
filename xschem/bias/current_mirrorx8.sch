@@ -98,11 +98,6 @@ N 90 -200 200 -200 { lab=I_In}
 N 90 -330 200 -330 { lab=I_In}
 N 90 -270 90 -260 { lab=VP}
 N 60 -270 90 -270 { lab=VP}
-N -140 -40 200 -40 { lab=VN}
-N 200 -60 200 -40 { lab=VN}
-N 160 -70 160 -40 { lab=VN}
-N 60 -60 60 -40 { lab=VN}
-N 20 -70 20 -40 { lab=VN}
 N 1340 -290 1420 -290 { lab=VP}
 C {sky130_fd_pr/pfet_01v8.sym} -20 -290 0 1 {name=M1
 L=1
@@ -142,7 +137,6 @@ C {devices/opin.sym} 980 -110 0 0 {name=p7 lab=I_out_4}
 C {devices/opin.sym} 1130 -110 0 0 {name=p8 lab=I_out_5}
 C {devices/opin.sym} 1280 -110 0 0 {name=p9 lab=I_out_6}
 C {devices/opin.sym} 1430 -110 0 0 {name=p10 lab=I_out_7}
-C {devices/iopin.sym} -140 -40 2 0 {name=p11 lab=VN}
 C {sky130_fd_pr/pfet_01v8.sym} 390 -290 0 1 {name=M3
 L=1
 W=2

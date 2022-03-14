@@ -1,0 +1,249 @@
+* SPICE3 file created from user_analog_project_wrapper_flat.ext - technology: sky130A
+X1 a_230030_659606# mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=2.47712e+15p ps=1.9251e+10u w=2e+06u l=500000u count=1
+X2 a_484550_655806# mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias mpw5_submission_0/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=1280
+X3 a_470230_655806# mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=640
+X4 mpw5_submission_1/outd_0/outd_stage2_0/cmirror_out mpw5_submission_1/outd_0/V_da1_P mpw5_submission_1/outd_0/V_da2_P mpw5_submission_1/outd_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=88
+X5 a_230030_659606# mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=639
+X6 vssd1 mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias a_244350_659606# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=2560
+X7 vssd1 mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias a_484550_655806# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=2560
+X8 mpw5_submission_0/tia_core_0/VM5D mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 io_analog[3] vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=1.324e+13p ps=1.0124e+08u w=2e+06u l=150000u count=1
+X9 mpw5_submission_0/outd_0/outd_stage2_0/cmirror_out mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias a_470230_655806# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=320
+X10 mpw5_submission_0/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out mpw5_submission_0/outd_0/V_da2_P io_analog[0] mpw5_submission_0/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=1.2544e+14p ps=8.9344e+08u w=2e+06u l=150000u count=1
+X11 io_analog[0] mpw5_submission_0/outd_0/V_da2_P mpw5_submission_0/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out mpw5_submission_0/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=351
+X12 mpw5_submission_1/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias a_244350_659606# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=1280
+X13 io_analog[4] mpw5_submission_1/outd_0/V_da2_P mpw5_submission_1/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out mpw5_submission_1/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=1.2544e+14p pd=8.9344e+08u as=0p ps=0u w=2e+06u l=150000u count=1
+X14 mpw5_submission_0/tia_core_0/VM28D mpw5_submission_0/tia_core_0/Disable_TIA_B vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=100
+X15 mpw5_submission_0/isource_0/VM8D mpw5_submission_0/isource_0/VM9D mpw5_submission_0/isource_0/VM11D mpw5_submission_0/isource_0/VM11D sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=20
+X16 mpw5_submission_1/eigth_mirror_0/I_out_1 mpw5_submission_1/eigth_mirror_0/I_In a_192870_640623# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X17 io_analog[5] mpw5_submission_1/outd_0/V_da2_N mpw5_submission_1/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out mpw5_submission_1/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=1.2544e+14p pd=8.9344e+08u as=0p ps=0u w=2e+06u l=150000u count=1
+X18 io_analog[5] mpw5_submission_1/outd_0/V_da2_N mpw5_submission_1/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out mpw5_submission_1/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=351
+X19 a_203650_645683# a_201520_649146# mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=40
+X20 io_analog[4] mpw5_submission_1/outd_0/V_da2_P mpw5_submission_1/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out mpw5_submission_1/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=351
+X21 vccd1 a_441720_645346# a_443570_645443# vccd1 sky130_fd_pr__pfet_01v8 ad=6.5714e+14p pd=5.12824e+09u as=0p ps=0u w=2e+06u l=1e+06u count=1
+X22 mpw5_submission_0/outd_0/outd_stage1_0/isource_out mpw5_submission_0/outd_0/InputRef mpw5_submission_0/outd_0/V_da1_N mpw5_submission_0/outd_0/outd_stage1_0/isource_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=22
+X23 mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias a_441720_645346# a_443570_645443# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=48
+X24 vccd1 mpw5_submission_1/tia_core_0/VM39D mpw5_submission_1/outd_0/InputRef vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=60
+X25 io_analog[3] mpw5_submission_0/outd_0/InputSignal mpw5_submission_0/tia_core_0/Out_2 io_analog[3] sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=30
+X26 mpw5_submission_0/outd_0/V_da2_P mpw5_submission_0/outd_0/V_da1_P mpw5_submission_0/outd_0/outd_stage2_0/cmirror_out mpw5_submission_0/outd_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=88
+X27 a_443850_641883# a_441720_645346# vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=160
+X28 vssd1 mpw5_submission_0/cmirror_channel_0/I_in_channel sky130_fd_pr__cap_mim_m3_2 l=3e+07u w=3e+07u count=2
+X29 mpw5_submission_1/tia_core_0/VM28D mpw5_submission_1/tia_core_0/Disable_TIA_B vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=100
+X30 vssd1 mpw5_submission_0/tia_core_0/Disable_TIA_B mpw5_submission_0/tia_core_0/VM40D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=100
+X31 mpw5_submission_1/tia_core_0/VM31D mpw5_submission_1/outd_0/InputRef mpw5_submission_1/tia_core_0/VM39D mpw5_submission_1/tia_core_0/VM39D sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=30
+X32 vssd1 mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias a_465060_656606# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=128
+X33 mpw5_submission_1/isource_0/VM12G mpw5_submission_1/isource_0/VM14D vccd1 mpw5_submission_1/isource_0/VM12G sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=1.60134e+15p ps=1.3951e+10u w=4e+06u l=150000u count=1
+X34 a_203650_645683# a_201520_649146# vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=160
+X35 io_analog[5] vccd1 vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=16
+X36 mpw5_submission_0/tia_core_0/VM28D io_analog[3] mpw5_submission_0/outd_0/InputSignal vssd1 sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=100
+X37 a_194220_640623# mpw5_submission_1/eigth_mirror_0/I_In vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X38 mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 a_441720_645346# a_443850_641883# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=40
+X39 mpw5_submission_1/outd_0/V_da2_N mpw5_submission_1/outd_0/V_da1_N mpw5_submission_1/outd_0/outd_stage2_0/cmirror_out mpw5_submission_1/outd_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=88
+X40 mpw5_submission_1/isource_0/VM2D mpw5_submission_1/isource_0/VM2D vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=30
+X41 mpw5_submission_0/isource_0/VM11D mpw5_submission_0/isource_0/VM2D mpw5_submission_0/isource_0/VM12D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=65
+X42 mpw5_submission_0/outd_0/InputRef mpw5_submission_0/tia_core_0/VM39D vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=60
+X43 vccd1 a_201520_649146# a_203370_649243# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=192
+X44 io_analog[1] mpw5_submission_0/outd_0/V_da2_N mpw5_submission_0/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out mpw5_submission_0/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=1.2544e+14p pd=8.9344e+08u as=0p ps=0u w=2e+06u l=150000u count=1
+X45 vccd1 io_analog[0] vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=16
+X46 a_192870_640623# mpw5_submission_1/eigth_mirror_0/I_In vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X47 mpw5_submission_0/outd_0/V_da2_N mpw5_submission_0/outd_0/V_da1_N mpw5_submission_0/outd_0/outd_stage2_0/cmirror_out mpw5_submission_0/outd_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=88
+X48 a_224860_660406# mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=128
+X49 mpw5_submission_1/tia_core_0/VM40D mpw5_submission_1/tia_core_0/VM39D mpw5_submission_1/outd_0/InputRef vssd1 sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=100
+X50 io_analog[6] mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 mpw5_submission_1/tia_core_0/VM5D vssd1 sky130_fd_pr__nfet_01v8 ad=1.324e+13p pd=1.0124e+08u as=0p ps=0u w=2e+06u l=150000u count=1
+X51 a_191520_640623# mpw5_submission_1/eigth_mirror_0/I_In vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X52 vccd1 mpw5_submission_0/isource_0/VM8D a_430136_657119# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=10
+X53 mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 mpw5_submission_1/tia_core_0/Disable_TIA vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=5
+X54 mpw5_submission_1/isource_0/VM2D mpw5_submission_1/isource_0/VM9D mpw5_submission_1/isource_0/VM9D mpw5_submission_1/isource_0/VM2D sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=20
+X55 mpw5_submission_1/outd_0/outd_stage2_0/cmirror_out mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias a_230030_659606# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=320
+X56 vccd1 mpw5_submission_0/eigth_mirror_0/I_In a_427670_636823# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X57 a_443570_645443# a_441720_645346# vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=191
+X58 a_189936_651879# mpw5_submission_1/isource_0/VM8D mpw5_submission_1/isource_0/VM14D vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u count=12
+X59 mpw5_submission_0/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out mpw5_submission_0/outd_0/V_da2_N io_analog[1] mpw5_submission_0/outd_0/outd_stage3_0/outd_stage2_0/cmirror_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=351
+X60 mpw5_submission_1/tia_core_0/VM28D io_analog[6] mpw5_submission_1/outd_0/InputSignal vssd1 sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=100
+X61 a_430136_657119# mpw5_submission_0/isource_0/VM8D mpw5_submission_0/isource_0/VM9D vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u count=2
+X62 a_430136_648079# mpw5_submission_0/isource_0/VM8D vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=60
+X63 vccd1 mpw5_submission_0/eigth_mirror_0/I_In a_429020_636823# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X64 vccd1 mpw5_submission_0/eigth_mirror_0/I_In a_426320_636823# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X65 vccd1 mpw5_submission_1/isource_0/VM14D mpw5_submission_1/isource_0/VM12G mpw5_submission_1/isource_0/VM12G sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=150000u count=19
+X66 mpw5_submission_1/outd_0/V_da1_N mpw5_submission_1/outd_0/InputRef mpw5_submission_1/outd_0/outd_stage1_0/isource_out mpw5_submission_1/outd_0/outd_stage1_0/isource_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=22
+X67 a_465060_656606# mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias mpw5_submission_0/outd_0/outd_stage1_0/isource_out vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=64
+X68 mpw5_submission_0/isource_0/VM2D mpw5_submission_0/isource_0/VM9D mpw5_submission_0/isource_0/VM9D mpw5_submission_0/isource_0/VM2D sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=20
+X69 mpw5_submission_1/tia_core_0/VM40D mpw5_submission_1/tia_core_0/Disable_TIA_B vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=100
+X70 mpw5_submission_1/isource_0/VM12D mpw5_submission_1/isource_0/VM2D mpw5_submission_1/isource_0/VM11D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=65
+X71 a_189936_651879# mpw5_submission_1/isource_0/VM8D vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=60
+X72 a_195570_640623# mpw5_submission_1/eigth_mirror_0/I_In vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X73 mpw5_submission_0/tia_core_0/VM31D mpw5_submission_0/outd_0/InputRef mpw5_submission_0/tia_core_0/VM39D mpw5_submission_0/tia_core_0/VM39D sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=30
+X74 mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias a_201520_649146# a_203370_649243# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=48
+X75 mpw5_submission_0/outd_0/outd_stage1_0/isource_out mpw5_submission_0/outd_0/InputSignal mpw5_submission_0/outd_0/V_da1_P mpw5_submission_0/outd_0/outd_stage1_0/isource_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=22
+X76 mpw5_submission_0/isource_0/VM22D a_411216_644902# mpw5_submission_0/isource_0/VM3D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=20
+X77 mpw5_submission_1/outd_0/outd_stage1_0/isource_out mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias a_224860_660406# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=64
+X78 a_190170_640623# mpw5_submission_1/eigth_mirror_0/I_In vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X79 a_188820_640623# mpw5_submission_1/eigth_mirror_0/I_In mpw5_submission_1/eigth_mirror_0/I_out_4 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X80 a_427116_648806# a_426586_651238# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X81 vccd1 mpw5_submission_1/eigth_mirror_0/I_In a_187470_640623# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X82 vccd1 vssd1 mpw5_submission_0/tia_core_0/Out_2 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=10
+X83 a_430136_648079# mpw5_submission_0/isource_0/VM8D mpw5_submission_0/isource_0/VM14D vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u count=12
+X84 vssd1 mpw5_submission_0/cmirror_channel_0/I_in_channel a_440818_643680# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=8
+X85 a_411216_644902# mpw5_submission_0/isource_0/VM22D mpw5_submission_0/eigth_mirror_0/I_In vssd1 sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=150000u count=20
+X86 io_analog[4] vccd1 vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=16
+X87 vccd1 mpw5_submission_1/eigth_mirror_0/I_In a_186120_640623# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X88 mpw5_submission_1/outd_0/V_da1_P mpw5_submission_1/outd_0/InputSignal mpw5_submission_1/outd_0/outd_stage1_0/isource_out mpw5_submission_1/outd_0/outd_stage1_0/isource_out sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=22
+X89 mpw5_submission_0/tia_core_0/VM40D mpw5_submission_0/tia_core_0/VM39D mpw5_submission_0/outd_0/InputRef vssd1 sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=100
+X90 vccd1 mpw5_submission_1/isource_0/VM8D a_189936_660919# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=10
+X91 a_442498_643680# mpw5_submission_0/cmirror_channel_0/I_in_channel vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=8
+X92 vccd1 mpw5_submission_0/eigth_mirror_0/I_In a_431720_636823# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X93 a_201520_649146# a_201520_649146# a_201720_649243# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X94 vccd1 mpw5_submission_1/eigth_mirror_0/I_In a_184770_640623# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X95 vccd1 vssd1 mpw5_submission_0/tia_core_0/VM31D vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=10
+X96 a_435770_636823# mpw5_submission_0/eigth_mirror_0/I_In mpw5_submission_0/eigth_mirror_0/I_In vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X97 vccd1 vssd1 mpw5_submission_1/tia_core_0/VM31D vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=10
+X98 a_171016_648702# mpw5_submission_1/isource_0/VM22D mpw5_submission_1/eigth_mirror_0/I_In vssd1 sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=150000u count=20
+X99 io_analog[6] mpw5_submission_1/outd_0/InputSignal mpw5_submission_1/tia_core_0/Out_2 io_analog[6] sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=30
+X100 vccd1 mpw5_submission_0/eigth_mirror_0/I_In a_424970_636823# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X101 a_189936_649609# mpw5_submission_1/isource_0/VM8D mpw5_submission_1/isource_0/VM22D vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u count=2
+X102 vccd1 io_analog[5] vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=16
+X103 a_181958_664870# mpw5_submission_1/isource_0/VM11D vssd1 vssd1 sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u count=10
+X104 a_441920_645443# a_441720_645346# vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X105 vssd1 mpw5_submission_0/cmirror_channel_0/I_in_channel a_441658_643680# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=8
+X106 vccd1 mpw5_submission_0/isource_0/VM8D a_430136_645809# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=10
+X107 a_435770_636823# mpw5_submission_0/eigth_mirror_0/I_In vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X108 a_188820_640623# mpw5_submission_1/eigth_mirror_0/I_In vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X109 a_200618_647480# mpw5_submission_1/cmirror_channel_0/I_in_channel mpw5_submission_1/cmirror_channel_0/I_in_channel vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=2
+X110 vccd1 a_201520_649146# a_201720_649243# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X111 a_434420_636823# mpw5_submission_0/eigth_mirror_0/I_In vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X112 vccd1 io_analog[4] vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=16
+X113 a_430136_645809# mpw5_submission_0/isource_0/VM8D mpw5_submission_0/isource_0/VM22D vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u count=2
+X114 mpw5_submission_0/eigth_mirror_0/I_out_4 mpw5_submission_0/eigth_mirror_0/I_In a_429020_636823# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X115 a_433070_636823# mpw5_submission_0/eigth_mirror_0/I_In vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X116 a_430370_636823# mpw5_submission_0/eigth_mirror_0/I_In vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=16
+X117 mpw5_submission_1/tia_core_0/VM5D mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 io_analog[6] vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=11
+X118 vssd1 mpw5_submission_1/cmirror_channel_0/I_in_channel sky130_fd_pr__cap_mim_m3_2 l=3e+07u w=3e+07u count=2
+X119 mpw5_submission_0/cmirror_channel_0/I_in_channel mpw5_submission_0/cmirror_channel_0/I_in_channel a_440818_643680# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=2
+X120 vccd1 mpw5_submission_1/outd_0/V_da2_N vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=4
+X121 mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 mpw5_submission_0/tia_core_0/VM6D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=12
+X122 mpw5_submission_1/tia_core_0/Disable_TIA_B vssd1 vssd1 sky130_fd_pr__cap_var_lvt pd=0u ps=0u ad=0p as=0p w=5e+06u l=2e+06u count=5
+X123 mpw5_submission_1/isource_0/VM22D a_171016_648702# mpw5_submission_1/isource_0/VM3D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=20
+X124 a_464438_656600# mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=4
+X125 vssd1 mpw5_submission_1/isource_0/VM12G mpw5_submission_1/isource_0/VM12D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=2
+X126 vccd1 mpw5_submission_0/isource_0/VM14D mpw5_submission_0/isource_0/VM12G mpw5_submission_0/isource_0/VM12G sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=150000u count=20
+X127 a_201458_647480# mpw5_submission_1/cmirror_channel_0/I_in_channel vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=8
+X128 vccd1 io_analog[3] mpw5_submission_0/outd_0/InputSignal vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=60
+X129 vccd1 mpw5_submission_1/isource_0/VM8D sky130_fd_pr__cap_mim_m3_1 l=2e+07u w=2e+07u count=1
+X130 mpw5_submission_0/outd_0/InputRef vssd1 sky130_fd_pr__cap_mim_m3_2 l=3e+07u w=3e+07u count=2
+X131 mpw5_submission_0/outd_0/V_da2_N vccd1 vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=4
+X132 mpw5_submission_1/isource_0/VM3G a_185326_655038# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X133 mpw5_submission_1/isource_0/VM11D mpw5_submission_1/isource_0/VM9D mpw5_submission_1/isource_0/VM8D mpw5_submission_1/isource_0/VM11D sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=20
+X134 vssd1 mpw5_submission_1/cmirror_channel_0/I_in_channel a_200618_647480# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=8
+X135 io_analog[1] vccd1 vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=16
+X136 a_429646_642496# a_430176_644928# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X137 mpw5_submission_1/tia_core_0/Out_2 vssd1 vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=10
+X138 vssd1 vccd1 sky130_fd_pr__cap_mim_m3_2 l=3e+07u w=3e+07u count=26
+X139 a_430370_636823# mpw5_submission_0/eigth_mirror_0/I_In mpw5_submission_0/eigth_mirror_0/I_out_3 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X140 mpw5_submission_1/outd_0/V_da1_P vccd1 vssd1 sky130_fd_pr__res_high_po_2p85 l=6e+06u count=4
+X141 a_426056_648806# a_426586_651238# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X142 io_analog[0] vccd1 vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=16
+X143 vccd1 io_analog[1] vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=16
+X144 mpw5_submission_0/tia_core_0/VM39D mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 mpw5_submission_0/tia_core_0/VM36D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=12
+X145 vssd1 mpw5_submission_1/cmirror_channel_0/I_in_channel a_202298_647480# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=8
+X146 a_430136_654859# mpw5_submission_0/isource_0/VM8D mpw5_submission_0/isource_0/VM8D vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u count=2
+X147 mpw5_submission_0/outd_0/V_da1_P vccd1 vssd1 sky130_fd_pr__res_high_po_2p85 l=6e+06u count=4
+X148 vccd1 mpw5_submission_1/isource_0/VM8D a_189936_658659# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=10
+X149 vccd1 mpw5_submission_1/isource_0/VM8D a_189936_649609# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=10
+X150 mpw5_submission_1/outd_0/InputRef vssd1 sky130_fd_pr__cap_mim_m3_2 l=3e+07u w=3e+07u count=2
+X151 vssd1 mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 mpw5_submission_0/tia_core_0/VM36D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=6
+X152 vccd1 mpw5_submission_0/outd_0/V_da2_P vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=4
+X153 a_195570_640623# mpw5_submission_1/eigth_mirror_0/I_In mpw5_submission_1/eigth_mirror_0/I_In vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X154 mpw5_submission_1/outd_0/InputSignal io_analog[6] vccd1 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=60
+X155 mpw5_submission_1/tia_core_0/VM36D mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 mpw5_submission_1/tia_core_0/VM39D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=12
+X156 a_194220_640623# mpw5_submission_1/eigth_mirror_0/I_In mpw5_submission_1/cmirror_channel_0/I_in_channel vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X157 vssd1 mpw5_submission_0/isource_0/VM3G mpw5_submission_0/isource_0/VM3D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=4
+X158 mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 mpw5_submission_1/tia_core_0/VM6D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=12
+X159 a_424970_636823# mpw5_submission_0/eigth_mirror_0/I_In mpw5_submission_0/eigth_mirror_0/I_out_7 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X160 vssd1 mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 sky130_fd_pr__cap_mim_m3_1 l=1.2e+07u w=1.5e+07u count=2
+X161 a_189446_646296# a_189976_648728# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X162 vssd1 mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias sky130_fd_pr__cap_mim_m3_1 l=2e+07u w=2e+07u count=2
+X163 vccd1 mpw5_submission_0/outd_0/V_da2_N vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=4
+X164 vccd1 mpw5_submission_0/isource_0/VM8D a_430136_654859# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u count=10
+X165 mpw5_submission_1/tia_core_0/VM6D mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=6
+X166 a_442498_643680# mpw5_submission_0/cmirror_channel_0/I_in_channel mpw5_submission_0/cmirror_channel_0/TIA_I_Bias2 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=2
+X167 vssd1 mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 sky130_fd_pr__cap_mim_m3_1 l=1.2e+07u w=1.5e+07u count=2
+X168 vssd1 mpw5_submission_0/isource_0/VM11D a_422158_661070# vssd1 sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u count=10
+X169 a_189936_658659# mpw5_submission_1/isource_0/VM8D mpw5_submission_1/isource_0/VM8D vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u count=2
+X170 mpw5_submission_0/outd_0/V_da1_N vccd1 vssd1 sky130_fd_pr__res_high_po_2p85 l=6e+06u count=4
+X171 a_428176_648806# a_428706_651238# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X172 mpw5_submission_0/isource_0/VM2D mpw5_submission_0/isource_0/VM2D vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=30
+X173 a_190170_640623# mpw5_submission_1/eigth_mirror_0/I_In mpw5_submission_1/eigth_mirror_0/I_out_3 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X174 vssd1 mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 mpw5_submission_0/tia_core_0/VM6D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=6
+X175 vssd1 mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias sky130_fd_pr__cap_mim_m3_1 l=2e+07u w=2e+07u count=2
+X176 vssd1 mpw5_submission_1/isource_0/VM3G mpw5_submission_1/isource_0/VM3D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=4
+X177 a_431720_636823# mpw5_submission_0/eigth_mirror_0/I_In mpw5_submission_0/eigth_mirror_0/I_out_2 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X178 mpw5_submission_1/outd_0/V_da2_P vccd1 vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=4
+X179 mpw5_submission_0/tia_core_0/VM5D mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 io_analog[3] vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=11
+X180 vccd1 mpw5_submission_1/outd_0/V_da2_P vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=4
+X181 vssd1 a_428706_651238# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X182 a_186916_652606# a_186386_655038# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X183 mpw5_submission_0/outd_0/V_da2_P vccd1 vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=4
+X184 mpw5_submission_0/isource_0/VM8D a_422158_661070# vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=500000u l=2e+06u count=1
+X185 mpw5_submission_0/isource_0/VM3G a_424386_651238# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X186 mpw5_submission_1/outd_0/V_da2_N vccd1 vssd1 sky130_fd_pr__res_high_po_5p73 l=4e+06u count=4
+X187 mpw5_submission_1/cmirror_channel_0/TIA_I_Bias2 mpw5_submission_1/cmirror_channel_0/I_in_channel a_202298_647480# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=2
+X188 vssd1 a_431236_644928# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X189 a_427670_636823# mpw5_submission_0/eigth_mirror_0/I_In mpw5_submission_0/eigth_mirror_0/I_out_5 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X190 a_426320_636823# mpw5_submission_0/eigth_mirror_0/I_In mpw5_submission_0/eigth_mirror_0/I_out_6 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X191 a_184770_640623# mpw5_submission_1/eigth_mirror_0/I_In mpw5_submission_1/eigth_mirror_0/I_out_7 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X192 mpw5_submission_0/tia_core_0/VM5D mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=6
+X193 mpw5_submission_1/outd_0/V_da1_N vccd1 vssd1 sky130_fd_pr__res_high_po_2p85 l=6e+06u count=4
+X194 a_186916_652606# a_187446_655038# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X195 a_441658_643680# mpw5_submission_0/cmirror_channel_0/I_in_channel a_441720_645346# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=2
+X196 vccd1 vssd1 sky130_fd_pr__cap_mim_m3_2 l=3e+07u w=3e+07u count=4
+X197 vssd1 io_analog[7] mpw5_submission_0/cmirror_channel_0/TIA_I_Bias1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=5
+X198 mpw5_submission_1/tia_core_0/VM5D mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=6
+X199 mpw5_submission_1/isource_0/VM8D a_181958_664870# vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=500000u l=2e+06u count=1
+X200 vssd1 mpw5_submission_0/isource_0/VM12G mpw5_submission_0/isource_0/VM14D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=2
+X201 vssd1 a_191036_648728# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X202 a_186120_640623# mpw5_submission_1/eigth_mirror_0/I_In mpw5_submission_1/eigth_mirror_0/I_out_6 vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X203 mpw5_submission_1/eigth_mirror_0/I_out_2 mpw5_submission_1/eigth_mirror_0/I_In a_191520_640623# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X204 a_201520_649146# mpw5_submission_1/cmirror_channel_0/I_in_channel a_201458_647480# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=2
+X205 a_433070_636823# mpw5_submission_0/eigth_mirror_0/I_In io_analog[2] vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=1.74e+12p ps=1.374e+07u w=2e+06u l=200000u count=1
+X206 mpw5_submission_1/isource_0/VM12G a_184186_655038# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X207 a_441920_645443# a_441720_645346# a_441720_645346# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X208 mpw5_submission_1/eigth_mirror_0/I_out_5 mpw5_submission_1/eigth_mirror_0/I_In a_187470_640623# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X209 vssd1 mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias a_224238_660400# vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=4
+X210 mpw5_submission_1/tia_core_0/VM36D mpw5_submission_1/cmirror_channel_0/TIA_I_Bias1 vssd1 vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=6
+X211 mpw5_submission_0/isource_0/VM3G a_425526_651238# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X212 vssd1 mpw5_submission_1/isource_0/VM12G mpw5_submission_1/isource_0/VM14D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=2
+X213 a_429646_642496# a_411216_644902# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X214 a_434420_636823# mpw5_submission_0/eigth_mirror_0/I_In mpw5_submission_0/cmirror_channel_0/I_in_channel vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=4
+X215 vccd1 a_441720_645346# sky130_fd_pr__cap_mim_m3_2 l=3e+07u w=3e+07u count=2
+X216 vccd1 a_201520_649146# sky130_fd_pr__cap_mim_m3_2 l=3e+07u w=3e+07u count=2
+X217 a_426056_648806# a_425526_651238# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X218 a_464438_656600# mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias mpw5_submission_0/cmirror_channel_0/A_Out_I_Bias vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=2
+X219 a_189446_646296# a_171016_648702# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X220 a_189936_660919# mpw5_submission_1/isource_0/VM8D mpw5_submission_1/isource_0/VM9D vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=200000u count=2
+X221 a_430706_642496# a_430176_644928# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X222 a_224238_660400# mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias mpw5_submission_1/cmirror_channel_0/A_Out_I_Bias vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=2
+X223 a_430706_642496# a_431236_644928# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X224 a_427116_648806# a_427646_651238# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X225 vccd1 io_analog[7] mpw5_submission_0/tia_core_0/Disable_TIA_B vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=500000u l=1e+06u count=1
+X226 a_190506_646296# a_189976_648728# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X227 a_428176_648806# a_427646_651238# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X228 a_185856_652606# a_185326_655038# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X229 a_190506_646296# a_191036_648728# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X230 a_185856_652606# a_186386_655038# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X231 mpw5_submission_0/isource_0/VM12G a_424386_651238# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X232 vccd1 mpw5_submission_1/tia_core_0/Disable_TIA mpw5_submission_1/tia_core_0/Disable_TIA_B vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=500000u l=1e+06u count=1
+X233 vccd1 mpw5_submission_0/isource_0/VM11D a_422158_661070# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=500000u l=2e+06u count=1
+X234 a_433070_636823# mpw5_submission_0/eigth_mirror_0/I_In io_analog[2] vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=3
+X235 a_187976_652606# a_188506_655038# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X236 vccd1 mpw5_submission_0/tia_core_0/VM40D sky130_fd_pr__cap_mim_m3_2 l=1.8e+07u w=2.5e+07u count=1
+X237 vccd1 mpw5_submission_0/isource_0/VM8D sky130_fd_pr__cap_mim_m3_1 l=2e+07u w=2e+07u count=1
+X238 vssd1 io_analog[7] mpw5_submission_0/tia_core_0/Disable_TIA_B vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=500000u l=1e+06u count=1
+X239 vccd1 mpw5_submission_1/isource_0/VM11D a_181958_664870# vccd1 sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=500000u l=2e+06u count=1
+X240 vssd1 a_188506_655038# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X241 mpw5_submission_1/isource_0/VM3G a_184186_655038# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X242 mpw5_submission_0/tia_core_0/Disable_TIA_B vssd1 vssd1 sky130_fd_pr__cap_var_lvt pd=0u ps=0u ad=0p as=0p w=5e+06u l=2e+06u count=5
+X243 vccd1 mpw5_submission_1/tia_core_0/VM40D sky130_fd_pr__cap_mim_m3_2 l=1.8e+07u w=2.5e+07u count=1
+X244 a_187976_652606# a_187446_655038# vssd1 sky130_fd_pr__res_xhigh_po_1p41 l=1e+07u count=1
+X245 vccd1 mpw5_submission_0/tia_core_0/VM28D sky130_fd_pr__cap_mim_m3_2 l=1.8e+07u w=2.5e+07u count=1
+X246 vccd1 mpw5_submission_1/tia_core_0/VM28D sky130_fd_pr__cap_mim_m3_2 l=1.8e+07u w=2.5e+07u count=1
+X247 vssd1 mpw5_submission_1/tia_core_0/Disable_TIA mpw5_submission_1/tia_core_0/Disable_TIA_B vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=500000u l=1e+06u count=1
+X248 vssd1 mpw5_submission_0/isource_0/VM12G mpw5_submission_0/isource_0/VM12D vssd1 sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u count=2

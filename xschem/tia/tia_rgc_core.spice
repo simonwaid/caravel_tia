@@ -1,6 +1,13 @@
 ** sch_path: /home/simon/code/caravel_tia/xschem/tia/tia_rgc_core.sch
-
-*.PININFO VN:B VP:B Out_2:O I_Bias1:I Input:I Disable_TIA:I Out_1:O Out_ref:O
+**.subckt tia_rgc_core VN VP Out_2 I_Bias1 Input Disable_TIA Out_1 Out_ref
+*.iopin VN
+*.iopin VP
+*.opin Out_2
+*.ipin I_Bias1
+*.ipin Input
+*.ipin Disable_TIA
+*.opin Out_1
+*.opin Out_ref
 XM5 VM5D I_Bias1 VN VN sky130_fd_pr__nfet_01v8 L=1 W=2 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
 + pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
 + sa=0 sb=0 sd=0 mult=6 m=6
@@ -60,9 +67,14 @@ XM35 VM31D VN VP VP sky130_fd_pr__pfet_01v8 L=0.5 W=2 nf=1 ad='int((nf+1)/2) * W
 + pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
 + sa=0 sb=0 sd=0 mult=10 m=10
 XC7 VP VN sky130_fd_pr__cap_mim_m3_2 W=30 L=30 MF=1 m=1
-XC2 VP VM28D sky130_fd_pr__cap_mim_m3_2 W=20 L=30 MF=1 m=1
+XC2 VP VM28D sky130_fd_pr__cap_mim_m3_2 W=25 L=18 MF=1 m=1
 XC5 VN I_Bias1 sky130_fd_pr__cap_mim_m3_1 W=15 L=12 MF=1 m=1
 XC4 VN I_Bias1 sky130_fd_pr__cap_mim_m3_1 W=15 L=12 MF=1 m=1
-XC1 VP VM40D sky130_fd_pr__cap_mim_m3_2 W=20 L=30 MF=1 m=1
-XC3 Disable_TIA_B VN VN sky130_fd_pr__cap_var_lvt W=2 L=5 VM=5
-
+XC1 VP VM40D sky130_fd_pr__cap_mim_m3_2 W=25 L=18 MF=1 m=1
+XC10 Disable_TIA_B VN VN sky130_fd_pr__cap_var_lvt W=5 L=2 VM=1
+XC3 Disable_TIA_B VN VN sky130_fd_pr__cap_var_lvt W=5 L=2 VM=1
+XC6 Disable_TIA_B VN VN sky130_fd_pr__cap_var_lvt W=5 L=2 VM=1
+XC8 Disable_TIA_B VN VN sky130_fd_pr__cap_var_lvt W=5 L=2 VM=1
+XC9 Disable_TIA_B VN VN sky130_fd_pr__cap_var_lvt W=5 L=2 VM=1
+**.ends
+.end

@@ -98,7 +98,7 @@ X94 a_19136_9959# VM8D VP VP sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4
 X95 VP VM14D VM12G VM12G sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=150000u
 X96 a_19136_919# VM8D VP VP sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
 X97 a_19136_919# VM8D VP VP sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
-X98 VM12D VM2D VM11D dw_12120_8840# sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u
+X98 VM12D VM2D VM11D VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=6e+06u
 X99 VM9D VM9D VM2D VM2D sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u
 X100 VM12G VM14D VP VM12G sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=4e+06u l=150000u
 X101 VP VM8D a_19136_919# VP sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=4e+06u l=1e+06u

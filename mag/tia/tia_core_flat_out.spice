@@ -1,0 +1,32 @@
+* SPICE3 file created from tia_core_flat.ext - technology: sky130A
+X1 VM40D VM39D Out_ref VN sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=100
+X2 VM28D Input Out_1 VN sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=3.016e+13p ps=2.3816e+08u w=2e+06u l=200000u count=1
+X3 Out_1 Input VM28D VN sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=99
+X4 Out_2 Out_1 Input Input sky130_fd_pr__nfet_01v8_lvt ad=9.28e+12p pd=7.328e+07u as=1.324e+13p ps=1.0124e+08u w=2e+06u l=200000u count=1
+X5 VN Disable_TIA_B VM28D VN sky130_fd_pr__nfet_01v8 ad=1.01615e+14p pd=6.645e+08u as=0p ps=0u w=2e+06u l=150000u count=1
+X6 VM40D Disable_TIA_B VN VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=100
+X7 VM39D Out_ref VM31D VM39D sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=30
+X8 VPP VM39D Out_ref VPP sky130_fd_pr__pfet_01v8 ad=4.3065e+13p pd=3.405e+08u as=0p ps=0u w=2e+06u l=200000u count=1
+X9 VN Disable_TIA_B VM28D VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=99
+X10 Out_1 Input VPP VPP sky130_fd_pr__pfet_01v8 ad=1.856e+13p pd=1.4656e+08u as=0p ps=0u w=2e+06u l=200000u count=1
+X11 VM5D I_Bias1 Input VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=12
+X12 VPP VN Out_2 VPP sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=3.48e+12p ps=2.748e+07u w=2e+06u l=500000u count=1
+X13 Out_2 Out_1 Input Input sky130_fd_pr__nfet_01v8_lvt ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=29
+X14 Out_1 Input VPP VPP sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=59
+X15 VM39D I_Bias1 VM36D VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=12
+X16 VPP VM39D Out_ref VPP sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=200000u count=59
+X17 VPP VN sky130_fd_pr__cap_mim_m3_2 l=3e+07u w=3e+07u count=2
+X18 VN I_Bias1 VM6D VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=6
+X19 VN I_Bias1 VM36D VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=6
+X20 VPP Disable_TIA Disable_TIA_B VPP sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=500000u l=1e+06u count=1
+X21 VPP VN Out_2 VPP sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=9
+X22 VM5D I_Bias1 VN VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=1e+06u count=6
+X23 I_Bias1 I_Bias1 VM6D VN sky130_fd_pr__nfet_01v8 ad=5.9e+12p pd=4.19e+07u as=0p ps=0u w=2e+06u l=150000u count=1
+X24 VPP VN VM31D VPP sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=500000u count=10
+X25 VN I_Bias1 sky130_fd_pr__cap_mim_m3_1 l=1.2e+07u w=1.5e+07u count=2
+X26 VM6D I_Bias1 I_Bias1 VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=11
+X27 VN Disable_TIA Disable_TIA_B VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=500000u l=1e+06u count=1
+X28 VN Disable_TIA I_Bias1 VN sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=2e+06u l=150000u count=5
+X29 Disable_TIA_B VN VN sky130_fd_pr__cap_var_lvt pd=0u ps=0u ad=0p as=0p w=5e+06u l=2e+06u count=5
+X30 VPP VM28D sky130_fd_pr__cap_mim_m3_2 l=1.8e+07u w=2.5e+07u count=1
+X31 VPP VM40D sky130_fd_pr__cap_mim_m3_2 l=1.8e+07u w=2.5e+07u count=1

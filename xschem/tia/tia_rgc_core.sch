@@ -83,16 +83,16 @@ N 650 -830 700 -830 { lab=VN}
 N 650 -830 650 -180 { lab=VN}
 N 930 -250 1040 -250 { lab=VM28D}
 N 1490 -770 1490 -390 { lab=Out_ref}
-N 1330 -700 1490 -700 { lab=Out_ref}
+N 1330 -640 1490 -640 { lab=Out_ref}
 N 1430 -360 1450 -360 { lab=VM39D}
 N 1430 -800 1430 -360 { lab=VM39D}
 N 1430 -800 1450 -800 { lab=VM39D}
-N 1290 -670 1290 -600 { lab=VM39D}
-N 1290 -700 1290 -670 { lab=VM39D}
+N 1290 -610 1290 -540 { lab=VM39D}
+N 1290 -640 1290 -610 { lab=VM39D}
 N 1490 -830 1490 -800 { lab=VP}
 N 1490 -880 1490 -830 { lab=VP}
-N 1290 -760 1290 -730 { lab=VM31D}
-N 1290 -600 1290 -400 { lab=VM39D}
+N 1290 -760 1290 -670 { lab=VM31D}
+N 1290 -540 1290 -400 { lab=VM39D}
 N 1250 -370 1250 -240 { lab=I_Bias1}
 N 1290 -370 1370 -370 { lab=VN}
 N 1370 -370 1370 -180 { lab=VN}
@@ -109,23 +109,21 @@ N 1200 -810 1250 -810 { lab=VN}
 N 1200 -810 1200 -180 { lab=VN}
 N 860 -220 890 -220 { lab=Disable_TIA_B}
 N 1420 -220 1450 -220 { lab=Disable_TIA_B}
-N 1290 -650 1430 -650 { lab=VM39D}
+N 1290 -590 1430 -590 { lab=VM39D}
 N 700 -420 700 -370 { lab=I_Bias1}
 N 700 -420 1250 -420 { lab=I_Bias1}
 N 1250 -420 1250 -370 { lab=I_Bias1}
-N 1030 -820 1140 -820 { lab=VM28D}
 N 1140 -820 1140 -250 { lab=VM28D}
 N 1040 -250 1140 -250 { lab=VM28D}
 N 350 -240 510 -240 { lab=I_Bias1}
 N 510 -240 700 -240 { lab=I_Bias1}
-N 1590 -820 1700 -820 { lab=VM40D}
+N 1590 -880 1700 -880 { lab=VP}
 N 1700 -820 1700 -250 { lab=VM40D}
 N -520 -820 -350 -820 { lab=VN}
 N -540 -760 -520 -760 { lab=VP}
 N -540 -880 -540 -760 { lab=VP}
 N -350 -820 -350 -180 { lab=VN}
 N -150 -360 -70 -360 { lab=Disable_TIA_B}
-N -70 -300 -70 -180 { lab=VN}
 N 930 -770 930 -720 { lab=Out_1}
 N 580 -570 740 -570 { lab=Input}
 N 740 -570 870 -570 { lab=Input}
@@ -133,17 +131,29 @@ N 740 -710 740 -680 { lab=Out_2}
 N 740 -590 740 -550 { lab=Input}
 N 740 -750 760 -750 { lab=Out_2}
 N 740 -860 740 -830 { lab=VP}
-N 1490 -620 1510 -620 { lab=Out_ref}
+N 1490 -560 1510 -560 { lab=Out_ref}
 N 1490 -250 1700 -250 { lab=VM40D}
 N 880 -880 1590 -880 { lab=VP}
 N 930 -360 1050 -360 { lab=VN}
 N 1050 -360 1050 -180 { lab=VN}
 N 1490 -360 1590 -360 { lab=VN}
 N 1590 -360 1590 -180 { lab=VN}
-N -110 -310 -110 -290 { lab=VN}
-N -110 -290 -70 -290 { lab=VN}
 N -530 -180 1590 -180 { lab=VN}
 N -520 -760 -430 -760 { lab=VP}
+N -260 -70 -260 -40 { lab=VN}
+N -260 -40 220 -40 { lab=VN}
+N 220 -60 220 -40 { lab=VN}
+N 180 -70 180 -40 { lab=VN}
+N 70 -70 70 -40 { lab=VN}
+N -40 -70 -40 -40 { lab=VN}
+N -150 -70 -150 -40 { lab=VN}
+N 110 -60 110 -40 { lab=VN}
+N 0 -60 0 -40 { lab=VN}
+N -110 -60 -110 -40 { lab=VN}
+N -220 -60 -220 -40 { lab=VN}
+N -220 -120 220 -120 { lab=Disable_TIA_B}
+N -70 -360 -70 -120 { lab=Disable_TIA_B}
+N -260 -180 -260 -70 { lab=VN}
 C {devices/iopin.sym} -530 -180 0 1 {name=p4 lab=VN}
 C {devices/iopin.sym} -550 -880 0 1 {name=p5 lab=VP}
 C {devices/ngspice_get_value.sym} 550 -370 0 0 {name=r6 node="@m.xtia.xm10.msky130_fd_pr__pfet_01v8[gm]"
@@ -405,7 +415,7 @@ sa=0 sb=0 sd=0
 model=nfet_01v8_lvt
 spiceprefix=X
 }
-C {sky130_fd_pr/nfet_01v8_lvt.sym} 1310 -700 0 1 {name=M31
+C {sky130_fd_pr/nfet_01v8_lvt.sym} 1310 -640 0 1 {name=M31
 L=0.2
 W=2
 nf=1
@@ -433,15 +443,19 @@ sa=0 sb=0 sd=0
 model=pfet_01v8
 spiceprefix=X
 }
-C {devices/opin.sym} 1510 -620 0 0 {name=p3 lab=Out_ref}
+C {devices/opin.sym} 1510 -560 0 0 {name=p3 lab=Out_ref}
 C {sky130_fd_pr/cap_mim_m3_2.sym} -430 -790 2 0 {name=C7 model=cap_mim_m3_2 W=30 L=30 MF=1 spiceprefix=X}
-C {sky130_fd_pr/cap_mim_m3_2.sym} 1030 -850 0 0 {name=C2 model=cap_mim_m3_2 W=20 L=30 MF=1 spiceprefix=X}
+C {sky130_fd_pr/cap_mim_m3_2.sym} 1140 -850 0 1 {name=C2 model=cap_mim_m3_2 W=25 L=18 MF=1 spiceprefix=X}
 C {sky130_fd_pr/cap_mim_m3_1.sym} 570 -210 2 0 {name=C5 model=cap_mim_m3_1 W=15 L=12 MF=1 spiceprefix=X}
 C {sky130_fd_pr/cap_mim_m3_1.sym} 460 -210 2 0 {name=C4 model=cap_mim_m3_1 W=15 L=12 MF=1 spiceprefix=X}
-C {sky130_fd_pr/cap_mim_m3_2.sym} 1590 -850 0 0 {name=C1 model=cap_mim_m3_2 W=20 L=30 MF=1 spiceprefix=X}
-C {sky130_fd_pr/cap_var_lvt.sym} -70 -330 0 0 {name=C3 model=cap_var_lvt W=2 L=5 VM=5 spiceprefix=X}
-C {devices/lab_wire.sym} 1290 -590 0 1 {name=l2 sig_type=std_logic lab=VM39D}
+C {devices/lab_wire.sym} 1290 -530 0 1 {name=l2 sig_type=std_logic lab=VM39D}
 C {devices/lab_wire.sym} 1490 -270 0 1 {name=l3 sig_type=std_logic lab=VM40D}
 C {devices/lab_wire.sym} 1290 -280 0 1 {name=l4 sig_type=std_logic lab=VM36D}
 C {devices/lab_wire.sym} 1290 -750 0 1 {name=l5 sig_type=std_logic lab=VM31D}
 C {devices/lab_wire.sym} 310 -270 0 0 {name=l7 sig_type=std_logic lab=VM6D}
+C {sky130_fd_pr/cap_mim_m3_2.sym} 1700 -850 0 1 {name=C1 model=cap_mim_m3_2 W=25 L=18 MF=1 spiceprefix=X}
+C {sky130_fd_pr/cap_var_lvt.sym} -220 -90 0 0 {name=C10 model=cap_var_lvt W=5 L=2 VM=1 spiceprefix=X}
+C {sky130_fd_pr/cap_var_lvt.sym} -110 -90 0 0 {name=C3 model=cap_var_lvt W=5 L=2 VM=1 spiceprefix=X}
+C {sky130_fd_pr/cap_var_lvt.sym} 0 -90 0 0 {name=C6 model=cap_var_lvt W=5 L=2 VM=1 spiceprefix=X}
+C {sky130_fd_pr/cap_var_lvt.sym} 110 -90 0 0 {name=C8 model=cap_var_lvt W=5 L=2 VM=1 spiceprefix=X}
+C {sky130_fd_pr/cap_var_lvt.sym} 220 -90 0 0 {name=C9 model=cap_var_lvt W=5 L=2 VM=1 spiceprefix=X}

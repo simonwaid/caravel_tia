@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1647007514
+timestamp 1647254192
 << psubdiff >>
 rect 8476 13900 8500 15280
 rect 10040 13900 10064 15280
@@ -450,51 +450,51 @@ rect 21060 -4660 21084 -4240
 rect 20680 -4680 21084 -4660
 rect 20736 -4684 21084 -4680
 use isource_cmirror#0  isource_cmirror_2
-timestamp 1646743514
+timestamp 1647254192
 transform 1 0 18900 0 1 9740
 box 0 0 2044 2280
 use isource_cmirror#0  isource_cmirror_3
-timestamp 1646743514
+timestamp 1647254192
 transform 1 0 18900 0 1 7480
 box 0 0 2044 2280
 use isource_conv  isource_conv_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 9200 0 1 -6200
 box 3980 6900 13920 13860
 use isource_conv_tsmal_nwell  isource_conv_tsmal_nwell_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 12044 0 1 -1430
 box 4070 6210 5960 9050
 use isource_diffamp  isource_diffamp_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 -280 0 1 16996
 box 14560 -8200 18240 -5200
 use isource_diffamp  isource_diffamp_1
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 -280 0 1 21120
 box 14560 -8200 18240 -5200
 use isource_out  isource_out_0
-timestamp 1646993950
+timestamp 1647254192
 transform 1 0 -4300 0 1 -13810
 box 4320 8980 25514 15188
 use isource_ref  isource_ref_0
-timestamp 1647007514
+timestamp 1647254192
 transform 1 0 20 0 1 40
 box -30 -40 13220 13420
 use isource_startup  isource_startup_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 10820 0 1 13700
 box 200 0 2352 1238
 use sky130_fd_pr__cap_mim_m3_1_WXTTNJ#0  sky130_fd_pr__cap_mim_m3_1_WXTTNJ_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 19490 0 1 10040
 box -2150 -2100 2149 2100
 use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#1  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_0
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 7151 0 1 1700
 box -3351 -3101 3373 3101
 use sky130_fd_pr__cap_mim_m3_2_LJ5JLG#1  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_1
-timestamp 1646921651
+timestamp 1647254192
 transform 1 0 7151 0 1 8700
 box -3351 -3101 3373 3101
 << labels >>
